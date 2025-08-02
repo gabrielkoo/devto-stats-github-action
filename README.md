@@ -1,5 +1,7 @@
 # 📊 dev.to Article Activity Graphs
 
+> 🤖 This entire project was created by [Kiro IDE](https://kiro.dev/) - an AI-powered development environment
+
 GitHub-style contribution graphs for your dev.to article analytics
 
 This repository fetches your article statistics on dev.to weekly via its v1 API and generates beautiful visualizations of your writing activity.
