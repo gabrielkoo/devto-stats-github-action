@@ -6,6 +6,11 @@ GitHub-style contribution graphs for your dev.to article analytics
 
 This repository fetches your article statistics on dev.to weekly via its v1 API and generates beautiful visualizations of your writing activity.
 
+## 🌐 Traffic Sources Analysis
+Shows your top referrers with a beautiful pie chart
+
+![Traffic Sources](graphs/traffic_sources_pie.svg)
+
 ## 📈 Views Activity
 Shows daily article views with GitHub's classic green color scheme
 
@@ -45,6 +50,10 @@ python3 generate_advanced_graph.py --metric combined --color orange
 # Top articles graphs
 python3 generate_top_articles.py --metric views --count 3
 python3 generate_top_articles.py --metric reactions --count 5
+
+# Traffic sources analysis
+python3 generate_traffic_pie_chart.py
+python3 generate_traffic_pie_chart.py --count 15  # Show top 15 instead of 10
 ```
 
 **Activity graph options:**
@@ -130,3 +139,13 @@ This repository includes a GitHub Actions workflow that automatically updates yo
 
 **Manual trigger:**
 Go to Actions → "Update Dev.to Stats" → "Run workflow" to update immediately.
+
+---
+
+## 🚀 Get Started
+
+Ready to create your own dev.to analytics visualizations? Check out the complete source code and documentation:
+
+**[📊 devto-stats-github-action](https://github.com/gabrielkoo/devto-stats-github-action)**
+
+Fork the repository, add your dev.to API key, and start generating beautiful GitHub-style contribution grids for your articles!

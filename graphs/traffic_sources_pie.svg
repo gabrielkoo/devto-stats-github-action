@@ -1,0 +1,80 @@
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 600; fill: #1f2937; }
+            .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; fill: #6b7280; }
+            .legend-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; fill: #374151; font-weight: 500; }
+            .legend-percentage { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #6b7280; }
+            .slice { cursor: pointer; }
+            .slice:hover { opacity: 0.8; }
+        </style>
+    </defs>
+    
+    <!-- Title -->
+    <text x="500" y="30" text-anchor="middle" class="title">Top Traffic Sources</text>
+    <text x="500" y="50" text-anchor="middle" class="subtitle">Top 10 sources: 14,974 views (78.4% of 19,096 total)</text>
+    
+    <path d="M 300 300 L 300.0 120.0 A 180 180 0 0 1 390.9046141818385 455.3587819225263 Z" fill="#1f77b4" class="slice">
+        <title>Direct Traffic: 7,939 views (41.6%)</title>
+    </path>
+    <path d="M 300 300 L 390.9046141818385 455.3587819225263 A 180 180 0 0 1 148.8310468977766 397.713599964272 Z" fill="#ff7f0e" class="slice">
+        <title>google.com: 4,639 views (24.3%)</title>
+    </path>
+    <path d="M 300 300 L 148.8310468977766 397.713599964272 A 180 180 0 0 1 132.19152212058881 365.1176992206817 Z" fill="#2ca02c" class="slice">
+        <title>t.co: 619 views (3.2%)</title>
+    </path>
+    <path d="M 300 300 L 132.19152212058881 365.1176992206817 A 180 180 0 0 1 122.86524346998371 331.9887172148533 Z" fill="#d62728" class="slice">
+        <title>linkedin.com: 582 views (3.0%)</title>
+    </path>
+    <path d="M 300 300 L 122.86524346998371 331.9887172148533 A 180 180 0 0 1 120.06874614659739 304.9743227420817 Z" fill="#9467bd" class="slice">
+        <title>dev.to: 459 views (2.4%)</title>
+    </path>
+    <path d="M 300 300 L 120.06874614659739 304.9743227420817 A 180 180 0 0 1 120.0754488172891 294.78886944127754 Z" fill="#8c564b" class="slice">
+        <title>office.net: 172 views (0.9%)</title>
+    </path>
+    <path d="M 300 300 L 120.0754488172891 294.78886944127754 A 180 180 0 0 1 120.65826270315645 284.62010197205603 Z" fill="#e377c2" class="slice">
+        <title>duckduckgo.com: 172 views (0.9%)</title>
+    </path>
+    <path d="M 300 300 L 120.65826270315645 284.62010197205603 A 180 180 0 0 1 121.6997509781103 275.3216451372438 Z" fill="#7f7f7f" class="slice">
+        <title>bing.com: 158 views (0.8%)</title>
+    </path>
+    <path d="M 300 300 L 121.6997509781103 275.3216451372438 A 180 180 0 0 1 122.82329571644385 268.2444420735944 Z" fill="#bcbd22" class="slice">
+        <title>facebook.com: 121 views (0.6%)</title>
+    </path>
+    <path d="M 300 300 L 122.82329571644385 268.2444420735944 A 180 180 0 0 1 124.12616296710624 261.6803777768214 Z" fill="#17becf" class="slice">
+        <title>mrugalski.pl: 113 views (0.6%)</title>
+    </path>
+    <!-- Legend -->
+    <text x="550" y="100" class="legend-text" style="font-size: 16px; font-weight: 600;">Traffic Sources</text>
+    <rect x="550" y="108" width="18" height="18" fill="#1f77b4" rx="3"/>
+    <text x="578" y="120" class="legend-text">Direct Traffic</text>
+    <text x="578" y="135" class="legend-percentage">7,939 views (41.6%)</text>
+    <rect x="550" y="138" width="18" height="18" fill="#ff7f0e" rx="3"/>
+    <text x="578" y="150" class="legend-text">google.com</text>
+    <text x="578" y="165" class="legend-percentage">4,639 views (24.3%)</text>
+    <rect x="550" y="168" width="18" height="18" fill="#2ca02c" rx="3"/>
+    <text x="578" y="180" class="legend-text">t.co</text>
+    <text x="578" y="195" class="legend-percentage">619 views (3.2%)</text>
+    <rect x="550" y="198" width="18" height="18" fill="#d62728" rx="3"/>
+    <text x="578" y="210" class="legend-text">linkedin.com</text>
+    <text x="578" y="225" class="legend-percentage">582 views (3.0%)</text>
+    <rect x="550" y="228" width="18" height="18" fill="#9467bd" rx="3"/>
+    <text x="578" y="240" class="legend-text">dev.to</text>
+    <text x="578" y="255" class="legend-percentage">459 views (2.4%)</text>
+    <rect x="550" y="258" width="18" height="18" fill="#8c564b" rx="3"/>
+    <text x="578" y="270" class="legend-text">office.net</text>
+    <text x="578" y="285" class="legend-percentage">172 views (0.9%)</text>
+    <rect x="550" y="288" width="18" height="18" fill="#e377c2" rx="3"/>
+    <text x="578" y="300" class="legend-text">duckduckgo.com</text>
+    <text x="578" y="315" class="legend-percentage">172 views (0.9%)</text>
+    <rect x="550" y="318" width="18" height="18" fill="#7f7f7f" rx="3"/>
+    <text x="578" y="330" class="legend-text">bing.com</text>
+    <text x="578" y="345" class="legend-percentage">158 views (0.8%)</text>
+    <rect x="550" y="348" width="18" height="18" fill="#bcbd22" rx="3"/>
+    <text x="578" y="360" class="legend-text">facebook.com</text>
+    <text x="578" y="375" class="legend-percentage">121 views (0.6%)</text>
+    <rect x="550" y="378" width="18" height="18" fill="#17becf" rx="3"/>
+    <text x="578" y="390" class="legend-text">mrugalski.pl</text>
+    <text x="578" y="405" class="legend-percentage">113 views (0.6%)</text>
+    <text x="990" y="590" text-anchor="end" class="legend-percentage">Generated: 2025-08-02 10:49 UTC</text>
+</svg>
