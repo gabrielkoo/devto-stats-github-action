@@ -4,6 +4,24 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
+  "referrers": [
+    {
+      "domain": null,
+      "count": 38
+    },
+    {
+      "domain": "google.com",
+      "count": 31
+    },
+    {
+      "domain": "dev.to",
+      "count": 11
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-15",

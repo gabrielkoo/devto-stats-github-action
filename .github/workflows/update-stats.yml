@@ -2,7 +2,7 @@ name: Update Dev.to Stats
 
 on:
   schedule:
-    # Run daily at 0 AM UTC
+    # Run daily at midnight UTC
     - cron: '0 0 * * *'
   push:
     branches: [ main ]
@@ -36,16 +36,16 @@ jobs:
         echo "DEVTO_API_KEY=${{ secrets.DEVTO_API_KEY }}" > .env
 
     - name: Fetch updated stats
-      run: python fetch_stats.py --from-second-last-day
+      run: python3 fetch_stats.py --from-second-last-day
 
     - name: Generate graphs
       run: |
         mkdir -p graphs
-        python generate_advanced_graph.py --metric combined --output ./graphs/devto_combined_graph.svg
-        python generate_advanced_graph.py --metric views --output ./graphs/devto_views_graph.svg
-        python generate_advanced_graph.py --metric reactions --output ./graphs/devto_reactions_graph.svg
-        python generate_top_articles.py --metric views --count 3 --output ./graphs/top_3_views.svg
-        python generate_top_articles.py --metric reactions --count 3 --output ./graphs/top_3_reactions.svg
+        python3 generate_advanced_graph.py --metric combined --output ./graphs/devto_combined_graph.svg
+        python3 generate_advanced_graph.py --metric views --output ./graphs/devto_views_graph.svg
+        python3 generate_advanced_graph.py --metric reactions --output ./graphs/devto_reactions_graph.svg
+        python3 generate_top_articles.py --metric views --count 3 --output ./graphs/top_3_views.svg
+        python3 generate_top_articles.py --metric reactions --count 3 --output ./graphs/top_3_reactions.svg
 
     - name: Commit and push changes
       run: |

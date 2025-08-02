@@ -16,7 +16,7 @@ def load_account_data():
         with open('./data/account.json', 'r') as f:
             return json.load(f)
     except FileNotFoundError:
-        print("Error: ./data/account.json not found. Run fetch_stats.sh first.")
+        print("Error: ./data/account.json not found. Run fetch_stats.py first.")
         sys.exit(1)
 
 def get_color_scheme(scheme_name):

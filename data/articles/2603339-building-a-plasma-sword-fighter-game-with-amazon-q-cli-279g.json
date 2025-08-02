@@ -4,6 +4,28 @@
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
+  "referrers": [
+    {
+      "domain": null,
+      "count": 42
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 27
+    },
+    {
+      "domain": "dev.to",
+      "count": 7
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 6
+    },
+    {
+      "domain": "google.com",
+      "count": 2
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-18",

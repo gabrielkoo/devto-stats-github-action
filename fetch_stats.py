@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Python version of fetch_stats.sh
 Fetches Dev.to article statistics and analytics data
 """
 
@@ -37,13 +36,11 @@ class DevToStatsFetcher:
         with open(env_path) as f:
             for line in f:
                 line = line.strip()
-                if line.startswith("API_KEY="):
-                    api_key = line.split("=", 1)[1].strip('"\'')
-                elif line.startswith("DEVTO_API_KEY="):
+                if line.startswith("DEVTO_API_KEY="):
                     api_key = line.split("=", 1)[1].strip('"\'')
 
         if not api_key:
-            print("Error: Neither API_KEY nor DEVTO_API_KEY set in .env file")
+            print("Error: DEVTO_API_KEY not set in .env file")
             sys.exit(1)
 
         return api_key
@@ -68,6 +65,28 @@ class DevToStatsFetcher:
             return {}
         except json.JSONDecodeError:
             print(f"Error: Invalid JSON response for article {article_id}", file=sys.stderr)
+            return {}
+
+    def fetch_article_referrers(self, article_id: int, start_date: str = None, end_date: str = None) -> Dict[str, Any]:
+        """Fetch article referrer data"""
+        print(f"Fetching referrers for article {article_id}", file=sys.stderr)
+
+        url = f"{self.base_url}/analytics/referrers"
+        params = {"article_id": article_id}
+
+        # Add date range if provided
+        if start_date and end_date:
+            params.update({"start": start_date, "end": end_date})
+
+        try:
+            response = requests.get(url, headers=self.headers, params=params)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching referrers for article {article_id}: {e}", file=sys.stderr)
+            return {}
+        except json.JSONDecodeError:
+            print(f"Error: Invalid JSON response for referrers {article_id}", file=sys.stderr)
             return {}
 
     def fetch_published_articles(self) -> List[Dict[str, Any]]:
@@ -212,6 +231,10 @@ class DevToStatsFetcher:
         total_comments = sum(item["comments"] for item in final_breakdown)
         total_reactions = sum(item["reactions"] for item in final_breakdown)
 
+        # Fetch referrer data (all-time data for the article)
+        referrers_data = self.fetch_article_referrers(article_id)
+        referrers = referrers_data.get("domains", []) if referrers_data else []
+
         # Create article data
         article_data = {
             "title": article["title"],
@@ -219,6 +242,7 @@ class DevToStatsFetcher:
             "comments": total_comments,
             "reactions": total_reactions,
             "org_username": article_org_username,
+            "referrers": referrers,
             "breakdown": final_breakdown
         }
 
@@ -235,6 +259,7 @@ class DevToStatsFetcher:
         total_comments = 0
         total_reactions = 0
         all_breakdowns = []
+        all_referrers = {}
 
         # Process all article files
         for file_path in Path("./data/articles").glob("*.json"):
@@ -247,6 +272,15 @@ class DevToStatsFetcher:
                     total_comments += data.get("comments", 0)
                     total_reactions += data.get("reactions", 0)
                     all_breakdowns.extend(data.get("breakdown", []))
+
+                    # Aggregate referrer data
+                    for referrer in data.get("referrers", []):
+                        domain = referrer.get("domain")
+                        count = referrer.get("count", 0)
+                        if domain in all_referrers:
+                            all_referrers[domain] += count
+                        else:
+                            all_referrers[domain] = count
 
                 except (json.JSONDecodeError, KeyError):
                     print(f"Skipping invalid JSON file: {file_path}")
@@ -264,6 +298,12 @@ class DevToStatsFetcher:
 
         combined_breakdown = sorted(date_aggregates.values(), key=lambda x: x["date"])
 
+        # Convert referrers dict to sorted list
+        combined_referrers = [
+            {"domain": domain, "count": count}
+            for domain, count in sorted(all_referrers.items(), key=lambda x: x[1], reverse=True)
+        ]
+
         # Create account data
         account_data = {
             "articles": total_articles,
@@ -271,6 +311,7 @@ class DevToStatsFetcher:
             "comments": total_comments,
             "reactions": total_reactions,
             "username": self.username,
+            "referrers": combined_referrers,
             "breakdown": combined_breakdown
         }
 

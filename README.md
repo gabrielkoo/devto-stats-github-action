@@ -60,38 +60,55 @@ python3 generate_top_articles.py --metric reactions --count 5
 
 **Update data:**
 ```bash
-./fetch_stats.sh
+python3 fetch_stats.py
 ```
 
 ## Data Structure
 
 The application stores data in the following structure:
-- `./data/articles/{id}-{slug}.json` - Individual article statistics
-- `./data/account.json` - Account-wide statistics
+- `./data/articles/{id}-{slug}.json` - Individual article statistics with referrer data
+- `./data/account.json` - Account-wide statistics with aggregated referrer data
 - `./data/top_articles.json` - Top performing articles by metrics
+
+Each article file now includes:
+- Basic metrics: views, comments, reactions
+- Daily breakdown of activity
+- **Referrer data**: domains and their traffic counts
 
 ## API Endpoints
 
 The application uses the following dev.to API endpoints:
 - `/analytics/historical` - Historical analytics data for articles
-- `/analytics/referrers` - Referrer data for articles
+- `/analytics/referrers` - Referrer data showing traffic sources
 - `/articles/me/published` - List of published articles
-- `/articles/{username}/{slug}` - Individual article details
 
 ## Procedures
 
 1. List all published articles of the API key's user
 2. For each article,
-   - If it has been processed before (i.e. ./data/articles/{slug}.json exists), locate the 2nd last date in "breakdown", use the analytics and referrer APIs to update the `.breakdown` array with the new data.
-   - If it has not been processed before, create a new file with the article's ID and slug, and fetch the analytics and referrer data to populate the file. Start from the day when the article was published.
-3. Update the `./data/account.json` file with the total statistics of the user.
+   - If it has been processed before (i.e. ./data/articles/{id}-{slug}.json exists), locate the last date in "breakdown", use the analytics API to update the `.breakdown` array with new data from the next day.
+   - If it has not been processed before, create a new file with the article's ID and slug, and fetch the analytics data to populate the file. Start from the day when the article was published.
+   - **Fetch referrer data** using the `/analytics/referrers` endpoint to understand traffic sources
+3. Update the `./data/account.json` file with the total statistics and aggregated referrer data of the user.
+
+## Referrer Data
+
+The application now tracks where your article traffic comes from:
+- **Direct traffic** (domain: null) - users who visited directly
+- **Search engines** - google.com, bing.com, duckduckgo.com
+- **Social media** - linkedin.com, twitter (t.co), facebook.com
+- **Developer platforms** - dev.to, github.com, substack.com
+- **Other sources** - various websites and applications
+
+Use `add_referrers_to_all.py` to add referrer data to existing article files.
 
 ## Setup
 
 ### Local Setup
 1. Copy `.env.example` to `.env` and add your dev.to API key
-2. Run `python fetch_stats.py` to collect your article data
-3. Generate visualizations with the Python scripts above
+2. Install required dependencies: `pip install requests`
+3. Run `python3 fetch_stats.py` to collect your article data
+4. Generate visualizations with the Python scripts above
 
 ### Automated Daily Updates (GitHub Actions)
 
@@ -103,10 +120,10 @@ This repository includes a GitHub Actions workflow that automatically updates yo
 3. Add a new repository secret:
    - Name: `DEVTO_API_KEY`
    - Value: Your dev.to API key
-4. The workflow will run daily at 6 AM UTC and update your graphs
+4. The workflow will run daily at midnight UTC and update your graphs
 
 **Features:**
-- Runs daily to keep your stats current
+- Runs daily at midnight UTC to keep your stats current
 - Starts from the 2nd last day to refresh potentially incomplete data
 - Automatically commits and pushes updated graphs
 - Can be manually triggered from the Actions tab
