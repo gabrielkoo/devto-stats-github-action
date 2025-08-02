@@ -1,0 +1,1287 @@
+{
+  "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
+  "views": 5033,
+  "comments": 1,
+  "reactions": 30,
+  "org_username": "aws-builders",
+  "breakdown": [
+    {
+      "date": "2025-01-02",
+      "views": 31,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-03",
+      "views": 60,
+      "comments": 0,
+      "reactions": 7
+    },
+    {
+      "date": "2025-01-04",
+      "views": 40,
+      "comments": 0,
+      "reactions": 2
+    },
+    {
+      "date": "2025-01-05",
+      "views": 79,
+      "comments": 0,
+      "reactions": 5
+    },
+    {
+      "date": "2025-01-06",
+      "views": 40,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-07",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-08",
+      "views": 113,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-09",
+      "views": 40,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-10",
+      "views": 24,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-11",
+      "views": 23,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-12",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-13",
+      "views": 7,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-14",
+      "views": 78,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-15",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-16",
+      "views": 53,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-17",
+      "views": 33,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-18",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-20",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-21",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-22",
+      "views": 14,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-23",
+      "views": 28,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-24",
+      "views": 48,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-25",
+      "views": 2,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-01-26",
+      "views": 26,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-27",
+      "views": 55,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-28",
+      "views": 60,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-29",
+      "views": 14,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-30",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-01-31",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-01",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-02",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-03",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-04",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-05",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-06",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-08",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-12",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-13",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-14",
+      "views": 4,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-16",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-17",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-18",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-20",
+      "views": 2,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-02-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-25",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-02-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-01",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-03",
+      "views": 3,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-04",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-06",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-08",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-09",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-12",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-14",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-16",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-17",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-21",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-23",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-24",
+      "views": 21,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-25",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-26",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-29",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-03-30",
+      "views": 3,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-03-31",
+      "views": 20,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-04-01",
+      "views": 64,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-02",
+      "views": 24,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-03",
+      "views": 36,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-04",
+      "views": 52,
+      "comments": 1,
+      "reactions": 1
+    },
+    {
+      "date": "2025-04-05",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-06",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-07",
+      "views": 51,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-08",
+      "views": 44,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-09",
+      "views": 3,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-10",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-11",
+      "views": 52,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-12",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-14",
+      "views": 51,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-15",
+      "views": 41,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-16",
+      "views": 32,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-17",
+      "views": 14,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-18",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-19",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-21",
+      "views": 32,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-22",
+      "views": 45,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-04-23",
+      "views": 79,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-24",
+      "views": 21,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-25",
+      "views": 3,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-27",
+      "views": 13,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-28",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-29",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-04-30",
+      "views": 15,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-01",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-02",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-03",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-04",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-05",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-06",
+      "views": 53,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-07",
+      "views": 13,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-08",
+      "views": 26,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-09",
+      "views": 70,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-11",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-12",
+      "views": 80,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-13",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-14",
+      "views": 56,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-15",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-16",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-17",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-18",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-19",
+      "views": 71,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-20",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-21",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-22",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-24",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-25",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-26",
+      "views": 32,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-27",
+      "views": 52,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-28",
+      "views": 80,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-29",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-30",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-05-31",
+      "views": 26,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-01",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-02",
+      "views": 17,
+      "comments": 0,
+      "reactions": 2
+    },
+    {
+      "date": "2025-06-03",
+      "views": 37,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-04",
+      "views": 42,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-05",
+      "views": 17,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-06",
+      "views": 25,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-07",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-08",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-09",
+      "views": 63,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-10",
+      "views": 42,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-11",
+      "views": 32,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-12",
+      "views": 63,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-13",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-14",
+      "views": 4,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-16",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-17",
+      "views": 50,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-06-18",
+      "views": 38,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-06-19",
+      "views": 33,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-20",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-22",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-23",
+      "views": 71,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-24",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-25",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-26",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-27",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-29",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-06-30",
+      "views": 24,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-01",
+      "views": 33,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-02",
+      "views": 90,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-03",
+      "views": 31,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-04",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-05",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-06",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-07",
+      "views": 63,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-08",
+      "views": 35,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2025-07-09",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-10",
+      "views": 44,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-11",
+      "views": 52,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-12",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-13",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-14",
+      "views": 94,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-15",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-16",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-17",
+      "views": 60,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-18",
+      "views": 31,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-19",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-20",
+      "views": 21,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-21",
+      "views": 44,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-22",
+      "views": 33,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-23",
+      "views": 45,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-24",
+      "views": 56,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-25",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-26",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-27",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-28",
+      "views": 51,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-29",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-30",
+      "views": 72,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-07-31",
+      "views": 32,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-01",
+      "views": 43,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    }
+  ]
+}

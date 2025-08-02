@@ -1,0 +1,186 @@
+{
+  "by_reaction": [
+    {
+      "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
+      "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
+      "reactions": 47,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
+      "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
+      "reactions": 30,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
+      "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
+      "reactions": 17,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
+      "title": "Get Phished by a Public AWS Systems Manager Automation Document",
+      "reactions": 12,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
+      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
+      "reactions": 9,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
+      "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
+      "reactions": 8,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "reactions": 8,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "reactions": 7,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
+      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
+      "reactions": 5,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "reactions": 4,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "reactions": 4,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "reactions": 3,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
+      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
+      "reactions": 3,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
+      "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
+      "reactions": 2,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "reactions": 2,
+      "org_username": "gabrielkoo"
+    }
+  ],
+  "by_views": [
+    {
+      "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
+      "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
+      "views": 9021,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
+      "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
+      "views": 5033,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
+      "title": "Get Phished by a Public AWS Systems Manager Automation Document",
+      "views": 1495,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
+      "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
+      "views": 641,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "views": 608,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
+      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
+      "views": 607,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
+      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
+      "views": 449,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
+      "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
+      "views": 370,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 278,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "views": 183,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
+      "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
+      "views": 122,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "views": 84,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "views": 81,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "views": 81,
+      "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
+      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
+      "views": 43,
+      "org_username": "aws-builders"
+    }
+  ]
+}

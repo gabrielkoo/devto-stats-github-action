@@ -1,0 +1,42 @@
+<svg width="600" height="360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #24292e; }
+.article-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; fill: #24292e; }
+.metric-value { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; fill: #ffffff; }
+.rank { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #6b7280; }
+.bar { rx: 4; ry: 4; }
+.bar:hover { opacity: 0.8; cursor: pointer; }
+a { text-decoration: none; }
+a:hover .article-title { fill: #0969da; text-decoration: underline; }
+a:hover .bar { opacity: 0.9; }
+</style>
+</defs>
+
+<text x="30" y="35" class="title">Top 3 Articles by Views</text>
+
+<text x="15" y="85" class="rank">#1</text>
+<a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
+<text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
+<rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
+<title>I bought us-east-1.com: A Look at Security, DNS...: 9,021 views - Click to view article</title>
+</rect>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,021 views</text>
+</a>
+<text x="15" y="165" class="rank">#2</text>
+<a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
+<text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
+<rect x="50" y="160" width="223.1681631748143" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,033 views - Click to view article</title>
+</rect>
+<text x="213.1681631748143" y="185" class="metric-value" fill="#ffffff">5,033 views</text>
+</a>
+<text x="15" y="245" class="rank">#3</text>
+<a href="https://dev.to/aws-builders/get-phished-by-a-public-aws-systems-manager-automation-document-2die" target="_blank">
+<text x="50" y="235" class="article-title">Get Phished by a Public AWS Systems Manager Aut...</text>
+<rect x="50" y="240" width="66.28976831836825" height="40" fill="#2563eb" class="bar">
+<title>Get Phished by a Public AWS Systems Manager Aut...: 1,495 views - Click to view article</title>
+</rect>
+<text x="60" y="265" class="metric-value" fill="#24292e">1,495 views</text>
+</a>
+</svg>
