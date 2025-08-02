@@ -19,22 +19,22 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 9,021 views - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 9,020 views - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,021 views</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,020 views</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="223.1681631748143" height="40" fill="#2563eb" class="bar">
+<rect x="50" y="160" width="223.19290465631929" height="40" fill="#2563eb" class="bar">
 <title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,033 views - Click to view article</title>
 </rect>
-<text x="213.1681631748143" y="185" class="metric-value" fill="#ffffff">5,033 views</text>
+<text x="213.19290465631929" y="185" class="metric-value" fill="#ffffff">5,033 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/get-phished-by-a-public-aws-systems-manager-automation-document-2die" target="_blank">
 <text x="50" y="235" class="article-title">Get Phished by a Public AWS Systems Manager Aut...</text>
-<rect x="50" y="240" width="66.28976831836825" height="40" fill="#2563eb" class="bar">
+<rect x="50" y="240" width="66.29711751662971" height="40" fill="#2563eb" class="bar">
 <title>Get Phished by a Public AWS Systems Manager Aut...: 1,495 views - Click to view article</title>
 </rect>
 <text x="60" y="265" class="metric-value" fill="#24292e">1,495 views</text>
