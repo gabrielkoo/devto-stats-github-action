@@ -89,19 +89,31 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "reactions": 2,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "reactions": 0,
+      "org_username": "kirodotdev"
+    },
+    {
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "reactions": 0,
+      "org_username": "aws-builders"
     }
   ],
   "by_views": [
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 9021,
+      "views": 9022,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5033,
+      "views": 5034,
       "org_username": "aws-builders"
     },
     {
@@ -113,7 +125,7 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 641,
+      "views": 642,
       "org_username": "aws-builders"
     },
     {
@@ -181,6 +193,18 @@
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 43,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "views": 4,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 0,
+      "org_username": "kirodotdev"
     }
   ]
 }
