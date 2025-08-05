@@ -4,7 +4,24 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 38
+    },
+    {
+      "domain": "google.com",
+      "count": 31
+    },
+    {
+      "domain": "dev.to",
+      "count": 11
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-15",
@@ -296,6 +313,24 @@
     },
     {
       "date": "2025-08-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-04",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-05",
       "views": 0,
       "comments": 0,
       "reactions": 0

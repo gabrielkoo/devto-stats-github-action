@@ -49,6 +49,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "reactions": 6,
+      "org_username": "kirodotdev"
+    },
+    {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
       "reactions": 5,
@@ -65,12 +71,6 @@
       "title": "`safeaws` checks your AWS CLI commands before they are run",
       "reactions": 4,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "reactions": 3,
-      "org_username": "kirodotdev"
     },
     {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
@@ -99,7 +99,7 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "reactions": 0,
+      "reactions": 1,
       "org_username": "aws-builders"
     }
   ],
@@ -113,19 +113,19 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5054,
+      "views": 5064,
       "org_username": "aws-builders"
     },
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1495,
+      "views": 1496,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 652,
+      "views": 684,
       "org_username": "aws-builders"
     },
     {
@@ -143,7 +143,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 449,
+      "views": 429,
       "org_username": "aws-builders"
     },
     {
@@ -171,6 +171,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 89,
+      "org_username": "kirodotdev"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 84,
@@ -189,12 +195,6 @@
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 56,
-      "org_username": "kirodotdev"
-    },
-    {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 43,
@@ -203,7 +203,7 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 7,
+      "views": 25,
       "org_username": "aws-builders"
     }
   ]
