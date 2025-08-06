@@ -113,7 +113,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5064,
+      "views": 5117,
       "org_username": "aws-builders"
     },
     {
@@ -165,16 +165,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 122,
+      "org_username": "kirodotdev"
+    },
+    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "views": 122,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 89,
-      "org_username": "kirodotdev"
     },
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
@@ -203,7 +203,7 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 25,
+      "views": 27,
       "org_username": "aws-builders"
     }
   ]
