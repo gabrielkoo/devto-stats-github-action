@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": null,
-      "count": 42
+      "count": 43
     },
     {
       "domain": "linkedin.com",
@@ -15,7 +15,7 @@
     },
     {
       "domain": "dev.to",
-      "count": 7
+      "count": 8
     },
     {
       "domain": "android.googlequicksearchbox",
@@ -317,12 +317,6 @@
     },
     {
       "date": "2025-08-05",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-08-06",
       "views": 0,
       "comments": 0,
       "reactions": 0
