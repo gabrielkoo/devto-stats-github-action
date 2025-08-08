@@ -97,15 +97,15 @@
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
-      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
       "reactions": 1,
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "reactions": 0,
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "reactions": 1,
       "org_username": "aws-builders"
     }
   ],
@@ -119,7 +119,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5170,
+      "views": 5231,
       "org_username": "aws-builders"
     },
     {
@@ -173,19 +173,25 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 132,
+      "views": 139,
       "org_username": "kirodotdev"
+    },
+    {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "views": 135,
+      "org_username": "aws-builders"
     },
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-      "views": 122,
+      "views": 123,
       "org_username": "aws-builders"
     },
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 84,
+      "views": 86,
       "org_username": "aws-builders"
     },
     {
@@ -207,15 +213,9 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 36,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 27,
+      "views": 25,
       "org_username": "aws-builders"
     }
   ]

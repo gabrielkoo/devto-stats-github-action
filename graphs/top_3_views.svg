@@ -26,10 +26,10 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="229.217468410552" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,170 views - Click to view article</title>
+<rect x="50" y="160" width="231.92196852139216" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,231 views - Click to view article</title>
 </rect>
-<text x="219.217468410552" y="185" class="metric-value" fill="#ffffff">5,170 views</text>
+<text x="221.92196852139216" y="185" class="metric-value" fill="#ffffff">5,231 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/get-phished-by-a-public-aws-systems-manager-automation-document-2die" target="_blank">
