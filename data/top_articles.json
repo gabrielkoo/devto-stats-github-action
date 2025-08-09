@@ -85,6 +85,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "reactions": 2,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "reactions": 2,
@@ -95,12 +101,6 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "reactions": 2,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "reactions": 1,
-      "org_username": "aws-builders"
     },
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
@@ -119,19 +119,19 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5231,
+      "views": 5276,
       "org_username": "aws-builders"
     },
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1496,
+      "views": 1497,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 700,
+      "views": 732,
       "org_username": "aws-builders"
     },
     {
@@ -165,6 +165,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "views": 234,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
       "views": 183,
@@ -173,14 +179,8 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 139,
+      "views": 154,
       "org_username": "kirodotdev"
-    },
-    {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 135,
-      "org_username": "aws-builders"
     },
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
@@ -207,15 +207,15 @@
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
-      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-      "views": 43,
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "views": 47,
       "org_username": "aws-builders"
     },
     {
-      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
-      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 25,
+      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
+      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
+      "views": 43,
       "org_username": "aws-builders"
     }
   ]
