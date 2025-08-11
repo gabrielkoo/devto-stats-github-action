@@ -1,21 +1,21 @@
 {
   "articles": 18,
-  "views": 19917,
+  "views": 19951,
   "comments": 14,
   "reactions": 172,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 4466
+      "count": 4622
     },
     {
       "domain": null,
-      "count": 1112
+      "count": 1198
     },
     {
       "domain": "dev.to",
-      "count": 173
+      "count": 190
     },
     {
       "domain": "bing.com",
@@ -39,7 +39,7 @@
     },
     {
       "domain": "perplexity.ai",
-      "count": 25
+      "count": 35
     },
     {
       "domain": "github.com",
@@ -47,11 +47,11 @@
     },
     {
       "domain": "google.com.hk",
-      "count": 21
+      "count": 22
     },
     {
       "domain": "linkedin.com",
-      "count": 12
+      "count": 13
     },
     {
       "domain": "office.net",
@@ -123,6 +123,10 @@
     },
     {
       "domain": "android.gm",
+      "count": 1
+    },
+    {
+      "domain": "facebook.com",
       "count": 1
     }
   ],
@@ -6477,7 +6481,7 @@
     },
     {
       "date": "2025-08-06",
-      "views": 127,
+      "views": 125,
       "comments": 0,
       "reactions": 1
     },
@@ -6501,6 +6505,12 @@
     },
     {
       "date": "2025-08-10",
+      "views": 36,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
