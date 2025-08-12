@@ -131,7 +131,13 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 754,
+      "views": 794,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
+      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
+      "views": 617,
       "org_username": "aws-builders"
     },
     {
@@ -141,15 +147,9 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
-      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 607,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 449,
+      "views": 459,
       "org_username": "aws-builders"
     },
     {
@@ -159,15 +159,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
-      "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 278,
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "views": 285,
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 250,
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 278,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 157,
+      "views": 161,
       "org_username": "kirodotdev"
     },
     {
