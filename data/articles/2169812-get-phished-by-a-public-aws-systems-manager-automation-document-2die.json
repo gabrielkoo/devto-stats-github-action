@@ -4,7 +4,76 @@
   "comments": 0,
   "reactions": 12,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 898
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 144
+    },
+    {
+      "domain": "t.co",
+      "count": 111
+    },
+    {
+      "domain": "google.com",
+      "count": 74
+    },
+    {
+      "domain": "dev.to",
+      "count": 62
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 40
+    },
+    {
+      "domain": "aws-cloudsec.com",
+      "count": 32
+    },
+    {
+      "domain": "com.slack",
+      "count": 21
+    },
+    {
+      "domain": "office.net",
+      "count": 20
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 20
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 13
+    },
+    {
+      "domain": "facebook.com",
+      "count": 11
+    },
+    {
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "android.gm",
+      "count": 10
+    },
+    {
+      "domain": "googleusercontent.com",
+      "count": 10
+    },
+    {
+      "domain": "substack.com",
+      "count": 10
+    },
+    {
+      "domain": "bsky.app",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2024-12-22",
@@ -1388,12 +1457,6 @@
     },
     {
       "date": "2025-08-09",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-08-10",
       "views": 0,
       "comments": 0,
       "reactions": 0
