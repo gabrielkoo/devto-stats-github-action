@@ -147,6 +147,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "views": 491,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
       "views": 459,
@@ -156,12 +162,6 @@
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
       "views": 370,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 357,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 161,
+      "views": 157,
       "org_username": "kirodotdev"
     },
     {
