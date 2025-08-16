@@ -26,17 +26,17 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="235.82354245178453" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,319 views - Click to view article</title>
+<rect x="50" y="160" width="241.80891154954557" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 5,454 views - Click to view article</title>
 </rect>
-<text x="225.82354245178453" y="185" class="metric-value" fill="#ffffff">5,319 views</text>
+<text x="231.80891154954554" y="185" class="metric-value" fill="#ffffff">5,454 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/get-phished-by-a-public-aws-systems-manager-automation-document-2die" target="_blank">
 <text x="50" y="235" class="article-title">Get Phished by a Public AWS Systems Manager Aut...</text>
-<rect x="50" y="240" width="66.81445355796941" height="40" fill="#2563eb" class="bar">
-<title>Get Phished by a Public AWS Systems Manager Aut...: 1,507 views - Click to view article</title>
+<rect x="50" y="240" width="66.85878962536023" height="40" fill="#2563eb" class="bar">
+<title>Get Phished by a Public AWS Systems Manager Aut...: 1,508 views - Click to view article</title>
 </rect>
-<text x="60" y="265" class="metric-value" fill="#24292e">1,507 views</text>
+<text x="60" y="265" class="metric-value" fill="#24292e">1,508 views</text>
 </a>
 </svg>
