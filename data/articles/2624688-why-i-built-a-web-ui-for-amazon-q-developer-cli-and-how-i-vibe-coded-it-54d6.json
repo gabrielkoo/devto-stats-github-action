@@ -4,56 +4,7 @@
   "comments": 4,
   "reactions": 17,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 425
-    },
-    {
-      "domain": "google.com",
-      "count": 256
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 40
-    },
-    {
-      "domain": "dev.to",
-      "count": 26
-    },
-    {
-      "domain": "github.com",
-      "count": 21
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 21
-    },
-    {
-      "domain": "office.net",
-      "count": 20
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "com.slack",
-      "count": 3
-    },
-    {
-      "domain": "substack.com",
-      "count": 3
-    },
-    {
-      "domain": "forem.com",
-      "count": 1
-    },
-    {
-      "domain": "beachgeek.co.uk",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-06-26",
@@ -358,12 +309,6 @@
     {
       "date": "2025-08-15",
       "views": 11,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-08-16",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
