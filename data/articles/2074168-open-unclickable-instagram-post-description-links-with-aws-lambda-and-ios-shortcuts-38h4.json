@@ -1,39 +1,10 @@
 {
   "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-  "views": 183,
+  "views": 193,
   "comments": 0,
   "reactions": 3,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 117
-    },
-    {
-      "domain": "dev.to",
-      "count": 61
-    },
-    {
-      "domain": "google.com",
-      "count": 11
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
-      "count": 1
-    },
-    {
-      "domain": "t.co",
-      "count": 1
-    },
-    {
-      "domain": "github.com",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2024-11-03",
@@ -1723,6 +1694,48 @@
     },
     {
       "date": "2025-08-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-12",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-14",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-16",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-17",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-18",
       "views": 0,
       "comments": 0,
       "reactions": 0

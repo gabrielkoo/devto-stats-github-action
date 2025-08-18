@@ -1,93 +1,53 @@
 {
   "articles": 18,
-  "views": 20545,
+  "views": 20560,
   "comments": 14,
   "reactions": 172,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 8235
+      "count": 1995
     },
     {
       "domain": "google.com",
-      "count": 4695
-    },
-    {
-      "domain": "t.co",
-      "count": 631
+      "count": 1132
     },
     {
       "domain": "dev.to",
-      "count": 603
+      "count": 238
     },
     {
       "domain": "linkedin.com",
-      "count": 565
+      "count": 206
     },
     {
-      "domain": "office.net",
-      "count": 182
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 162
-    },
-    {
-      "domain": "bing.com",
-      "count": 158
-    },
-    {
-      "domain": "facebook.com",
-      "count": 121
+      "domain": "t.co",
+      "count": 141
     },
     {
       "domain": "github.com",
-      "count": 116
-    },
-    {
-      "domain": "mrugalski.pl",
-      "count": 113
-    },
-    {
-      "domain": "tldrsec.com",
-      "count": 111
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 104
-    },
-    {
-      "domain": "com.slack",
-      "count": 98
-    },
-    {
-      "domain": "linkedin.android",
       "count": 81
     },
     {
-      "domain": "substack.com",
-      "count": 63
+      "domain": "duckduckgo.com",
+      "count": 40
     },
     {
-      "domain": "cloudseclist.com",
-      "count": 61
+      "domain": "linkedin.android",
+      "count": 40
     },
     {
-      "domain": "brave.com",
-      "count": 51
+      "domain": "aws-cloudsec.com",
+      "count": 32
     },
     {
-      "domain": "android.gm",
-      "count": 41
+      "domain": "com.slack",
+      "count": 28
     },
     {
-      "domain": "perplexity.ai",
-      "count": 35
-    },
-    {
-      "domain": "microsoft.com",
-      "count": 30
+      "domain": "android.googlequicksearchbox",
+      "count": 22
     },
     {
       "domain": "readysetcloud.io",
@@ -98,55 +58,39 @@
       "count": 21
     },
     {
-      "domain": "google.com.hk",
+      "domain": "office.net",
       "count": 21
     },
     {
-      "domain": "chatgpt.com",
+      "domain": "tldrsec.com",
       "count": 20
     },
     {
-      "domain": "daily.dev",
-      "count": 17
+      "domain": "substack.com",
+      "count": 14
     },
     {
-      "domain": "github.io",
-      "count": 13
-    },
-    {
-      "domain": "maxwelldulin.com",
+      "domain": "bsky.app",
       "count": 11
     },
     {
-      "domain": "onet.pl",
-      "count": 10
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 10
-    },
-    {
-      "domain": "google.de",
-      "count": 10
-    },
-    {
-      "domain": "google.co.kr",
-      "count": 10
-    },
-    {
-      "domain": "google.co.jp",
-      "count": 10
-    },
-    {
-      "domain": "offbynone.io",
-      "count": 10
-    },
-    {
       "domain": "google.co.uk",
-      "count": 10
+      "count": 11
     },
     {
-      "domain": "cloud.microsoft",
+      "domain": "facebook.com",
+      "count": 11
+    },
+    {
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "android.gm",
+      "count": 11
+    },
+    {
+      "domain": "googleusercontent.com",
       "count": 10
     },
     {
@@ -158,23 +102,27 @@
       "count": 10
     },
     {
-      "domain": "google.lk",
-      "count": 2
-    },
-    {
-      "domain": "inoreader.com",
-      "count": 2
-    },
-    {
       "domain": "devpost.com",
       "count": 2
     },
     {
-      "domain": "bsky.app",
+      "domain": "instapaper.com",
+      "count": 1
+    },
+    {
+      "domain": "google.fr",
+      "count": 1
+    },
+    {
+      "domain": "msn.com",
       "count": 1
     },
     {
       "domain": "feishu.cn",
+      "count": 1
+    },
+    {
+      "domain": "bing.com",
       "count": 1
     }
   ],
@@ -6529,7 +6477,7 @@
     },
     {
       "date": "2025-08-06",
-      "views": 125,
+      "views": 127,
       "comments": 0,
       "reactions": 1
     },
@@ -6577,24 +6525,30 @@
     },
     {
       "date": "2025-08-14",
-      "views": 108,
+      "views": 110,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-08-15",
-      "views": 62,
+      "views": 51,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-08-16",
-      "views": 10,
+      "views": 22,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-08-17",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-18",
       "views": 0,
       "comments": 0,
       "reactions": 0
