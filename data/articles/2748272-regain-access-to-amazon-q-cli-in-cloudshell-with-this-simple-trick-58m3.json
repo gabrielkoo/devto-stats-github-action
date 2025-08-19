@@ -1,17 +1,17 @@
 {
   "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-  "views": 59,
+  "views": 61,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 23
+      "count": 24
     },
     {
       "domain": "google.com",
-      "count": 20
+      "count": 21
     },
     {
       "domain": "t.co",
@@ -125,6 +125,12 @@
     },
     {
       "date": "2025-08-18",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-19",
       "views": 0,
       "comments": 0,
       "reactions": 0
