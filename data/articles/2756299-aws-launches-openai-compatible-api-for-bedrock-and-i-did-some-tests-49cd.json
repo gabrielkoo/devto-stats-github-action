@@ -1,10 +1,59 @@
 {
   "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-  "views": 587,
+  "views": 588,
   "comments": 0,
   "reactions": 3,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 347
+    },
+    {
+      "domain": null,
+      "count": 138
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 20
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 20
+    },
+    {
+      "domain": "dev.to",
+      "count": 20
+    },
+    {
+      "domain": "com.slack",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "github.com",
+      "count": 10
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 1
+    },
+    {
+      "domain": "facebook.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-08-06",
@@ -92,6 +141,12 @@
     },
     {
       "date": "2025-08-20",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-21",
       "views": 0,
       "comments": 0,
       "reactions": 0

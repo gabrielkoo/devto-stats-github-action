@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Combined Activity</text>
-<text x="20" y="45" class="subtitle">18 articles • 20,711 total views • 172 total reactions</text>
+<text x="20" y="45" class="subtitle">18 articles • 20,787 total views • 172 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -386,8 +386,9 @@
 <rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2025-08-16" data-level="2"><title>August 16, 2025: 22 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-17" data-level="3"><title>August 17, 2025: 36 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-18" data-level="3"><title>August 18, 2025: 75 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-19" data-level="3"><title>August 19, 2025: 39 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-20" data-level="0"><title>August 20, 2025: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-19" data-level="3"><title>August 19, 2025: 83 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-20" data-level="3"><title>August 20, 2025: 32 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-21" data-level="0"><title>August 21, 2025: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="58" y="60" class="month-label">Sep</text>
@@ -412,5 +413,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">311 days with activity in the last year</text>
+<text x="30" y="203" class="stats">312 days with activity in the last year</text>
 </svg>
