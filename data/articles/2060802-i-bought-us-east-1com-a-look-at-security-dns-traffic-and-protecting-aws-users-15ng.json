@@ -1,6 +1,6 @@
 {
   "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-  "views": 9042,
+  "views": 9052,
   "comments": 5,
   "reactions": 47,
   "org_username": "aws-builders",
@@ -1802,6 +1802,12 @@
     },
     {
       "date": "2025-08-22",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-23",
       "views": 0,
       "comments": 0,
       "reactions": 0

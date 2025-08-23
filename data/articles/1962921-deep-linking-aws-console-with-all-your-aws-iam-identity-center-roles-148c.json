@@ -1,17 +1,17 @@
 {
   "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-  "views": 370,
+  "views": 373,
   "comments": 3,
   "reactions": 8,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 165
+      "count": 166
     },
     {
       "domain": "google.com",
-      "count": 140
+      "count": 142
     },
     {
       "domain": "dev.to",
@@ -2277,6 +2277,12 @@
     },
     {
       "date": "2025-08-22",
+      "views": 3,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-23",
       "views": 0,
       "comments": 0,
       "reactions": 0

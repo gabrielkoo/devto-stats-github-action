@@ -4,40 +4,7 @@
   "comments": 0,
   "reactions": 6,
   "org_username": "kirodotdev",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 115
-    },
-    {
-      "domain": "google.com",
-      "count": 26
-    },
-    {
-      "domain": "dev.to",
-      "count": 15
-    },
-    {
-      "domain": "readysetcloud.io",
-      "count": 10
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "devpost.com",
-      "count": 2
-    },
-    {
-      "domain": "feishu.cn",
-      "count": 1
-    },
-    {
-      "domain": "android.gm",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -155,12 +122,6 @@
     },
     {
       "date": "2025-08-21",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-08-22",
       "views": 0,
       "comments": 0,
       "reactions": 0

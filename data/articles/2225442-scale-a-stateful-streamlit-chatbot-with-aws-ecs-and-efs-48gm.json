@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 333
+      "count": 343
     },
     {
       "domain": null,
@@ -1320,12 +1320,6 @@
     {
       "date": "2025-08-21",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-08-22",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
