@@ -131,7 +131,7 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 863,
+      "views": 884,
       "org_username": "aws-builders"
     },
     {
@@ -141,21 +141,21 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "views": 620,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
       "views": 608,
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 600,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 501,
+      "views": 491,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 180,
+      "views": 192,
       "org_username": "kirodotdev"
     },
     {
