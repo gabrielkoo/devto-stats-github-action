@@ -4,28 +4,7 @@
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 24
-    },
-    {
-      "domain": "google.com",
-      "count": 21
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "dev.to",
-      "count": 7
-    },
-    {
-      "domain": "github.com",
-      "count": 2
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -143,6 +122,36 @@
     },
     {
       "date": "2025-08-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-08-26",
       "views": 0,
       "comments": 0,
       "reactions": 0
