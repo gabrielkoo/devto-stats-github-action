@@ -107,6 +107,12 @@
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
       "reactions": 1,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "reactions": 1,
+      "org_username": "aws-builders"
     }
   ],
   "by_views": [
@@ -119,13 +125,13 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5631,
+      "views": 5654,
       "org_username": "aws-builders"
     },
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1508,
+      "views": 1509,
       "org_username": "aws-builders"
     },
     {
@@ -137,7 +143,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 641,
+      "views": 681,
       "org_username": "aws-builders"
     },
     {
@@ -155,7 +161,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 531,
+      "views": 541,
       "org_username": "aws-builders"
     },
     {
@@ -171,16 +177,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 195,
+      "org_username": "kirodotdev"
+    },
+    {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
       "views": 193,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 192,
-      "org_username": "kirodotdev"
     },
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
@@ -216,6 +222,12 @@
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 43,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 26,
       "org_username": "aws-builders"
     }
   ]
