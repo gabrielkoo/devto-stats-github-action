@@ -9,7 +9,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "reactions": 31,
+      "reactions": 32,
       "org_username": "aws-builders"
     },
     {
@@ -91,6 +91,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "reactions": 3,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "reactions": 2,
@@ -107,12 +113,6 @@
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
       "reactions": 1,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "reactions": 1,
-      "org_username": "aws-builders"
     }
   ],
   "by_views": [
@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5667,
+      "views": 5679,
       "org_username": "aws-builders"
     },
     {
@@ -201,6 +201,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "views": 87,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
       "title": "Faster AWS Console Navigation with Chrome Site Search",
       "views": 81,
@@ -213,15 +219,9 @@
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
-      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 77,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 46,
+      "views": 56,
       "org_username": "aws-builders"
     },
     {
