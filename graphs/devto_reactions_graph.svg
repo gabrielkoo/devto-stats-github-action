@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Reactions</text>
-<text x="20" y="45" class="subtitle">19 articles • 21,398 total views • 176 total reactions</text>
+<text x="20" y="45" class="subtitle">19 articles • 21,443 total views • 176 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -383,11 +383,12 @@
 <rect x="744" y="107" width="12" height="12" fill="#40c463" class="day" data-date="2025-08-27" data-level="2"><title>August 27, 2025: 114 views, 0 comments, 1 reactions</title></rect>
 <rect x="744" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-28" data-level="0"><title>August 28, 2025: 104 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-29" data-level="0"><title>August 29, 2025: 83 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="149" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-30" data-level="3"><title>August 30, 2025: 22 views, 0 comments, 3 reactions</title></rect>
-<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-31" data-level="0"><title>August 31, 2025: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="149" width="12" height="12" fill="#30a14e" class="day" data-date="2025-08-30" data-level="3"><title>August 30, 2025: 54 views, 0 comments, 3 reactions</title></rect>
+<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-08-31" data-level="0"><title>August 31, 2025: 13 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-09-01" data-level="0"><title>September 01, 2025: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
-<text x="30" y="60" class="month-label">Sep</text>
+<text x="758" y="60" class="month-label">Sep</text>
 <text x="86" y="60" class="month-label">Oct</text>
 <text x="142" y="60" class="month-label">Nov</text>
 <text x="212" y="60" class="month-label">Dec</text>
