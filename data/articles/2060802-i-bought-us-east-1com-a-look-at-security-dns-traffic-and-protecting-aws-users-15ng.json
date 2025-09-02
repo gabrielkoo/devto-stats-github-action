@@ -4,88 +4,7 @@
   "comments": 5,
   "reactions": 47,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 6454
-    },
-    {
-      "domain": "t.co",
-      "count": 598
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 513
-    },
-    {
-      "domain": "dev.to",
-      "count": 267
-    },
-    {
-      "domain": "google.com",
-      "count": 245
-    },
-    {
-      "domain": "office.net",
-      "count": 171
-    },
-    {
-      "domain": "facebook.com",
-      "count": 121
-    },
-    {
-      "domain": "mrugalski.pl",
-      "count": 113
-    },
-    {
-      "domain": "tldrsec.com",
-      "count": 111
-    },
-    {
-      "domain": "com.slack",
-      "count": 92
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 81
-    },
-    {
-      "domain": "cloudseclist.com",
-      "count": 61
-    },
-    {
-      "domain": "android.gm",
-      "count": 40
-    },
-    {
-      "domain": "microsoft.com",
-      "count": 30
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 30
-    },
-    {
-      "domain": "substack.com",
-      "count": 20
-    },
-    {
-      "domain": "github.io",
-      "count": 13
-    },
-    {
-      "domain": "github.com",
-      "count": 13
-    },
-    {
-      "domain": "maxwelldulin.com",
-      "count": 11
-    },
-    {
-      "domain": "onet.pl",
-      "count": 10
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2024-10-27",
@@ -1937,12 +1856,6 @@
     },
     {
       "date": "2025-08-31",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-09-01",
       "views": 0,
       "comments": 0,
       "reactions": 0
