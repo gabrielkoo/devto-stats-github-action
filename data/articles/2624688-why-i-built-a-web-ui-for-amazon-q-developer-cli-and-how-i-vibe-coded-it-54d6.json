@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": null,
-      "count": 506
+      "count": 507
     },
     {
       "domain": "google.com",
@@ -15,7 +15,7 @@
     },
     {
       "domain": "linkedin.com",
-      "count": 40
+      "count": 41
     },
     {
       "domain": "dev.to",
@@ -466,12 +466,6 @@
     {
       "date": "2025-09-02",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-09-03",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
