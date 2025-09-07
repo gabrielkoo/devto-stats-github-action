@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5796,
+      "views": 5808,
       "org_username": "aws-builders"
     },
     {
@@ -143,7 +143,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 897,
+      "views": 907,
       "org_username": "aws-builders"
     },
     {
@@ -207,6 +207,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "views": 91,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 91,
@@ -216,12 +222,6 @@
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 87,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
-      "title": "Faster AWS Console Navigation with Chrome Site Search",
-      "views": 81,
       "org_username": "aws-builders"
     },
     {
