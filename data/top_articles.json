@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5808,
+      "views": 5796,
       "org_username": "aws-builders"
     },
     {
@@ -143,7 +143,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 907,
+      "views": 950,
       "org_username": "aws-builders"
     },
     {
@@ -161,7 +161,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 584,
+      "views": 594,
       "org_username": "aws-builders"
     },
     {
@@ -191,13 +191,19 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 159,
+      "views": 181,
       "org_username": "aws-builders"
     },
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "views": 133,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "views": 97,
       "org_username": "aws-builders"
     },
     {
@@ -217,12 +223,6 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 91,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
-      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 87,
-      "org_username": "aws-builders"
     },
     {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
