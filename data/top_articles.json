@@ -137,13 +137,13 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 1009,
+      "views": 1041,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 970,
+      "views": 980,
       "org_username": "aws-builders"
     },
     {
@@ -183,15 +183,15 @@
       "org_username": "kirodotdev"
     },
     {
-      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
-      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-      "views": 193,
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 202,
       "org_username": "aws-builders"
     },
     {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 192,
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "views": 193,
       "org_username": "aws-builders"
     },
     {
@@ -213,16 +213,16 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
-      "title": "Faster AWS Console Navigation with Chrome Site Search",
-      "views": 91,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 91,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "views": 81,
+      "org_username": "aws-builders"
     },
     {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
