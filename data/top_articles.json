@@ -9,7 +9,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "reactions": 33,
+      "reactions": 32,
       "org_username": "aws-builders"
     },
     {
@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 5844,
+      "views": 5820,
       "org_username": "aws-builders"
     },
     {
@@ -137,13 +137,13 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 1041,
+      "views": 1061,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 980,
+      "views": 1020,
       "org_username": "aws-builders"
     },
     {
@@ -161,7 +161,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 594,
+      "views": 604,
       "org_username": "aws-builders"
     },
     {
@@ -177,16 +177,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 252,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
       "views": 206,
       "org_username": "kirodotdev"
-    },
-    {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 202,
-      "org_username": "aws-builders"
     },
     {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
@@ -213,16 +213,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "views": 91,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 91,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
-      "title": "Faster AWS Console Navigation with Chrome Site Search",
-      "views": 81,
-      "org_username": "aws-builders"
     },
     {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
