@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Views</text>
-<text x="20" y="45" class="subtitle">19 articles • 22,262 total views • 179 total reactions</text>
+<text x="20" y="45" class="subtitle">19 articles • 22,402 total views • 179 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -381,10 +381,11 @@
 <rect x="744" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-08" data-level="3"><title>September 08, 2025: 97 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-09" data-level="3"><title>September 09, 2025: 75 views, 0 comments, 1 reactions</title></rect>
 <rect x="744" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-10" data-level="3"><title>September 10, 2025: 65 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-11" data-level="3"><title>September 11, 2025: 72 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-12" data-level="3"><title>September 12, 2025: 35 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2025-09-13" data-level="2"><title>September 13, 2025: 10 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-09-14" data-level="0"><title>September 14, 2025: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-11" data-level="3"><title>September 11, 2025: 142 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-12" data-level="3"><title>September 12, 2025: 61 views, 1 comments, 0 reactions</title></rect>
+<rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2025-09-13" data-level="2"><title>September 13, 2025: 22 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-14" data-level="3"><title>September 14, 2025: 32 views, 1 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-09-15" data-level="0"><title>September 15, 2025: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="58" y="60" class="month-label">Oct</text>
@@ -409,5 +410,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">321 days with activity in the last year</text>
+<text x="30" y="203" class="stats">322 days with activity in the last year</text>
 </svg>
