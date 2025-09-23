@@ -1,17 +1,17 @@
 {
   "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-  "views": 1147,
+  "views": 1171,
   "comments": 4,
   "reactions": 19,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 514
+      "count": 515
     },
     {
       "domain": "google.com",
-      "count": 474
+      "count": 475
     },
     {
       "domain": "linkedin.com",
@@ -570,6 +570,36 @@
     {
       "date": "2025-09-18",
       "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-09-19",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-09-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-09-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-09-22",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-09-23",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }

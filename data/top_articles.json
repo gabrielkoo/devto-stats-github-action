@@ -137,13 +137,13 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 1150,
+      "views": 1210,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 1147,
+      "views": 1171,
       "org_username": "aws-builders"
     },
     {
@@ -153,15 +153,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
-      "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 608,
+      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
+      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
+      "views": 624,
       "org_username": "aws-builders"
     },
     {
-      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
-      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 604,
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "views": 608,
       "org_username": "aws-builders"
     },
     {
@@ -201,15 +201,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
-      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 107,
+      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
+      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
+      "views": 109,
       "org_username": "aws-builders"
     },
     {
-      "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
-      "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 99,
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "views": 107,
       "org_username": "aws-builders"
     },
     {
