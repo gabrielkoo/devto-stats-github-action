@@ -7,23 +7,23 @@
   "referrers": [
     {
       "domain": null,
-      "count": 525
+      "count": 526
     },
     {
       "domain": "google.com",
-      "count": 505
+      "count": 525
     },
     {
       "domain": "linkedin.com",
       "count": 41
     },
     {
-      "domain": "office.net",
-      "count": 30
+      "domain": "dev.to",
+      "count": 31
     },
     {
-      "domain": "dev.to",
-      "count": 29
+      "domain": "office.net",
+      "count": 30
     },
     {
       "domain": "github.com",
@@ -612,12 +612,6 @@
     {
       "date": "2025-09-25",
       "views": 30,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-09-26",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
