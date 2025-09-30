@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Combined Activity</text>
-<text x="20" y="45" class="subtitle">19 articles • 23,389 total views • 183 total reactions</text>
+<text x="20" y="45" class="subtitle">19 articles • 23,439 total views • 183 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -385,7 +385,8 @@
 <rect x="744" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-26" data-level="3"><title>September 26, 2025: 89 views, 0 comments, 1 reactions</title></rect>
 <rect x="744" y="149" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-27" data-level="3"><title>September 27, 2025: 28 views, 0 comments, 1 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#40c463" class="day" data-date="2025-09-28" data-level="2"><title>September 28, 2025: 13 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-09-29" data-level="0"><title>September 29, 2025: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2025-09-29" data-level="3"><title>September 29, 2025: 50 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-09-30" data-level="0"><title>September 30, 2025: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="30" y="60" class="month-label">Oct</text>
@@ -410,5 +411,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">328 days with activity in the last year</text>
+<text x="30" y="203" class="stats">329 days with activity in the last year</text>
 </svg>
