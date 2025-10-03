@@ -34,9 +34,9 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/get-phished-by-a-public-aws-systems-manager-automation-document-2die" target="_blank">
 <text x="50" y="235" class="article-title">Get Phished by a Public AWS Systems Manager Aut...</text>
-<rect x="50" y="240" width="66.30781061188618" height="40" fill="#2563eb" class="bar">
-<title>Get Phished by a Public AWS Systems Manager Aut...: 1,509 views - Click to view article</title>
+<rect x="50" y="240" width="67.18664176645062" height="40" fill="#2563eb" class="bar">
+<title>Get Phished by a Public AWS Systems Manager Aut...: 1,529 views - Click to view article</title>
 </rect>
-<text x="60" y="265" class="metric-value" fill="#24292e">1,509 views</text>
+<text x="60" y="265" class="metric-value" fill="#24292e">1,529 views</text>
 </a>
 </svg>
