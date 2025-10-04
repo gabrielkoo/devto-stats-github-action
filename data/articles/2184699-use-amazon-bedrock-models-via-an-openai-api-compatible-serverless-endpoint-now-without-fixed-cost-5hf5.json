@@ -1,17 +1,17 @@
 {
   "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-  "views": 6093,
+  "views": 6063,
   "comments": 1,
   "reactions": 33,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 4428
+      "count": 4439
     },
     {
       "domain": null,
-      "count": 782
+      "count": 783
     },
     {
       "domain": "bing.com",
@@ -1716,12 +1716,6 @@
     {
       "date": "2025-09-30",
       "views": 15,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-10-01",
-      "views": 30,
       "comments": 0,
       "reactions": 0
     }
