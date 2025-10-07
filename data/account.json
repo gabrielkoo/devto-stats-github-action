@@ -1,33 +1,45 @@
 {
   "articles": 19,
-  "views": 23770,
+  "views": 23819,
   "comments": 16,
   "reactions": 183,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 8981
+      "count": 9581
     },
     {
       "domain": "google.com",
-      "count": 2531
-    },
-    {
-      "domain": "t.co",
-      "count": 740
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 710
+      "count": 7013
     },
     {
       "domain": "dev.to",
-      "count": 665
+      "count": 755
+    },
+    {
+      "domain": "t.co",
+      "count": 739
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 694
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 272
+    },
+    {
+      "domain": "bing.com",
+      "count": 270
     },
     {
       "domain": "office.net",
-      "count": 212
+      "count": 222
+    },
+    {
+      "domain": "github.com",
+      "count": 139
     },
     {
       "domain": "facebook.com",
@@ -39,7 +51,7 @@
     },
     {
       "domain": "com.slack",
-      "count": 129
+      "count": 128
     },
     {
       "domain": "linkedin.android",
@@ -50,20 +62,24 @@
       "count": 113
     },
     {
-      "domain": "duckduckgo.com",
-      "count": 110
-    },
-    {
-      "domain": "github.com",
-      "count": 106
-    },
-    {
-      "domain": "bing.com",
-      "count": 81
-    },
-    {
       "domain": "perplexity.ai",
-      "count": 64
+      "count": 111
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 109
+    },
+    {
+      "domain": "substack.com",
+      "count": 73
+    },
+    {
+      "domain": "brave.com",
+      "count": 72
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 71
     },
     {
       "domain": "cloudseclist.com",
@@ -74,24 +90,20 @@
       "count": 51
     },
     {
-      "domain": "chatgpt.com",
-      "count": 40
-    },
-    {
-      "domain": "substack.com",
-      "count": 34
+      "domain": "yahoo.com",
+      "count": 33
     },
     {
       "domain": "aws-cloudsec.com",
       "count": 32
     },
     {
-      "domain": "microsoft.com",
-      "count": 30
+      "domain": "google.com.hk",
+      "count": 32
     },
     {
-      "domain": "android.googlequicksearchbox",
-      "count": 22
+      "domain": "microsoft.com",
+      "count": 30
     },
     {
       "domain": "readysetcloud.io",
@@ -106,6 +118,10 @@
       "count": 21
     },
     {
+      "domain": "google.co.uk",
+      "count": 20
+    },
+    {
       "domain": "github.io",
       "count": 14
     },
@@ -114,27 +130,15 @@
       "count": 13
     },
     {
-      "domain": "yahoo.com",
-      "count": 12
-    },
-    {
-      "domain": "google.co.uk",
-      "count": 11
-    },
-    {
-      "domain": "bsky.app",
-      "count": 11
-    },
-    {
       "domain": "maxwelldulin.com",
       "count": 11
     },
     {
-      "domain": "google.com.hk",
-      "count": 11
+      "domain": "googleusercontent.com",
+      "count": 10
     },
     {
-      "domain": "googleusercontent.com",
+      "domain": "bsky.app",
       "count": 10
     },
     {
@@ -146,11 +150,27 @@
       "count": 10
     },
     {
-      "domain": "ecosia.org",
+      "domain": "offbynone.io",
       "count": 10
     },
     {
-      "domain": "brave.com",
+      "domain": "google.co.jp",
+      "count": 10
+    },
+    {
+      "domain": "cloud.microsoft",
+      "count": 10
+    },
+    {
+      "domain": "google.de",
+      "count": 10
+    },
+    {
+      "domain": "google.co.kr",
+      "count": 10
+    },
+    {
+      "domain": "ecosia.org",
       "count": 10
     },
     {
@@ -158,15 +178,7 @@
       "count": 1
     },
     {
-      "domain": "google.fr",
-      "count": 1
-    },
-    {
-      "domain": "msn.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
+      "domain": "instapaper.com",
       "count": 1
     }
   ],
@@ -6839,7 +6851,7 @@
     },
     {
       "date": "2025-09-28",
-      "views": 13,
+      "views": 12,
       "comments": 0,
       "reactions": 0
     },
@@ -6887,6 +6899,12 @@
     },
     {
       "date": "2025-10-06",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-07",
       "views": 0,
       "comments": 0,
       "reactions": 0

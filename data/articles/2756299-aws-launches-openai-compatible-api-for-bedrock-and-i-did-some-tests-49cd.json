@@ -7,15 +7,15 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 874
+      "count": 884
     },
     {
       "domain": null,
-      "count": 239
+      "count": 249
     },
     {
       "domain": "dev.to",
-      "count": 79
+      "count": 89
     },
     {
       "domain": "perplexity.ai",
@@ -429,12 +429,6 @@
     },
     {
       "date": "2025-10-05",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-10-06",
       "views": 0,
       "comments": 0,
       "reactions": 0

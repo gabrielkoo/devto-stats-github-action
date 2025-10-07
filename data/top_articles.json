@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 6028,
+      "views": 6027,
       "org_username": "aws-builders"
     },
     {
@@ -149,7 +149,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 673,
+      "views": 713,
       "org_username": "aws-builders"
     },
     {
@@ -167,7 +167,7 @@
     {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 620,
+      "views": 630,
       "org_username": "aws-builders"
     },
     {
