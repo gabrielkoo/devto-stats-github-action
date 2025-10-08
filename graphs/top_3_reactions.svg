@@ -34,9 +34,9 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6" target="_blank">
 <text x="50" y="235" class="article-title">Why I Built a Web UI for Amazon Q Developer CLI...</text>
-<rect x="50" y="240" width="178.72340425531914" height="40" fill="#7c3aed" class="bar">
-<title>Why I Built a Web UI for Amazon Q Developer CLI...: 21 reactions - Click to view article</title>
+<rect x="50" y="240" width="187.2340425531915" height="40" fill="#7c3aed" class="bar">
+<title>Why I Built a Web UI for Amazon Q Developer CLI...: 22 reactions - Click to view article</title>
 </rect>
-<text x="168.72340425531914" y="265" class="metric-value" fill="#ffffff">21 reactions</text>
+<text x="177.2340425531915" y="265" class="metric-value" fill="#ffffff">22 reactions</text>
 </a>
 </svg>
