@@ -1,29 +1,29 @@
 {
   "articles": 19,
-  "views": 24069,
+  "views": 24150,
   "comments": 16,
   "reactions": 185,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 9897
+      "count": 10023
     },
     {
       "domain": "google.com",
-      "count": 6798
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 750
-    },
-    {
-      "domain": "t.co",
-      "count": 750
+      "count": 6913
     },
     {
       "domain": "dev.to",
-      "count": 749
+      "count": 772
+    },
+    {
+      "domain": "t.co",
+      "count": 752
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 723
     },
     {
       "domain": "office.net",
@@ -39,7 +39,7 @@
     },
     {
       "domain": "github.com",
-      "count": 157
+      "count": 158
     },
     {
       "domain": "linkedin.android",
@@ -55,11 +55,11 @@
     },
     {
       "domain": "com.slack",
-      "count": 122
+      "count": 123
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 117
+      "count": 113
     },
     {
       "domain": "mrugalski.pl",
@@ -118,6 +118,10 @@
       "count": 21
     },
     {
+      "domain": "daily.dev",
+      "count": 17
+    },
+    {
       "domain": "github.io",
       "count": 14
     },
@@ -166,6 +170,14 @@
       "count": 10
     },
     {
+      "domain": "google.lk",
+      "count": 2
+    },
+    {
+      "domain": "inoreader.com",
+      "count": 2
+    },
+    {
       "domain": "google.fr",
       "count": 1
     },
@@ -179,10 +191,6 @@
     },
     {
       "domain": "forem.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
       "count": 1
     }
   ],
@@ -6909,12 +6917,18 @@
     },
     {
       "date": "2025-10-07",
-      "views": 78,
+      "views": 81,
       "comments": 0,
       "reactions": 2
     },
     {
       "date": "2025-10-08",
+      "views": 78,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-09",
       "views": 0,
       "comments": 0,
       "reactions": 0
