@@ -125,7 +125,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 6183,
+      "views": 6193,
       "org_username": "aws-builders"
     },
     {
@@ -137,7 +137,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 1477,
+      "views": 1487,
       "org_username": "aws-builders"
     },
     {
@@ -149,7 +149,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 773,
+      "views": 775,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
+      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
+      "views": 694,
       "org_username": "aws-builders"
     },
     {
@@ -159,15 +165,9 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
-      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 654,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 630,
+      "views": 640,
       "org_username": "aws-builders"
     },
     {
