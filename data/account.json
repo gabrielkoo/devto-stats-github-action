@@ -1,73 +1,73 @@
 {
   "articles": 19,
-  "views": 24222,
+  "views": 24244,
   "comments": 16,
   "reactions": 185,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 7552
+      "count": 6678
     },
     {
       "domain": null,
-      "count": 3874
+      "count": 2909
     },
     {
       "domain": "dev.to",
-      "count": 632
+      "count": 486
     },
     {
       "domain": "bing.com",
-      "count": 289
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 238
+      "count": 260
     },
     {
       "domain": "duckduckgo.com",
       "count": 222
     },
     {
-      "domain": "github.com",
-      "count": 157
+      "domain": "linkedin.com",
+      "count": 185
     },
     {
       "domain": "t.co",
-      "count": 152
+      "count": 141
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 117
+      "count": 115
     },
     {
       "domain": "perplexity.ai",
       "count": 111
     },
     {
-      "domain": "office.net",
-      "count": 91
-    },
-    {
       "domain": "brave.com",
-      "count": 82
+      "count": 72
     },
     {
       "domain": "chatgpt.com",
-      "count": 81
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 62
+      "count": 71
     },
     {
       "domain": "substack.com",
-      "count": 56
+      "count": 53
+    },
+    {
+      "domain": "office.net",
+      "count": 51
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 41
     },
     {
       "domain": "com.slack",
-      "count": 40
+      "count": 37
+    },
+    {
+      "domain": "github.com",
+      "count": 37
     },
     {
       "domain": "yahoo.com",
@@ -82,19 +82,11 @@
       "count": 32
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 22
+      "domain": "tldrsec.com",
+      "count": 20
     },
     {
       "domain": "google.co.uk",
-      "count": 21
-    },
-    {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
-      "domain": "tldrsec.com",
       "count": 20
     },
     {
@@ -114,11 +106,11 @@
       "count": 11
     },
     {
-      "domain": "googleusercontent.com",
-      "count": 10
+      "domain": "bsky.app",
+      "count": 11
     },
     {
-      "domain": "bsky.app",
+      "domain": "googleusercontent.com",
       "count": 10
     },
     {
@@ -150,6 +142,10 @@
       "count": 10
     },
     {
+      "domain": "readysetcloud.io",
+      "count": 10
+    },
+    {
       "domain": "ecosia.org",
       "count": 10
     },
@@ -158,23 +154,7 @@
       "count": 1
     },
     {
-      "domain": "google.fr",
-      "count": 1
-    },
-    {
-      "domain": "msn.com",
-      "count": 1
-    },
-    {
-      "domain": "beachgeek.co.uk",
-      "count": 1
-    },
-    {
-      "domain": "forem.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
+      "domain": "instapaper.com",
       "count": 1
     }
   ],
@@ -6913,12 +6893,18 @@
     },
     {
       "date": "2025-10-09",
-      "views": 32,
+      "views": 54,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-10-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
