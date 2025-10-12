@@ -1,6 +1,6 @@
 {
   "title": "Do not use default SAM CloudFormation Role for Production",
-  "views": 640,
+  "views": 630,
   "comments": 1,
   "reactions": 8,
   "org_username": "aws-builders",
@@ -6772,12 +6772,6 @@
     {
       "date": "2025-10-08",
       "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-10-09",
-      "views": 10,
       "comments": 0,
       "reactions": 0
     }
