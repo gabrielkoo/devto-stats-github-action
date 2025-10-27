@@ -1,52 +1,60 @@
 {
   "articles": 19,
-  "views": 25149,
+  "views": 25083,
   "comments": 16,
   "reactions": 186,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": null,
-      "count": 2912
+      "domain": "google.com",
+      "count": 3153
     },
     {
-      "domain": "google.com",
-      "count": 2466
+      "domain": null,
+      "count": 2790
     },
     {
       "domain": "dev.to",
-      "count": 351
+      "count": 456
     },
     {
       "domain": "linkedin.com",
-      "count": 236
+      "count": 208
     },
     {
       "domain": "t.co",
-      "count": 162
-    },
-    {
-      "domain": "github.com",
-      "count": 124
+      "count": 152
     },
     {
       "domain": "bing.com",
-      "count": 82
-    },
-    {
-      "domain": "office.net",
-      "count": 81
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 62
-    },
-    {
-      "domain": "com.slack",
-      "count": 40
+      "count": 132
     },
     {
       "domain": "duckduckgo.com",
+      "count": 120
+    },
+    {
+      "domain": "github.com",
+      "count": 107
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 64
+    },
+    {
+      "domain": "office.net",
+      "count": 61
+    },
+    {
+      "domain": "com.slack",
+      "count": 47
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 41
+    },
+    {
+      "domain": "chatgpt.com",
       "count": 40
     },
     {
@@ -70,12 +78,8 @@
       "count": 20
     },
     {
-      "domain": "chatgpt.com",
-      "count": 20
-    },
-    {
       "domain": "substack.com",
-      "count": 17
+      "count": 14
     },
     {
       "domain": "devpost.com",
@@ -83,7 +87,15 @@
     },
     {
       "domain": "facebook.com",
-      "count": 11
+      "count": 12
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 12
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 12
     },
     {
       "domain": "awssecuritydigest.com",
@@ -102,10 +114,6 @@
       "count": 11
     },
     {
-      "domain": "perplexity.ai",
-      "count": 11
-    },
-    {
       "domain": "googleusercontent.com",
       "count": 10
     },
@@ -118,15 +126,15 @@
       "count": 10
     },
     {
-      "domain": "brave.com",
+      "domain": "ecosia.org",
       "count": 10
     },
     {
-      "domain": "yahoo.com",
+      "domain": "feishu.cn",
       "count": 1
     },
     {
-      "domain": "feishu.cn",
+      "domain": "instapaper.com",
       "count": 1
     },
     {
@@ -135,14 +143,6 @@
     },
     {
       "domain": "msn.com",
-      "count": 1
-    },
-    {
-      "domain": "beachgeek.co.uk",
-      "count": 1
-    },
-    {
-      "domain": "forem.com",
       "count": 1
     },
     {
@@ -6951,7 +6951,7 @@
     },
     {
       "date": "2025-10-20",
-      "views": 93,
+      "views": 32,
       "comments": 0,
       "reactions": 0
     },
@@ -6975,7 +6975,7 @@
     },
     {
       "date": "2025-10-24",
-      "views": 39,
+      "views": 23,
       "comments": 0,
       "reactions": 0
     },
@@ -6987,6 +6987,12 @@
     },
     {
       "date": "2025-10-26",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-27",
       "views": 0,
       "comments": 0,
       "reactions": 0
