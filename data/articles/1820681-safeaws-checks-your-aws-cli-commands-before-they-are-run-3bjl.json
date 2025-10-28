@@ -4,7 +4,52 @@
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 159
+    },
+    {
+      "domain": "google.com",
+      "count": 75
+    },
+    {
+      "domain": "dev.to",
+      "count": 39
+    },
+    {
+      "domain": "daily.dev",
+      "count": 17
+    },
+    {
+      "domain": "t.co",
+      "count": 2
+    },
+    {
+      "domain": "google.lk",
+      "count": 2
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 2
+    },
+    {
+      "domain": "inoreader.com",
+      "count": 1
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 1
+    },
+    {
+      "domain": "github.com",
+      "count": 1
+    },
+    {
+      "domain": "com.slack",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2024-04-13",
@@ -3380,6 +3425,12 @@
     },
     {
       "date": "2025-10-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-28",
       "views": 0,
       "comments": 0,
       "reactions": 0

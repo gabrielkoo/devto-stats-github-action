@@ -1,10 +1,71 @@
 {
   "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-  "views": 1496,
+  "views": 1522,
   "comments": 4,
   "reactions": 22,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 718
+    },
+    {
+      "domain": null,
+      "count": 602
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 41
+    },
+    {
+      "domain": "dev.to",
+      "count": 39
+    },
+    {
+      "domain": "github.com",
+      "count": 31
+    },
+    {
+      "domain": "office.net",
+      "count": 30
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 21
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "brave.com",
+      "count": 10
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 4
+    },
+    {
+      "domain": "substack.com",
+      "count": 3
+    },
+    {
+      "domain": "bing.com",
+      "count": 1
+    },
+    {
+      "domain": "beachgeek.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-26",
@@ -723,6 +784,36 @@
     {
       "date": "2025-10-23",
       "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-24",
+      "views": 16,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-25",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-28",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
