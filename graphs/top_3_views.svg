@@ -19,24 +19,24 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 9,228 views - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 9,238 views - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,228 views</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,238 views</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="275.42262678803644" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 6,354 views - Click to view article</title>
+<rect x="50" y="160" width="275.55747997402034" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 6,364 views - Click to view article</title>
 </rect>
-<text x="265.42262678803644" y="185" class="metric-value" fill="#ffffff">6,354 views</text>
+<text x="265.55747997402034" y="185" class="metric-value" fill="#ffffff">6,364 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd" target="_blank">
 <text x="50" y="235" class="article-title">🚀 AWS Launches OpenAI-Compatible API for Bedroc...</text>
-<rect x="50" y="240" width="72.77850021673169" height="40" fill="#2563eb" class="bar">
-<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 1,679 views - Click to view article</title>
+<rect x="50" y="240" width="73.13271270837843" height="40" fill="#2563eb" class="bar">
+<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 1,689 views - Click to view article</title>
 </rect>
-<text x="60" y="265" class="metric-value" fill="#24292e">1,679 views</text>
+<text x="60" y="265" class="metric-value" fill="#24292e">1,689 views</text>
 </a>
 </svg>
