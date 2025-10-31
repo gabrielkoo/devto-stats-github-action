@@ -1,61 +1,93 @@
 {
   "articles": 19,
-  "views": 25347,
+  "views": 25704,
   "comments": 16,
   "reactions": 186,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": "google.com",
-      "count": 7239
+      "domain": null,
+      "count": 10560
     },
     {
-      "domain": null,
-      "count": 2637
+      "domain": "google.com",
+      "count": 7881
     },
     {
       "domain": "dev.to",
-      "count": 567
+      "count": 909
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 751
+    },
+    {
+      "domain": "t.co",
+      "count": 742
     },
     {
       "domain": "bing.com",
-      "count": 310
+      "count": 319
     },
     {
       "domain": "duckduckgo.com",
-      "count": 265
+      "count": 275
+    },
+    {
+      "domain": "office.net",
+      "count": 241
     },
     {
       "domain": "github.com",
-      "count": 129
+      "count": 170
+    },
+    {
+      "domain": "com.slack",
+      "count": 149
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 143
+    },
+    {
+      "domain": "facebook.com",
+      "count": 133
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 131
+    },
+    {
+      "domain": "brave.com",
+      "count": 122
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 116
+    },
+    {
+      "domain": "mrugalski.pl",
+      "count": 113
     },
     {
       "domain": "perplexity.ai",
       "count": 111
     },
     {
-      "domain": "android.googlequicksearchbox",
-      "count": 104
-    },
-    {
-      "domain": "brave.com",
-      "count": 82
-    },
-    {
       "domain": "chatgpt.com",
-      "count": 71
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 65
+      "count": 81
     },
     {
       "domain": "substack.com",
-      "count": 43
+      "count": 72
     },
     {
-      "domain": "t.co",
-      "count": 33
+      "domain": "cloudseclist.com",
+      "count": 61
+    },
+    {
+      "domain": "android.gm",
+      "count": 51
     },
     {
       "domain": "yahoo.com",
@@ -66,43 +98,55 @@
       "count": 33
     },
     {
-      "domain": "office.net",
-      "count": 31
+      "domain": "aws-cloudsec.com",
+      "count": 32
     },
     {
-      "domain": "com.slack",
-      "count": 26
+      "domain": "microsoft.com",
+      "count": 30
     },
     {
       "domain": "readysetcloud.io",
       "count": 22
     },
     {
+      "domain": "awssecuritydigest.com",
+      "count": 21
+    },
+    {
       "domain": "depths.so",
       "count": 21
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 20
     },
     {
       "domain": "daily.dev",
       "count": 17
     },
     {
+      "domain": "github.io",
+      "count": 14
+    },
+    {
       "domain": "devpost.com",
       "count": 13
     },
     {
-      "domain": "claude.ai",
+      "domain": "maxwelldulin.com",
+      "count": 11
+    },
+    {
+      "domain": "googleusercontent.com",
       "count": 10
     },
     {
-      "domain": "raindrop.io",
+      "domain": "bsky.app",
       "count": 10
     },
     {
       "domain": "google.co.kr",
-      "count": 10
-    },
-    {
-      "domain": "google.co.uk",
       "count": 10
     },
     {
@@ -134,27 +178,15 @@
       "count": 2
     },
     {
-      "domain": "linkedin.android",
-      "count": 1
-    },
-    {
       "domain": "feishu.cn",
       "count": 1
     },
     {
-      "domain": "android.gm",
+      "domain": "beachgeek.co.uk",
       "count": 1
     },
     {
-      "domain": "bsky.app",
-      "count": 1
-    },
-    {
-      "domain": "instapaper.com",
-      "count": 1
-    },
-    {
-      "domain": "facebook.com",
+      "domain": "forem.com",
       "count": 1
     }
   ],
@@ -7013,12 +7045,18 @@
     },
     {
       "date": "2025-10-29",
-      "views": 63,
+      "views": 73,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-10-30",
+      "views": 347,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-31",
       "views": 0,
       "comments": 0,
       "reactions": 0

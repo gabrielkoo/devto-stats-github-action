@@ -1,10 +1,27 @@
 {
   "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-  "views": 46,
+  "views": 66,
   "comments": 0,
   "reactions": 3,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 32
+    },
+    {
+      "domain": null,
+      "count": 21
+    },
+    {
+      "domain": "bing.com",
+      "count": 10
+    },
+    {
+      "domain": "dev.to",
+      "count": 6
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-05-26",
@@ -938,6 +955,24 @@
     },
     {
       "date": "2025-10-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-29",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-30",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-10-31",
       "views": 0,
       "comments": 0,
       "reactions": 0
