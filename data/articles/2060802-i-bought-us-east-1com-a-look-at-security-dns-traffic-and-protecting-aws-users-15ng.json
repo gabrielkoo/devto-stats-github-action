@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": null,
-      "count": 6780
+      "count": 6900
     },
     {
       "domain": "t.co",
@@ -23,11 +23,15 @@
     },
     {
       "domain": "dev.to",
-      "count": 279
+      "count": 280
     },
     {
       "domain": "office.net",
       "count": 171
+    },
+    {
+      "domain": "com.slack",
+      "count": 122
     },
     {
       "domain": "facebook.com",
@@ -40,10 +44,6 @@
     {
       "domain": "tldrsec.com",
       "count": 111
-    },
-    {
-      "domain": "com.slack",
-      "count": 102
     },
     {
       "domain": "linkedin.android",
@@ -2298,12 +2298,6 @@
     {
       "date": "2025-10-30",
       "views": 293,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-10-31",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
