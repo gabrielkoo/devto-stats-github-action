@@ -1,65 +1,41 @@
 {
   "articles": 19,
-  "views": 26427,
+  "views": 26439,
   "comments": 16,
   "reactions": 186,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": null,
-      "count": 10343
-    },
-    {
       "domain": "google.com",
-      "count": 4531
+      "count": 4137
     },
     {
-      "domain": "linkedin.com",
-      "count": 761
-    },
-    {
-      "domain": "t.co",
-      "count": 749
+      "domain": null,
+      "count": 3230
     },
     {
       "domain": "dev.to",
-      "count": 720
+      "count": 493
     },
     {
-      "domain": "office.net",
-      "count": 252
+      "domain": "linkedin.com",
+      "count": 226
     },
     {
-      "domain": "duckduckgo.com",
-      "count": 182
-    },
-    {
-      "domain": "com.slack",
-      "count": 174
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 143
+      "domain": "t.co",
+      "count": 144
     },
     {
       "domain": "bing.com",
       "count": 143
     },
     {
-      "domain": "github.com",
-      "count": 138
-    },
-    {
-      "domain": "facebook.com",
+      "domain": "duckduckgo.com",
       "count": 133
     },
     {
-      "domain": "tldrsec.com",
-      "count": 131
-    },
-    {
-      "domain": "mrugalski.pl",
-      "count": 113
+      "domain": "office.net",
+      "count": 71
     },
     {
       "domain": "chatgpt.com",
@@ -70,52 +46,48 @@
       "count": 64
     },
     {
-      "domain": "cloudseclist.com",
-      "count": 61
+      "domain": "linkedin.android",
+      "count": 62
     },
     {
-      "domain": "android.gm",
-      "count": 51
+      "domain": "com.slack",
+      "count": 52
+    },
+    {
+      "domain": "github.com",
+      "count": 50
     },
     {
       "domain": "brave.com",
       "count": 40
     },
     {
-      "domain": "substack.com",
-      "count": 37
-    },
-    {
       "domain": "aws-cloudsec.com",
       "count": 32
     },
     {
-      "domain": "microsoft.com",
-      "count": 30
-    },
-    {
       "domain": "android.googlequicksearchbox",
-      "count": 22
+      "count": 24
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 22
+      "domain": "tldrsec.com",
+      "count": 20
     },
     {
-      "domain": "awssecuritydigest.com",
-      "count": 21
+      "domain": "substack.com",
+      "count": 17
     },
     {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
-      "domain": "github.io",
-      "count": 14
+      "domain": "daily.dev",
+      "count": 17
     },
     {
       "domain": "devpost.com",
       "count": 13
+    },
+    {
+      "domain": "facebook.com",
+      "count": 12
     },
     {
       "domain": "yahoo.com",
@@ -126,19 +98,23 @@
       "count": 12
     },
     {
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "android.gm",
+      "count": 11
+    },
+    {
       "domain": "google.co.uk",
       "count": 11
     },
     {
-      "domain": "bsky.app",
-      "count": 11
-    },
-    {
-      "domain": "maxwelldulin.com",
-      "count": 11
-    },
-    {
       "domain": "googleusercontent.com",
+      "count": 10
+    },
+    {
+      "domain": "bsky.app",
       "count": 10
     },
     {
@@ -150,8 +126,20 @@
       "count": 10
     },
     {
+      "domain": "readysetcloud.io",
+      "count": 10
+    },
+    {
       "domain": "ecosia.org",
       "count": 10
+    },
+    {
+      "domain": "google.lk",
+      "count": 2
+    },
+    {
+      "domain": "inoreader.com",
+      "count": 2
     },
     {
       "domain": "feishu.cn",
@@ -7069,7 +7057,7 @@
     },
     {
       "date": "2025-11-04",
-      "views": 84,
+      "views": 73,
       "comments": 0,
       "reactions": 0
     },
@@ -7081,7 +7069,7 @@
     },
     {
       "date": "2025-11-06",
-      "views": 22,
+      "views": 11,
       "comments": 0,
       "reactions": 0
     },
@@ -7105,6 +7093,12 @@
     },
     {
       "date": "2025-11-10",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
