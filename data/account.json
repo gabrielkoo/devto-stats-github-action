@@ -1,65 +1,57 @@
 {
   "articles": 19,
-  "views": 26736,
+  "views": 26798,
   "comments": 16,
   "reactions": 186,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 10827
+      "count": 10142
     },
     {
       "domain": "google.com",
-      "count": 9224
+      "count": 8725
     },
     {
       "domain": "dev.to",
-      "count": 893
+      "count": 878
     },
     {
       "domain": "t.co",
-      "count": 751
+      "count": 641
     },
     {
       "domain": "linkedin.com",
-      "count": 738
+      "count": 592
     },
     {
       "domain": "bing.com",
-      "count": 370
+      "count": 350
     },
     {
       "domain": "duckduckgo.com",
-      "count": 315
+      "count": 335
     },
     {
       "domain": "office.net",
-      "count": 261
+      "count": 231
+    },
+    {
+      "domain": "github.com",
+      "count": 183
     },
     {
       "domain": "com.slack",
-      "count": 171
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 143
+      "count": 149
     },
     {
       "domain": "facebook.com",
-      "count": 133
-    },
-    {
-      "domain": "tldrsec.com",
-      "count": 131
+      "count": 122
     },
     {
       "domain": "brave.com",
       "count": 122
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 118
     },
     {
       "domain": "mrugalski.pl",
@@ -74,12 +66,20 @@
       "count": 112
     },
     {
-      "domain": "github.com",
-      "count": 105
+      "domain": "tldrsec.com",
+      "count": 111
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 103
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 97
     },
     {
       "domain": "substack.com",
-      "count": 72
+      "count": 62
     },
     {
       "domain": "cloudseclist.com",
@@ -87,7 +87,7 @@
     },
     {
       "domain": "android.gm",
-      "count": 51
+      "count": 41
     },
     {
       "domain": "google.com.hk",
@@ -98,19 +98,15 @@
       "count": 33
     },
     {
-      "domain": "aws-cloudsec.com",
-      "count": 32
-    },
-    {
       "domain": "microsoft.com",
       "count": 30
     },
     {
-      "domain": "awssecuritydigest.com",
-      "count": 21
+      "domain": "readysetcloud.io",
+      "count": 22
     },
     {
-      "domain": "google.co.uk",
+      "domain": "depths.so",
       "count": 21
     },
     {
@@ -130,15 +126,15 @@
       "count": 11
     },
     {
-      "domain": "googleusercontent.com",
-      "count": 10
-    },
-    {
-      "domain": "bsky.app",
+      "domain": "awssecuritydigest.com",
       "count": 10
     },
     {
       "domain": "google.co.kr",
+      "count": 10
+    },
+    {
+      "domain": "google.co.uk",
       "count": 10
     },
     {
@@ -158,10 +154,6 @@
       "count": 10
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 10
-    },
-    {
       "domain": "ecosia.org",
       "count": 10
     },
@@ -170,23 +162,15 @@
       "count": 2
     },
     {
+      "domain": "inoreader.com",
+      "count": 2
+    },
+    {
       "domain": "feishu.cn",
       "count": 1
     },
     {
       "domain": "instapaper.com",
-      "count": 1
-    },
-    {
-      "domain": "google.fr",
-      "count": 1
-    },
-    {
-      "domain": "msn.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
       "count": 1
     },
     {
@@ -7137,24 +7121,30 @@
     },
     {
       "date": "2025-11-12",
-      "views": 72,
+      "views": 84,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-11-13",
-      "views": 40,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-11-14",
       "views": 50,
       "comments": 0,
       "reactions": 0
     },
     {
+      "date": "2025-11-14",
+      "views": 80,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
       "date": "2025-11-15",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-16",
       "views": 0,
       "comments": 0,
       "reactions": 0
