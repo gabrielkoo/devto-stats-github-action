@@ -1,10 +1,59 @@
 {
   "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-  "views": 433,
+  "views": 453,
   "comments": 3,
   "reactions": 8,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 202
+    },
+    {
+      "domain": null,
+      "count": 176
+    },
+    {
+      "domain": "dev.to",
+      "count": 23
+    },
+    {
+      "domain": "bing.com",
+      "count": 11
+    },
+    {
+      "domain": "claude.ai",
+      "count": 10
+    },
+    {
+      "domain": "raindrop.io",
+      "count": 10
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "substack.com",
+      "count": 4
+    },
+    {
+      "domain": "com.slack",
+      "count": 3
+    },
+    {
+      "domain": "github.com",
+      "count": 2
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 1
+    },
+    {
+      "domain": "office.net",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2024-08-17",
@@ -2762,6 +2811,36 @@
     },
     {
       "date": "2025-11-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-21",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-22",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-24",
       "views": 0,
       "comments": 0,
       "reactions": 0
