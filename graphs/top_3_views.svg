@@ -26,17 +26,17 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="274.1536258566022" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 6,701 views - Click to view article</title>
+<rect x="50" y="160" width="275.0536974532065" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 6,723 views - Click to view article</title>
 </rect>
-<text x="264.1536258566022" y="185" class="metric-value" fill="#ffffff">6,701 views</text>
+<text x="265.0536974532065" y="185" class="metric-value" fill="#ffffff">6,723 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd" target="_blank">
 <text x="50" y="235" class="article-title">🚀 AWS Launches OpenAI-Compatible API for Bedroc...</text>
-<rect x="50" y="240" width="79.00173877467526" height="40" fill="#2563eb" class="bar">
-<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 1,931 views - Click to view article</title>
+<rect x="50" y="240" width="79.4108622276772" height="40" fill="#2563eb" class="bar">
+<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 1,941 views - Click to view article</title>
 </rect>
-<text x="60" y="265" class="metric-value" fill="#24292e">1,931 views</text>
+<text x="60" y="265" class="metric-value" fill="#24292e">1,941 views</text>
 </a>
 </svg>

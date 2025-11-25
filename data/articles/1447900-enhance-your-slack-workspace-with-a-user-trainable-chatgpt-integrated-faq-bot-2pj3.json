@@ -4,40 +4,7 @@
   "comments": 0,
   "reactions": 9,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": null,
-      "count": 337
-    },
-    {
-      "domain": "google.com",
-      "count": 144
-    },
-    {
-      "domain": "github.com",
-      "count": 77
-    },
-    {
-      "domain": "dev.to",
-      "count": 35
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 23
-    },
-    {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 20
-    },
-    {
-      "domain": "readysetcloud.io",
-      "count": 12
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2023-04-26",
@@ -5687,6 +5654,24 @@
     },
     {
       "date": "2025-11-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-11-25",
       "views": 0,
       "comments": 0,
       "reactions": 0
