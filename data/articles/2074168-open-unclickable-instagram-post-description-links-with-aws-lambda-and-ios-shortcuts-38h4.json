@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": null,
-      "count": 127
+      "count": 137
     },
     {
       "domain": "dev.to",
@@ -2359,12 +2359,6 @@
     },
     {
       "date": "2025-11-25",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2025-11-26",
       "views": 0,
       "comments": 0,
       "reactions": 0

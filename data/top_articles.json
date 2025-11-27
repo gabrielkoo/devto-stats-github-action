@@ -79,6 +79,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
+      "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
+      "reactions": 4,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
       "reactions": 3,
@@ -113,31 +119,25 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "reactions": 2,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
-      "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "reactions": 1,
-      "org_username": "aws-builders"
     }
   ],
   "by_views": [
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 9777,
+      "views": 9787,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 6723,
+      "views": 6764,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 1941,
+      "views": 1963,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 453,
+      "views": 443,
       "org_username": "aws-builders"
     },
     {
@@ -204,6 +204,12 @@
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
       "views": 208,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
+      "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
+      "views": 161,
       "org_username": "aws-builders"
     },
     {
@@ -234,12 +240,6 @@
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 96,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
-      "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 63,
       "org_username": "aws-builders"
     }
   ]
