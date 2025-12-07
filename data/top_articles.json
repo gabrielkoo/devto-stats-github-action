@@ -137,7 +137,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2013,
+      "views": 2083,
       "org_username": "aws-builders"
     },
     {
@@ -161,7 +161,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 893,
+      "views": 903,
       "org_username": "aws-builders"
     },
     {
@@ -197,13 +197,13 @@
     {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-      "views": 243,
+      "views": 253,
       "org_username": "aws-builders"
     },
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 213,
+      "views": 214,
       "org_username": "aws-builders"
     },
     {
@@ -219,6 +219,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
+      "title": "Faster AWS Console Navigation with Chrome Site Search",
+      "views": 111,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 107,
@@ -228,12 +234,6 @@
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 106,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
-      "title": "Faster AWS Console Navigation with Chrome Site Search",
-      "views": 101,
       "org_username": "aws-builders"
     },
     {
