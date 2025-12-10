@@ -25,6 +25,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "reactions": 9,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
       "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
       "reactions": 9,
@@ -33,12 +39,6 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "reactions": 8,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
-      "title": "Do not use default SAM CloudFormation Role for Production",
       "reactions": 8,
       "org_username": "aws-builders"
     },
@@ -131,7 +131,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 6806,
+      "views": 6849,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 473,
+      "views": 485,
       "org_username": "aws-builders"
     },
     {
@@ -209,7 +209,7 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 208,
+      "views": 218,
       "org_username": "aws-builders"
     },
     {
