@@ -19,24 +19,24 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#7c3aed" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 47 reactions - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 48 reactions - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">47 reactions</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">48 reactions</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="280.8510638297872" height="40" fill="#7c3aed" class="bar">
+<rect x="50" y="160" width="275.0" height="40" fill="#7c3aed" class="bar">
 <title>Use Amazon Bedrock Models with OpenAI SDKs with...: 33 reactions - Click to view article</title>
 </rect>
-<text x="270.8510638297872" y="185" class="metric-value" fill="#ffffff">33 reactions</text>
+<text x="265.0" y="185" class="metric-value" fill="#ffffff">33 reactions</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6" target="_blank">
 <text x="50" y="235" class="article-title">Why I Built a Web UI for Amazon Q Developer CLI...</text>
-<rect x="50" y="240" width="187.2340425531915" height="40" fill="#7c3aed" class="bar">
+<rect x="50" y="240" width="183.33333333333331" height="40" fill="#7c3aed" class="bar">
 <title>Why I Built a Web UI for Amazon Q Developer CLI...: 22 reactions - Click to view article</title>
 </rect>
-<text x="177.2340425531915" y="265" class="metric-value" fill="#ffffff">22 reactions</text>
+<text x="173.33333333333331" y="265" class="metric-value" fill="#ffffff">22 reactions</text>
 </a>
 </svg>

@@ -1,21 +1,21 @@
 {
   "articles": 20,
-  "views": 28233,
+  "views": 28257,
   "comments": 17,
-  "reactions": 192,
+  "reactions": 193,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 9932
+      "count": 9842
     },
     {
       "domain": "google.com",
-      "count": 8369
+      "count": 8863
     },
     {
       "domain": "dev.to",
-      "count": 801
+      "count": 803
     },
     {
       "domain": "t.co",
@@ -23,31 +23,31 @@
     },
     {
       "domain": "linkedin.com",
-      "count": 627
+      "count": 604
     },
     {
       "domain": "duckduckgo.com",
-      "count": 364
+      "count": 344
     },
     {
       "domain": "bing.com",
-      "count": 331
+      "count": 341
     },
     {
       "domain": "office.net",
-      "count": 242
-    },
-    {
-      "domain": "github.com",
-      "count": 192
+      "count": 252
     },
     {
       "domain": "com.slack",
-      "count": 141
+      "count": 142
     },
     {
       "domain": "facebook.com",
       "count": 122
+    },
+    {
+      "domain": "github.com",
+      "count": 115
     },
     {
       "domain": "mrugalski.pl",
@@ -63,14 +63,14 @@
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 102
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 102
+      "count": 104
     },
     {
       "domain": "brave.com",
+      "count": 103
+    },
+    {
+      "domain": "linkedin.android",
       "count": 102
     },
     {
@@ -102,10 +102,6 @@
       "count": 30
     },
     {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
       "domain": "claude.ai",
       "count": 20
     },
@@ -122,11 +118,11 @@
       "count": 14
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 12
+      "domain": "maxwelldulin.com",
+      "count": 11
     },
     {
-      "domain": "maxwelldulin.com",
+      "domain": "google.co.uk",
       "count": 11
     },
     {
@@ -154,10 +150,6 @@
       "count": 10
     },
     {
-      "domain": "google.co.uk",
-      "count": 10
-    },
-    {
       "domain": "forem.com",
       "count": 2
     },
@@ -167,6 +159,14 @@
     },
     {
       "domain": "instapaper.com",
+      "count": 1
+    },
+    {
+      "domain": "google.fr",
+      "count": 1
+    },
+    {
+      "domain": "msn.com",
       "count": 1
     },
     {
@@ -7273,7 +7273,7 @@
     },
     {
       "date": "2025-12-08",
-      "views": 40,
+      "views": 30,
       "comments": 0,
       "reactions": 1
     },
@@ -7281,10 +7281,16 @@
       "date": "2025-12-09",
       "views": 42,
       "comments": 0,
-      "reactions": 0
+      "reactions": 1
     },
     {
       "date": "2025-12-10",
+      "views": 34,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
