@@ -131,13 +131,13 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 6851,
+      "views": 6849,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2083,
+      "views": 2073,
       "org_username": "aws-builders"
     },
     {
@@ -149,7 +149,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 1636,
+      "views": 1656,
       "org_username": "aws-builders"
     },
     {
@@ -165,21 +165,21 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
+      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
+      "views": 679,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
       "views": 670,
       "org_username": "aws-builders"
     },
     {
-      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
-      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 669,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 496,
+      "views": 485,
       "org_username": "aws-builders"
     },
     {
