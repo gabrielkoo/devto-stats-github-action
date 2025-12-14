@@ -4,24 +4,7 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 51
-    },
-    {
-      "domain": null,
-      "count": 38
-    },
-    {
-      "domain": "dev.to",
-      "count": 11
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-06-15",
@@ -1111,6 +1094,12 @@
     },
     {
       "date": "2025-12-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-14",
       "views": 0,
       "comments": 0,
       "reactions": 0
