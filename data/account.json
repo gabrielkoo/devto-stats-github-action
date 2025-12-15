@@ -1,156 +1,84 @@
 {
   "articles": 20,
-  "views": 28349,
+  "views": 28340,
   "comments": 17,
   "reactions": 193,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": null,
-      "count": 9127
+      "domain": "google.com",
+      "count": 2474
     },
     {
-      "domain": "google.com",
-      "count": 7002
+      "domain": null,
+      "count": 1874
     },
     {
       "domain": "dev.to",
-      "count": 754
-    },
-    {
-      "domain": "t.co",
-      "count": 620
+      "count": 282
     },
     {
       "domain": "linkedin.com",
-      "count": 574
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 335
+      "count": 91
     },
     {
       "domain": "bing.com",
-      "count": 298
+      "count": 73
     },
     {
       "domain": "office.net",
-      "count": 211
+      "count": 51
     },
     {
       "domain": "github.com",
-      "count": 159
+      "count": 48
     },
     {
-      "domain": "com.slack",
-      "count": 134
+      "domain": "duckduckgo.com",
+      "count": 41
     },
     {
-      "domain": "facebook.com",
-      "count": 122
-    },
-    {
-      "domain": "mrugalski.pl",
-      "count": 113
-    },
-    {
-      "domain": "tldrsec.com",
-      "count": 111
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 103
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 100
-    },
-    {
-      "domain": "brave.com",
-      "count": 93
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 92
+      "domain": "t.co",
+      "count": 23
     },
     {
       "domain": "linkedin.android",
-      "count": 81
-    },
-    {
-      "domain": "cloudseclist.com",
-      "count": 61
-    },
-    {
-      "domain": "substack.com",
-      "count": 59
-    },
-    {
-      "domain": "android.gm",
-      "count": 40
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 34
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 32
-    },
-    {
-      "domain": "microsoft.com",
-      "count": 30
-    },
-    {
-      "domain": "depths.so",
       "count": 21
-    },
-    {
-      "domain": "kagi.com",
-      "count": 20
     },
     {
       "domain": "daily.dev",
       "count": 17
     },
     {
-      "domain": "github.io",
-      "count": 14
-    },
-    {
-      "domain": "readysetcloud.io",
-      "count": 12
-    },
-    {
-      "domain": "maxwelldulin.com",
+      "domain": "android.googlequicksearchbox",
       "count": 11
     },
     {
-      "domain": "awssecuritydigest.com",
-      "count": 10
-    },
-    {
-      "domain": "offbynone.io",
-      "count": 10
-    },
-    {
-      "domain": "cloud.microsoft",
-      "count": 10
-    },
-    {
-      "domain": "google.co.jp",
-      "count": 10
-    },
-    {
-      "domain": "google.co.kr",
-      "count": 10
-    },
-    {
-      "domain": "google.co.uk",
-      "count": 10
+      "domain": "perplexity.ai",
+      "count": 11
     },
     {
       "domain": "claude.ai",
+      "count": 10
+    },
+    {
+      "domain": "raindrop.io",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "brave.com",
       "count": 10
     },
     {
@@ -158,23 +86,43 @@
       "count": 10
     },
     {
+      "domain": "substack.com",
+      "count": 7
+    },
+    {
       "domain": "google.lk",
       "count": 2
     },
     {
-      "domain": "bsky.app",
+      "domain": "inoreader.com",
+      "count": 2
+    },
+    {
+      "domain": "forem.com",
+      "count": 2
+    },
+    {
+      "domain": "instapaper.com",
       "count": 1
     },
     {
-      "domain": "inoreader.com",
+      "domain": "google.fr",
+      "count": 1
+    },
+    {
+      "domain": "msn.com",
+      "count": 1
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "beachgeek.co.uk",
       "count": 1
     },
     {
       "domain": "phpweekly.com",
-      "count": 1
-    },
-    {
-      "domain": "forem.com",
       "count": 1
     }
   ],
@@ -7249,7 +7197,7 @@
     },
     {
       "date": "2025-12-04",
-      "views": 93,
+      "views": 53,
       "comments": 0,
       "reactions": 0
     },
@@ -7309,6 +7257,12 @@
     },
     {
       "date": "2025-12-14",
+      "views": 31,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-15",
       "views": 0,
       "comments": 0,
       "reactions": 0
