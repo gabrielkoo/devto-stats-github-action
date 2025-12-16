@@ -1,79 +1,10 @@
 {
   "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-  "views": 1703,
+  "views": 1744,
   "comments": 4,
   "reactions": 22,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 863
-    },
-    {
-      "domain": null,
-      "count": 637
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 41
-    },
-    {
-      "domain": "dev.to",
-      "count": 40
-    },
-    {
-      "domain": "github.com",
-      "count": 31
-    },
-    {
-      "domain": "office.net",
-      "count": 30
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 21
-    },
-    {
-      "domain": "bing.com",
-      "count": 21
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 11
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 10
-    },
-    {
-      "domain": "brave.com",
-      "count": 10
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 10
-    },
-    {
-      "domain": "com.slack",
-      "count": 4
-    },
-    {
-      "domain": "substack.com",
-      "count": 3
-    },
-    {
-      "domain": "forem.com",
-      "count": 1
-    },
-    {
-      "domain": "beachgeek.co.uk",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-06-26",
@@ -1037,6 +968,84 @@
     },
     {
       "date": "2025-12-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-04",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-06",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-08",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-12",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-14",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-16",
       "views": 0,
       "comments": 0,
       "reactions": 0

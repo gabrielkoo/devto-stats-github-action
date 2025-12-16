@@ -4,7 +4,28 @@
   "comments": 0,
   "reactions": 7,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 73
+    },
+    {
+      "domain": "google.com",
+      "count": 14
+    },
+    {
+      "domain": "dev.to",
+      "count": 13
+    },
+    {
+      "domain": "brave.com",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-02-11",
@@ -1838,6 +1859,24 @@
     },
     {
       "date": "2025-12-13",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-14",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-16",
       "views": 0,
       "comments": 0,
       "reactions": 0
