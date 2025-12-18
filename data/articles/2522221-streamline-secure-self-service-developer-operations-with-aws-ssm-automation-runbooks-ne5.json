@@ -1,13 +1,13 @@
 {
   "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-  "views": 116,
+  "views": 126,
   "comments": 0,
   "reactions": 3,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 62
+      "count": 72
     },
     {
       "domain": null,
@@ -1255,6 +1255,12 @@
     },
     {
       "date": "2025-12-17",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-18",
       "views": 0,
       "comments": 0,
       "reactions": 0

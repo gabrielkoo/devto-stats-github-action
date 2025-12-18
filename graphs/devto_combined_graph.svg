@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Combined Activity</text>
-<text x="20" y="45" class="subtitle">20 articles • 28,545 total views • 193 total reactions</text>
+<text x="20" y="45" class="subtitle">20 articles • 28,621 total views • 193 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -384,10 +384,11 @@
 <rect x="744" y="121" width="12" height="12" fill="#40c463" class="day" data-date="2025-12-11" data-level="2"><title>December 11, 2025: 22 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-12" data-level="3"><title>December 12, 2025: 50 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2025-12-13" data-level="2"><title>December 13, 2025: 20 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-14" data-level="3"><title>December 14, 2025: 31 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-15" data-level="3"><title>December 15, 2025: 40 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-16" data-level="3"><title>December 16, 2025: 41 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-12-17" data-level="0"><title>December 17, 2025: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-14" data-level="3"><title>December 14, 2025: 42 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-15" data-level="3"><title>December 15, 2025: 65 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2025-12-16" data-level="3"><title>December 16, 2025: 61 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="107" width="12" height="12" fill="#40c463" class="day" data-date="2025-12-17" data-level="2"><title>December 17, 2025: 20 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2025-12-18" data-level="0"><title>December 18, 2025: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="58" y="60" class="month-label">Jan</text>
@@ -412,5 +413,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">352 days with activity in the last year</text>
+<text x="30" y="203" class="stats">353 days with activity in the last year</text>
 </svg>
