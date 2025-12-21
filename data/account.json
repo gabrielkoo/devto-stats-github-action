@@ -1,45 +1,45 @@
 {
   "articles": 20,
-  "views": 28652,
+  "views": 28673,
   "comments": 17,
   "reactions": 193,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 10484
+      "count": 10266
     },
     {
       "domain": "google.com",
-      "count": 9287
+      "count": 9160
     },
     {
       "domain": "dev.to",
-      "count": 912
+      "count": 842
     },
     {
       "domain": "t.co",
-      "count": 651
+      "count": 640
     },
     {
       "domain": "linkedin.com",
-      "count": 590
+      "count": 589
     },
     {
       "domain": "bing.com",
-      "count": 389
+      "count": 369
     },
     {
       "domain": "duckduckgo.com",
-      "count": 376
+      "count": 366
     },
     {
       "domain": "office.net",
-      "count": 261
+      "count": 251
     },
     {
       "domain": "github.com",
-      "count": 192
+      "count": 179
     },
     {
       "domain": "com.slack",
@@ -114,10 +114,6 @@
       "count": 21
     },
     {
-      "domain": "kagi.com",
-      "count": 20
-    },
-    {
       "domain": "daily.dev",
       "count": 17
     },
@@ -158,15 +154,15 @@
       "count": 10
     },
     {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
       "domain": "claude.ai",
       "count": 10
     },
     {
       "domain": "google.lk",
-      "count": 2
-    },
-    {
-      "domain": "inoreader.com",
       "count": 2
     },
     {
@@ -179,6 +175,10 @@
     },
     {
       "domain": "bsky.app",
+      "count": 1
+    },
+    {
+      "domain": "inoreader.com",
       "count": 1
     },
     {
@@ -7327,13 +7327,13 @@
     },
     {
       "date": "2025-12-15",
-      "views": 55,
+      "views": 65,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2025-12-16",
-      "views": 60,
+      "views": 61,
       "comments": 0,
       "reactions": 0
     },
@@ -7357,6 +7357,12 @@
     },
     {
       "date": "2025-12-20",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-21",
       "views": 0,
       "comments": 0,
       "reactions": 0
