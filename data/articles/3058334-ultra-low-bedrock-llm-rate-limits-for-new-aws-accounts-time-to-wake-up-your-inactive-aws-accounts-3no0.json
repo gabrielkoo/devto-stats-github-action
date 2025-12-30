@@ -4,7 +4,36 @@
   "comments": 1,
   "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 141
+    },
+    {
+      "domain": "google.com",
+      "count": 118
+    },
+    {
+      "domain": "dev.to",
+      "count": 25
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    },
+    {
+      "domain": "phpweekly.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-11-25",
@@ -212,6 +241,12 @@
     },
     {
       "date": "2025-12-29",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2025-12-30",
       "views": 0,
       "comments": 0,
       "reactions": 0
