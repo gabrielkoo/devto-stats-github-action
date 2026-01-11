@@ -4,7 +4,88 @@
   "comments": 5,
   "reactions": 48,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 7045
+    },
+    {
+      "domain": "t.co",
+      "count": 598
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 513
+    },
+    {
+      "domain": "google.com",
+      "count": 375
+    },
+    {
+      "domain": "dev.to",
+      "count": 280
+    },
+    {
+      "domain": "office.net",
+      "count": 171
+    },
+    {
+      "domain": "com.slack",
+      "count": 122
+    },
+    {
+      "domain": "facebook.com",
+      "count": 121
+    },
+    {
+      "domain": "mrugalski.pl",
+      "count": 113
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 111
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 81
+    },
+    {
+      "domain": "cloudseclist.com",
+      "count": 61
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 40
+    },
+    {
+      "domain": "android.gm",
+      "count": 40
+    },
+    {
+      "domain": "microsoft.com",
+      "count": 30
+    },
+    {
+      "domain": "github.io",
+      "count": 24
+    },
+    {
+      "domain": "substack.com",
+      "count": 20
+    },
+    {
+      "domain": "github.com",
+      "count": 13
+    },
+    {
+      "domain": "maxwelldulin.com",
+      "count": 11
+    },
+    {
+      "domain": "xcancel.com",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2024-10-27",
@@ -2642,12 +2723,6 @@
     },
     {
       "date": "2026-01-09",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-01-10",
       "views": 0,
       "comments": 0,
       "reactions": 0

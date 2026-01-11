@@ -137,7 +137,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2297,
+      "views": 2317,
       "org_username": "aws-builders"
     },
     {
@@ -161,19 +161,19 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 928,
+      "views": 938,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
+      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
+      "views": 689,
       "org_username": "aws-builders"
     },
     {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
       "views": 680,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
-      "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 679,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-      "views": 176,
+      "views": 186,
       "org_username": "aws-builders"
     },
     {
