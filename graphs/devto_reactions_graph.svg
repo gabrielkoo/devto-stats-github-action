@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Reactions</text>
-<text x="20" y="45" class="subtitle">20 articles • 29,316 total views • 193 total reactions</text>
+<text x="20" y="45" class="subtitle">20 articles • 29,350 total views • 193 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -384,7 +384,8 @@
 <rect x="744" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-08" data-level="0"><title>January 08, 2026: 42 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-09" data-level="0"><title>January 09, 2026: 55 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-10" data-level="0"><title>January 10, 2026: 30 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-11" data-level="0"><title>January 11, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-11" data-level="0"><title>January 11, 2026: 34 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-12" data-level="0"><title>January 12, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="58" y="60" class="month-label">Feb</text>
