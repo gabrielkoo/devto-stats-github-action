@@ -1,13 +1,13 @@
 {
   "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-  "views": 418,
+  "views": 428,
   "comments": 1,
   "reactions": 5,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 189
+      "count": 199
     },
     {
       "domain": null,
@@ -359,6 +359,12 @@
     },
     {
       "date": "2026-01-17",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-01-18",
       "views": 0,
       "comments": 0,
       "reactions": 0
