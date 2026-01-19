@@ -4,44 +4,7 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 97
-    },
-    {
-      "domain": null,
-      "count": 71
-    },
-    {
-      "domain": "bing.com",
-      "count": 20
-    },
-    {
-      "domain": "github.com",
-      "count": 12
-    },
-    {
-      "domain": "kagi.com",
-      "count": 10
-    },
-    {
-      "domain": "office.net",
-      "count": 10
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 10
-    },
-    {
-      "domain": "dev.to",
-      "count": 9
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -1029,12 +992,6 @@
     },
     {
       "date": "2026-01-13",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-01-14",
       "views": 0,
       "comments": 0,
       "reactions": 0
