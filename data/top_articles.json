@@ -143,7 +143,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 2029,
+      "views": 2031,
       "org_username": "aws-builders"
     },
     {
@@ -231,16 +231,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "views": 117,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 111,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
-      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 107,
-      "org_username": "aws-builders"
     }
   ]
 }
