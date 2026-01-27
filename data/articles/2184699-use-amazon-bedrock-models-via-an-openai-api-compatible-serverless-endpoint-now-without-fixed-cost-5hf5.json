@@ -1,91 +1,10 @@
 {
   "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-  "views": 7033,
+  "views": 7023,
   "comments": 1,
   "reactions": 33,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 5016
-    },
-    {
-      "domain": null,
-      "count": 966
-    },
-    {
-      "domain": "bing.com",
-      "count": 218
-    },
-    {
-      "domain": "dev.to",
-      "count": 206
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 163
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 95
-    },
-    {
-      "domain": "brave.com",
-      "count": 83
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 47
-    },
-    {
-      "domain": "github.com",
-      "count": 43
-    },
-    {
-      "domain": "substack.com",
-      "count": 39
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 31
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 22
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 21
-    },
-    {
-      "domain": "offbynone.io",
-      "count": 10
-    },
-    {
-      "domain": "cloud.microsoft",
-      "count": 10
-    },
-    {
-      "domain": "google.co.jp",
-      "count": 10
-    },
-    {
-      "domain": "office.net",
-      "count": 10
-    },
-    {
-      "domain": "google.co.kr",
-      "count": 10
-    },
-    {
-      "domain": "google.co.uk",
-      "count": 10
-    },
-    {
-      "domain": "kagi.com",
-      "count": 10
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-01-02",
@@ -2406,12 +2325,6 @@
     {
       "date": "2026-01-23",
       "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-01-24",
-      "views": 10,
       "comments": 0,
       "reactions": 0
     }

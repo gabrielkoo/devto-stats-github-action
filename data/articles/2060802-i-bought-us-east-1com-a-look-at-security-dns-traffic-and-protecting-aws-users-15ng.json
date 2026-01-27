@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": null,
-      "count": 7066
+      "count": 7076
     },
     {
       "domain": "t.co",
@@ -2820,12 +2820,6 @@
     {
       "date": "2026-01-25",
       "views": 20,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-01-26",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
