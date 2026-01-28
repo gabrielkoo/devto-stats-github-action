@@ -1,161 +1,121 @@
 {
   "articles": 20,
-  "views": 29932,
+  "views": 30015,
   "comments": 17,
   "reactions": 193,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": null,
-      "count": 10212
+      "count": 9208
     },
     {
       "domain": "google.com",
-      "count": 3837
+      "count": 7471
     },
     {
       "domain": "dev.to",
-      "count": 797
+      "count": 705
     },
     {
       "domain": "t.co",
-      "count": 731
+      "count": 631
     },
     {
       "domain": "linkedin.com",
-      "count": 730
+      "count": 551
     },
     {
-      "domain": "office.net",
-      "count": 222
+      "domain": "bing.com",
+      "count": 308
     },
     {
       "domain": "duckduckgo.com",
-      "count": 213
+      "count": 244
+    },
+    {
+      "domain": "office.net",
+      "count": 221
     },
     {
       "domain": "com.slack",
-      "count": 161
+      "count": 135
     },
     {
       "domain": "facebook.com",
-      "count": 133
-    },
-    {
-      "domain": "tldrsec.com",
-      "count": 131
-    },
-    {
-      "domain": "linkedin.android",
       "count": 121
-    },
-    {
-      "domain": "github.com",
-      "count": 118
     },
     {
       "domain": "mrugalski.pl",
       "count": 113
     },
     {
-      "domain": "bing.com",
-      "count": 92
+      "domain": "brave.com",
+      "count": 113
     },
     {
-      "domain": "chatgpt.com",
-      "count": 71
+      "domain": "tldrsec.com",
+      "count": 111
     },
     {
-      "domain": "perplexity.ai",
-      "count": 63
+      "domain": "android.googlequicksearchbox",
+      "count": 103
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 82
+    },
+    {
+      "domain": "github.com",
+      "count": 70
     },
     {
       "domain": "cloudseclist.com",
       "count": 61
     },
     {
-      "domain": "android.gm",
-      "count": 51
+      "domain": "chatgpt.com",
+      "count": 61
     },
     {
       "domain": "substack.com",
-      "count": 34
+      "count": 59
     },
     {
-      "domain": "aws-cloudsec.com",
-      "count": 32
+      "domain": "perplexity.ai",
+      "count": 58
     },
     {
-      "domain": "claude.ai",
-      "count": 30
+      "domain": "android.gm",
+      "count": 40
     },
     {
       "domain": "microsoft.com",
       "count": 30
     },
     {
-      "domain": "android.googlequicksearchbox",
-      "count": 24
+      "domain": "kagi.com",
+      "count": 30
     },
     {
       "domain": "github.io",
       "count": 24
     },
     {
-      "domain": "readysetcloud.io",
+      "domain": "google.com.hk",
+      "count": 23
+    },
+    {
+      "domain": "yahoo.com",
       "count": 22
-    },
-    {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
-      "domain": "kagi.com",
-      "count": 20
-    },
-    {
-      "domain": "brave.com",
-      "count": 20
     },
     {
       "domain": "daily.dev",
       "count": 17
     },
     {
-      "domain": "devpost.com",
-      "count": 13
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 12
-    },
-    {
-      "domain": "awssecuritydigest.com",
-      "count": 11
-    },
-    {
-      "domain": "google.co.uk",
-      "count": 11
-    },
-    {
-      "domain": "bsky.app",
-      "count": 11
-    },
-    {
       "domain": "maxwelldulin.com",
       "count": 11
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 11
-    },
-    {
-      "domain": "googleusercontent.com",
-      "count": 10
-    },
-    {
-      "domain": "raindrop.io",
-      "count": 10
     },
     {
       "domain": "xcancel.com",
@@ -166,27 +126,35 @@
       "count": 10
     },
     {
+      "domain": "offbynone.io",
+      "count": 10
+    },
+    {
+      "domain": "cloud.microsoft",
+      "count": 10
+    },
+    {
+      "domain": "google.co.jp",
+      "count": 10
+    },
+    {
+      "domain": "google.co.kr",
+      "count": 10
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 10
+    },
+    {
       "domain": "google.lk",
       "count": 2
     },
     {
-      "domain": "feishu.cn",
-      "count": 1
-    },
-    {
-      "domain": "instapaper.com",
-      "count": 1
-    },
-    {
-      "domain": "google.fr",
-      "count": 1
-    },
-    {
-      "domain": "msn.com",
-      "count": 1
-    },
-    {
       "domain": "inoreader.com",
+      "count": 2
+    },
+    {
+      "domain": "bsky.app",
       "count": 1
     },
     {
@@ -7575,7 +7543,7 @@
     },
     {
       "date": "2026-01-24",
-      "views": 2,
+      "views": 12,
       "comments": 0,
       "reactions": 0
     },
@@ -7587,12 +7555,18 @@
     },
     {
       "date": "2026-01-26",
-      "views": 60,
+      "views": 71,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2026-01-27",
+      "views": 62,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-01-28",
       "views": 0,
       "comments": 0,
       "reactions": 0
