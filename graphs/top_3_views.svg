@@ -34,9 +34,9 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd" target="_blank">
 <text x="50" y="235" class="article-title">🚀 AWS Launches OpenAI-Compatible API for Bedroc...</text>
-<rect x="50" y="240" width="97.23935686115887" height="40" fill="#2563eb" class="bar">
-<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 2,404 views - Click to view article</title>
+<rect x="50" y="240" width="96.83486702396603" height="40" fill="#2563eb" class="bar">
+<title>🚀 AWS Launches OpenAI-Compatible API for Bedroc...: 2,394 views - Click to view article</title>
 </rect>
-<text x="87.23935686115885" y="265" class="metric-value" fill="#ffffff">2,404 views</text>
+<text x="86.83486702396601" y="265" class="metric-value" fill="#ffffff">2,394 views</text>
 </a>
 </svg>

@@ -386,9 +386,10 @@
 <rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2026-01-24" data-level="2"><title>January 24, 2026: 12 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-25" data-level="3"><title>January 25, 2026: 61 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-26" data-level="3"><title>January 26, 2026: 71 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-27" data-level="3"><title>January 27, 2026: 72 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-28" data-level="3"><title>January 28, 2026: 54 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-27" data-level="3"><title>January 27, 2026: 62 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2026-01-28" data-level="3"><title>January 28, 2026: 64 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-29" data-level="0"><title>January 29, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="135" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-30" data-level="0"><title>January 30, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="30" y="60" class="month-label">Feb</text>
