@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Reactions</text>
-<text x="20" y="45" class="subtitle">20 articles • 30,207 total views • 193 total reactions</text>
+<text x="20" y="45" class="subtitle">20 articles • 30,251 total views • 193 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -383,9 +383,10 @@
 <rect x="744" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-28" data-level="0"><title>January 28, 2026: 68 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-29" data-level="0"><title>January 29, 2026: 14 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-30" data-level="0"><title>January 30, 2026: 27 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-31" data-level="0"><title>January 31, 2026: 21 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-01-31" data-level="0"><title>January 31, 2026: 11 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-01" data-level="0"><title>February 01, 2026: 52 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-02" data-level="0"><title>February 02, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-02" data-level="0"><title>February 02, 2026: 54 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-03" data-level="0"><title>February 03, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="72" y="60" class="month-label">Mar</text>
