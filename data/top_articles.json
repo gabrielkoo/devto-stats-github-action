@@ -131,19 +131,19 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7088,
+      "views": 7078,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2451,
+      "views": 2472,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 2173,
+      "views": 2213,
       "org_username": "aws-builders"
     },
     {
@@ -161,7 +161,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 948,
+      "views": 958,
       "org_username": "aws-builders"
     },
     {
@@ -239,7 +239,7 @@
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 117,
+      "views": 127,
       "org_username": "aws-builders"
     }
   ]
