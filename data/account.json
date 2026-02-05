@@ -1,45 +1,61 @@
 {
   "articles": 20,
-  "views": 30322,
+  "views": 30375,
   "comments": 17,
   "reactions": 193,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": "google.com",
-      "count": 9906
+      "domain": null,
+      "count": 11137
     },
     {
-      "domain": null,
-      "count": 4378
+      "domain": "google.com",
+      "count": 9946
     },
     {
       "domain": "dev.to",
-      "count": 769
-    },
-    {
-      "domain": "bing.com",
-      "count": 410
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 356
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 206
-    },
-    {
-      "domain": "github.com",
-      "count": 159
+      "count": 1032
     },
     {
       "domain": "t.co",
-      "count": 152
+      "count": 743
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 708
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 387
+    },
+    {
+      "domain": "bing.com",
+      "count": 381
+    },
+    {
+      "domain": "office.net",
+      "count": 242
+    },
+    {
+      "domain": "com.slack",
+      "count": 170
+    },
+    {
+      "domain": "facebook.com",
+      "count": 133
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 131
     },
     {
       "domain": "brave.com",
       "count": 123
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 122
     },
     {
       "domain": "chatgpt.com",
@@ -54,24 +70,24 @@
       "count": 117
     },
     {
-      "domain": "office.net",
-      "count": 91
+      "domain": "mrugalski.pl",
+      "count": 113
+    },
+    {
+      "domain": "github.com",
+      "count": 85
     },
     {
       "domain": "substack.com",
-      "count": 53
+      "count": 73
     },
     {
-      "domain": "com.slack",
-      "count": 47
+      "domain": "cloudseclist.com",
+      "count": 61
     },
     {
-      "domain": "linkedin.android",
-      "count": 41
-    },
-    {
-      "domain": "kagi.com",
-      "count": 40
+      "domain": "android.gm",
+      "count": 51
     },
     {
       "domain": "google.com.hk",
@@ -90,19 +106,19 @@
       "count": 30
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 22
+      "domain": "microsoft.com",
+      "count": 30
+    },
+    {
+      "domain": "kagi.com",
+      "count": 30
+    },
+    {
+      "domain": "github.io",
+      "count": 24
     },
     {
       "domain": "google.co.uk",
-      "count": 21
-    },
-    {
-      "domain": "depths.so",
-      "count": 21
-    },
-    {
-      "domain": "tldrsec.com",
       "count": 20
     },
     {
@@ -110,23 +126,23 @@
       "count": 20
     },
     {
-      "domain": "devpost.com",
-      "count": 13
+      "domain": "daily.dev",
+      "count": 17
     },
     {
-      "domain": "facebook.com",
-      "count": 12
+      "domain": "devpost.com",
+      "count": 13
     },
     {
       "domain": "awssecuritydigest.com",
       "count": 11
     },
     {
-      "domain": "android.gm",
+      "domain": "bsky.app",
       "count": 11
     },
     {
-      "domain": "bsky.app",
+      "domain": "maxwelldulin.com",
       "count": 11
     },
     {
@@ -135,6 +151,10 @@
     },
     {
       "domain": "raindrop.io",
+      "count": 10
+    },
+    {
+      "domain": "xcancel.com",
       "count": 10
     },
     {
@@ -154,15 +174,23 @@
       "count": 10
     },
     {
+      "domain": "readysetcloud.io",
+      "count": 10
+    },
+    {
+      "domain": "google.lk",
+      "count": 2
+    },
+    {
+      "domain": "inoreader.com",
+      "count": 2
+    },
+    {
       "domain": "feishu.cn",
       "count": 1
     },
     {
-      "domain": "google.fr",
-      "count": 1
-    },
-    {
-      "domain": "msn.com",
+      "domain": "instapaper.com",
       "count": 1
     },
     {
@@ -171,10 +199,6 @@
     },
     {
       "domain": "forem.com",
-      "count": 1
-    },
-    {
-      "domain": "inoreader.com",
       "count": 1
     }
   ],
@@ -7585,7 +7609,7 @@
     },
     {
       "date": "2026-01-29",
-      "views": 14,
+      "views": 1,
       "comments": 0,
       "reactions": 0
     },
@@ -7621,6 +7645,12 @@
     },
     {
       "date": "2026-02-04",
+      "views": 66,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-05",
       "views": 0,
       "comments": 0,
       "reactions": 0
