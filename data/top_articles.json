@@ -73,6 +73,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "reactions": 5,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "reactions": 4,
@@ -97,12 +103,6 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "reactions": 3,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "reactions": 2,
@@ -119,6 +119,12 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "reactions": 2,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
+      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
+      "reactions": 0,
+      "org_username": "aws-builders"
     }
   ],
   "by_views": [
@@ -131,19 +137,19 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7110,
+      "views": 7128,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2526,
+      "views": 2536,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 2373,
+      "views": 2388,
       "org_username": "aws-builders"
     },
     {
@@ -240,6 +246,12 @@
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 127,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
+      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
+      "views": 38,
       "org_username": "aws-builders"
     }
   ]
