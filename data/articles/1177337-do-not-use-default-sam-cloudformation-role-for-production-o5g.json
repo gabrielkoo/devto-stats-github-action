@@ -4,44 +4,7 @@
   "comments": 1,
   "reactions": 9,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 428
-    },
-    {
-      "domain": null,
-      "count": 202
-    },
-    {
-      "domain": "dev.to",
-      "count": 24
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 20
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 12
-    },
-    {
-      "domain": "instapaper.com",
-      "count": 1
-    },
-    {
-      "domain": "github.com",
-      "count": 1
-    },
-    {
-      "domain": "bing.com",
-      "count": 1
-    },
-    {
-      "domain": "com.slack",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2022-09-13",
@@ -7509,12 +7472,6 @@
     },
     {
       "date": "2026-02-08",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-02-09",
       "views": 0,
       "comments": 0,
       "reactions": 0

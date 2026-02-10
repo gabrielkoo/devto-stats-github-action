@@ -1,10 +1,83 @@
 {
   "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-  "views": 2536,
+  "views": 2549,
   "comments": 2,
   "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 1575
+    },
+    {
+      "domain": null,
+      "count": 379
+    },
+    {
+      "domain": "dev.to",
+      "count": 161
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 122
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 63
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 61
+    },
+    {
+      "domain": "bing.com",
+      "count": 60
+    },
+    {
+      "domain": "github.com",
+      "count": 23
+    },
+    {
+      "domain": "claude.ai",
+      "count": 20
+    },
+    {
+      "domain": "brave.com",
+      "count": 20
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 12
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 11
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 10
+    },
+    {
+      "domain": "ecosia.org",
+      "count": 10
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    },
+    {
+      "domain": "facebook.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-08-06",
@@ -1130,6 +1203,12 @@
     },
     {
       "date": "2026-02-09",
+      "views": 13,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-10",
       "views": 0,
       "comments": 0,
       "reactions": 0
