@@ -1,71 +1,10 @@
 {
   "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-  "views": 2403,
+  "views": 2424,
   "comments": 0,
   "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 1793
-    },
-    {
-      "domain": null,
-      "count": 367
-    },
-    {
-      "domain": "bing.com",
-      "count": 71
-    },
-    {
-      "domain": "dev.to",
-      "count": 36
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 32
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 20
-    },
-    {
-      "domain": "office.net",
-      "count": 20
-    },
-    {
-      "domain": "brave.com",
-      "count": 20
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 11
-    },
-    {
-      "domain": "com.slack",
-      "count": 10
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 10
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 1
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 1
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-08-27",
@@ -1071,6 +1010,12 @@
     },
     {
       "date": "2026-02-10",
+      "views": 21,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
