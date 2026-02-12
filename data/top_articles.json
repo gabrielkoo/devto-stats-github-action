@@ -79,6 +79,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
+      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
+      "reactions": 4,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "reactions": 4,
@@ -88,12 +94,6 @@
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
       "reactions": 4,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
-      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "reactions": 3,
       "org_username": "aws-builders"
     },
     {
@@ -137,13 +137,13 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7151,
+      "views": 7182,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2563,
+      "views": 2573,
       "org_username": "aws-builders"
     },
     {
@@ -165,15 +165,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
-      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 998,
+      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
+      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
+      "views": 1023,
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
-      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 755,
+      "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
+      "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
+      "views": 998,
       "org_username": "aws-builders"
     },
     {
