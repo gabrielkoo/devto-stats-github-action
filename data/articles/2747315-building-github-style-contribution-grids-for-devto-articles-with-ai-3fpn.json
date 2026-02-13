@@ -4,7 +4,44 @@
   "comments": 0,
   "reactions": 7,
   "org_username": "kirodotdev",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 181
+    },
+    {
+      "domain": "dev.to",
+      "count": 41
+    },
+    {
+      "domain": "google.com",
+      "count": 36
+    },
+    {
+      "domain": "devpost.com",
+      "count": 13
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "readysetcloud.io",
+      "count": 10
+    },
+    {
+      "domain": "github.com",
+      "count": 1
+    },
+    {
+      "domain": "feishu.cn",
+      "count": 1
+    },
+    {
+      "domain": "android.gm",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -1142,12 +1179,6 @@
     },
     {
       "date": "2026-02-07",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-02-08",
       "views": 0,
       "comments": 0,
       "reactions": 0
