@@ -1,6 +1,6 @@
 {
   "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-  "views": 294,
+  "views": 304,
   "comments": 0,
   "reactions": 7,
   "org_username": "kirodotdev",
@@ -10,12 +10,12 @@
       "count": 181
     },
     {
-      "domain": "dev.to",
-      "count": 41
+      "domain": "google.com",
+      "count": 46
     },
     {
-      "domain": "google.com",
-      "count": 36
+      "domain": "dev.to",
+      "count": 41
     },
     {
       "domain": "devpost.com",
@@ -1179,6 +1179,48 @@
     },
     {
       "date": "2026-02-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-08",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-12",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-13",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-14",
       "views": 0,
       "comments": 0,
       "reactions": 0
