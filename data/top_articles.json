@@ -149,13 +149,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 2535,
+      "views": 2555,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 2028,
+      "views": 2180,
       "org_username": "aws-builders"
     },
     {
@@ -173,7 +173,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 998,
+      "views": 1008,
       "org_username": "aws-builders"
     },
     {
@@ -197,7 +197,13 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 528,
+      "views": 538,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "views": 323,
       "org_username": "aws-builders"
     },
     {
@@ -211,12 +217,6 @@
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
       "views": 304,
       "org_username": "kirodotdev"
-    },
-    {
-      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
-      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-      "views": 303,
-      "org_username": "aws-builders"
     },
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
