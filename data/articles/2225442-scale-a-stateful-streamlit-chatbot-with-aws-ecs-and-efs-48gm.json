@@ -1,8 +1,8 @@
 {
   "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-  "views": 1008,
+  "views": 1010,
   "comments": 0,
-  "reactions": 5,
+  "reactions": 6,
   "org_username": "aws-builders",
   "referrers": [
     {
@@ -11,11 +11,11 @@
     },
     {
       "domain": null,
-      "count": 245
+      "count": 246
     },
     {
       "domain": "dev.to",
-      "count": 37
+      "count": 38
     },
     {
       "domain": "office.net",
@@ -2395,6 +2395,12 @@
     },
     {
       "date": "2026-02-15",
+      "views": 2,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2026-02-16",
       "views": 0,
       "comments": 0,
       "reactions": 0
