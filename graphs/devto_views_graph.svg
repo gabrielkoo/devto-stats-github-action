@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Views</text>
-<text x="20" y="45" class="subtitle">21 articles • 33,465 total views • 207 total reactions</text>
+<text x="20" y="45" class="subtitle">21 articles • 33,846 total views • 209 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -385,7 +385,8 @@
 <rect x="744" y="135" width="12" height="12" fill="#216e39" class="day" data-date="2026-02-13" data-level="4"><title>February 13, 2026: 349 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="149" width="12" height="12" fill="#216e39" class="day" data-date="2026-02-14" data-level="4"><title>February 14, 2026: 202 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#216e39" class="day" data-date="2026-02-15" data-level="4"><title>February 15, 2026: 188 views, 0 comments, 2 reactions</title></rect>
-<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-16" data-level="0"><title>February 16, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#216e39" class="day" data-date="2026-02-16" data-level="4"><title>February 16, 2026: 381 views, 0 comments, 2 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-02-17" data-level="0"><title>February 17, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="44" y="60" class="month-label">Mar</text>
@@ -410,5 +411,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">352 days with activity in the last year</text>
+<text x="30" y="203" class="stats">353 days with activity in the last year</text>
 </svg>
