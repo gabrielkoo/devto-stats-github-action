@@ -1,10 +1,91 @@
 {
   "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-  "views": 7182,
+  "views": 7202,
   "comments": 1,
   "reactions": 33,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 5081
+    },
+    {
+      "domain": null,
+      "count": 981
+    },
+    {
+      "domain": "bing.com",
+      "count": 248
+    },
+    {
+      "domain": "dev.to",
+      "count": 235
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 183
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 95
+    },
+    {
+      "domain": "brave.com",
+      "count": 83
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 57
+    },
+    {
+      "domain": "github.com",
+      "count": 43
+    },
+    {
+      "domain": "substack.com",
+      "count": 39
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 31
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 22
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 21
+    },
+    {
+      "domain": "offbynone.io",
+      "count": 10
+    },
+    {
+      "domain": "cloud.microsoft",
+      "count": 10
+    },
+    {
+      "domain": "google.co.jp",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "google.co.kr",
+      "count": 10
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-01-02",
@@ -2468,6 +2549,24 @@
     },
     {
       "date": "2026-02-16",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-17",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-18",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-19",
       "views": 0,
       "comments": 0,
       "reactions": 0

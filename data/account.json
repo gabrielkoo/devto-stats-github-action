@@ -1,57 +1,69 @@
 {
   "articles": 21,
-  "views": 34052,
+  "views": 34258,
   "comments": 17,
   "reactions": 209,
   "username": "gabrielkoo",
   "referrers": [
     {
-      "domain": null,
-      "count": 12246
+      "domain": "google.com",
+      "count": 13586
     },
     {
-      "domain": "google.com",
-      "count": 9056
+      "domain": null,
+      "count": 12640
     },
     {
       "domain": "dev.to",
-      "count": 994
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 773
+      "count": 1134
     },
     {
       "domain": "t.co",
       "count": 763
     },
     {
+      "domain": "linkedin.com",
+      "count": 736
+    },
+    {
       "domain": "duckduckgo.com",
-      "count": 356
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 355
-    },
-    {
-      "domain": "office.net",
-      "count": 292
+      "count": 550
     },
     {
       "domain": "bing.com",
-      "count": 244
+      "count": 471
     },
     {
-      "domain": "com.slack",
-      "count": 185
+      "domain": "android.googlequicksearchbox",
+      "count": 443
+    },
+    {
+      "domain": "office.net",
+      "count": 301
     },
     {
       "domain": "github.com",
-      "count": 162
+      "count": 203
+    },
+    {
+      "domain": "com.slack",
+      "count": 181
+    },
+    {
+      "domain": "brave.com",
+      "count": 175
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 143
     },
     {
       "domain": "linkedin.android",
       "count": 143
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 133
     },
     {
       "domain": "facebook.com",
@@ -66,16 +78,8 @@
       "count": 113
     },
     {
-      "domain": "chatgpt.com",
-      "count": 112
-    },
-    {
-      "domain": "brave.com",
-      "count": 102
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 86
+      "domain": "substack.com",
+      "count": 72
     },
     {
       "domain": "cloudseclist.com",
@@ -90,8 +94,12 @@
       "count": 50
     },
     {
-      "domain": "substack.com",
-      "count": 37
+      "domain": "google.com.hk",
+      "count": 45
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 33
     },
     {
       "domain": "aws-cloudsec.com",
@@ -103,10 +111,6 @@
     },
     {
       "domain": "microsoft.com",
-      "count": 30
-    },
-    {
-      "domain": "claude.ai",
       "count": 30
     },
     {
@@ -122,6 +126,14 @@
       "count": 21
     },
     {
+      "domain": "google.co.uk",
+      "count": 21
+    },
+    {
+      "domain": "claude.ai",
+      "count": 20
+    },
+    {
       "domain": "daily.dev",
       "count": 17
     },
@@ -130,19 +142,7 @@
       "count": 13
     },
     {
-      "domain": "google.com.hk",
-      "count": 13
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 12
-    },
-    {
       "domain": "awssecuritydigest.com",
-      "count": 11
-    },
-    {
-      "domain": "google.co.uk",
       "count": 11
     },
     {
@@ -166,11 +166,23 @@
       "count": 10
     },
     {
-      "domain": "xcancel.com",
+      "domain": "offbynone.io",
       "count": 10
     },
     {
-      "domain": "raindrop.io",
+      "domain": "cloud.microsoft",
+      "count": 10
+    },
+    {
+      "domain": "google.co.jp",
+      "count": 10
+    },
+    {
+      "domain": "google.co.kr",
+      "count": 10
+    },
+    {
+      "domain": "xcancel.com",
       "count": 10
     },
     {
@@ -178,12 +190,12 @@
       "count": 2
     },
     {
-      "domain": "forem.com",
+      "domain": "google.lk",
       "count": 2
     },
     {
-      "domain": "google.lk",
-      "count": 2
+      "domain": "forem.com",
+      "count": 1
     },
     {
       "domain": "beachgeek.co.uk",
@@ -203,10 +215,6 @@
     },
     {
       "domain": "msn.com",
-      "count": 1
-    },
-    {
-      "domain": "phpweekly.com",
       "count": 1
     }
   ],
@@ -7737,6 +7745,12 @@
     },
     {
       "date": "2026-02-18",
+      "views": 206,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-19",
       "views": 0,
       "comments": 0,
       "reactions": 0
