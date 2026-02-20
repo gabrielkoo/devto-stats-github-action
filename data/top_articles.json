@@ -109,6 +109,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
+      "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
+      "reactions": 2,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "reactions": 2,
@@ -143,7 +149,7 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 2942,
+      "views": 3106,
       "org_username": "aws-builders"
     },
     {
@@ -155,7 +161,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2613,
+      "views": 2633,
       "org_username": "aws-builders"
     },
     {
@@ -191,7 +197,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 588,
+      "views": 598,
       "org_username": "aws-builders"
     },
     {
@@ -253,6 +259,12 @@
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 127,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
+      "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
+      "views": 18,
+      "org_username": "gabrielkoo"
     }
   ]
 }
