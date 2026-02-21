@@ -131,6 +131,12 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "reactions": 2,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "reactions": 0,
+      "org_username": "aws-builders"
     }
   ],
   "by_views": [
@@ -149,19 +155,19 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 3106,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 2670,
+      "views": 3220,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2633,
+      "views": 2635,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 2607,
       "org_username": "aws-builders"
     },
     {
@@ -173,7 +179,7 @@
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1551,
+      "views": 1553,
       "org_username": "aws-builders"
     },
     {
@@ -197,7 +203,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 598,
+      "views": 618,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +221,7 @@
     {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 320,
+      "views": 322,
       "org_username": "aws-builders"
     },
     {
@@ -258,6 +264,12 @@
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 127,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "views": 27,
       "org_username": "aws-builders"
     },
     {

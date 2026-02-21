@@ -1,17 +1,17 @@
 {
   "title": "`safeaws` checks your AWS CLI commands before they are run",
-  "views": 320,
+  "views": 322,
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 169
+      "count": 170
     },
     {
       "domain": "google.com",
-      "count": 85
+      "count": 86
     },
     {
       "domain": "dev.to",
@@ -4098,6 +4098,36 @@
     {
       "date": "2026-02-16",
       "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-17",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-20",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-02-21",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }

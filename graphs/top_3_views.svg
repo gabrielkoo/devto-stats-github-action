@@ -34,9 +34,9 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514" target="_blank">
 <text x="50" y="235" class="article-title">AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...</text>
-<rect x="50" y="240" width="125.3683148335015" height="40" fill="#2563eb" class="bar">
-<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,106 views - Click to view article</title>
+<rect x="50" y="240" width="129.9697275479314" height="40" fill="#2563eb" class="bar">
+<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,220 views - Click to view article</title>
 </rect>
-<text x="115.3683148335015" y="265" class="metric-value" fill="#ffffff">3,106 views</text>
+<text x="119.9697275479314" y="265" class="metric-value" fill="#ffffff">3,220 views</text>
 </a>
 </svg>
