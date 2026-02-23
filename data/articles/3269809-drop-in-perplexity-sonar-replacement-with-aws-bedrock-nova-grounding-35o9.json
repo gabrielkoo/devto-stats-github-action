@@ -6,20 +6,20 @@
   "org_username": "aws-builders",
   "referrers": [
     {
+      "domain": null,
+      "count": 21
+    },
+    {
       "domain": "facebook.com",
       "count": 20
     },
     {
-      "domain": null,
+      "domain": "google.com",
       "count": 11
     },
     {
       "domain": "dev.to",
       "count": 6
-    },
-    {
-      "domain": "google.com",
-      "count": 1
     }
   ],
   "breakdown": [
@@ -32,12 +32,6 @@
     {
       "date": "2026-02-21",
       "views": 11,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-02-22",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
