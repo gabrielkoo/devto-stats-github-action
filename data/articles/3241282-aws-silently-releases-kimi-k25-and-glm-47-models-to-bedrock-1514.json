@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2179
+      "count": 2229
     },
     {
       "domain": null,
-      "count": 732
+      "count": 734
     },
     {
       "domain": "android.googlequicksearchbox",
@@ -56,6 +56,10 @@
     {
       "domain": "chatgpt.com",
       "count": 2
+    },
+    {
+      "domain": "claude.ai",
+      "count": 1
     },
     {
       "domain": "perplexity.ai",
@@ -176,12 +180,6 @@
       "views": 15,
       "comments": 0,
       "reactions": 1
-    },
-    {
-      "date": "2026-02-27",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
     }
   ]
 }
