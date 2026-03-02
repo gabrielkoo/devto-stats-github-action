@@ -26,17 +26,17 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="292.67406659939456" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,251 views - Click to view article</title>
+<rect x="50" y="160" width="292.2704339051463" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,241 views - Click to view article</title>
 </rect>
-<text x="282.67406659939456" y="185" class="metric-value" fill="#ffffff">7,251 views</text>
+<text x="282.2704339051463" y="185" class="metric-value" fill="#ffffff">7,241 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514" target="_blank">
 <text x="50" y="235" class="article-title">AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...</text>
-<rect x="50" y="240" width="149.70736629667002" height="40" fill="#2563eb" class="bar">
-<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,709 views - Click to view article</title>
+<rect x="50" y="240" width="148.90010090817356" height="40" fill="#2563eb" class="bar">
+<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,689 views - Click to view article</title>
 </rect>
-<text x="139.70736629667002" y="265" class="metric-value" fill="#ffffff">3,709 views</text>
+<text x="138.90010090817356" y="265" class="metric-value" fill="#ffffff">3,689 views</text>
 </a>
 </svg>
