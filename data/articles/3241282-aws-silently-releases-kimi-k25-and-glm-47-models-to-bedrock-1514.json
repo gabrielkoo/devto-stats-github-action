@@ -1,71 +1,10 @@
 {
   "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-  "views": 3669,
+  "views": 3709,
   "comments": 0,
   "reactions": 13,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 2249
-    },
-    {
-      "domain": null,
-      "count": 764
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 331
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 132
-    },
-    {
-      "domain": "bing.com",
-      "count": 60
-    },
-    {
-      "domain": "dev.to",
-      "count": 47
-    },
-    {
-      "domain": "brave.com",
-      "count": 42
-    },
-    {
-      "domain": "kagi.com",
-      "count": 20
-    },
-    {
-      "domain": "com.slack",
-      "count": 10
-    },
-    {
-      "domain": "google.com.tw",
-      "count": 10
-    },
-    {
-      "domain": "office.net",
-      "count": 10
-    },
-    {
-      "domain": "qwant.com",
-      "count": 10
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 2
-    },
-    {
-      "domain": "claude.ai",
-      "count": 1
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-02-08",
@@ -190,6 +129,18 @@
     {
       "date": "2026-02-28",
       "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-01",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-02",
+      "views": 20,
       "comments": 0,
       "reactions": 0
     }
