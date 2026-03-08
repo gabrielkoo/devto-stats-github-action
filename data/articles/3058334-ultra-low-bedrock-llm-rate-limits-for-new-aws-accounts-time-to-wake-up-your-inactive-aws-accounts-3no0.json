@@ -4,7 +4,44 @@
   "comments": 1,
   "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 353
+    },
+    {
+      "domain": null,
+      "count": 252
+    },
+    {
+      "domain": "dev.to",
+      "count": 45
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    },
+    {
+      "domain": "phpweekly.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-11-25",
@@ -614,12 +651,6 @@
     },
     {
       "date": "2026-03-06",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-03-07",
       "views": 0,
       "comments": 0,
       "reactions": 0

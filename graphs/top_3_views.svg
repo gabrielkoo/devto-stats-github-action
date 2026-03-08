@@ -19,24 +19,24 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 9,920 views - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 9,910 views - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,920 views</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,910 views</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="294.03225806451616" height="40" fill="#2563eb" class="bar">
+<rect x="50" y="160" width="294.32896064581234" height="40" fill="#2563eb" class="bar">
 <title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,292 views - Click to view article</title>
 </rect>
-<text x="284.03225806451616" y="185" class="metric-value" fill="#ffffff">7,292 views</text>
+<text x="284.32896064581234" y="185" class="metric-value" fill="#ffffff">7,292 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514" target="_blank">
 <text x="50" y="235" class="article-title">AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...</text>
-<rect x="50" y="240" width="159.51612903225808" height="40" fill="#2563eb" class="bar">
-<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,956 views - Click to view article</title>
+<rect x="50" y="240" width="160.12108980827446" height="40" fill="#2563eb" class="bar">
+<title>AWS Silently Releases Kimi K2.5 and GLM 4.7 Mod...: 3,967 views - Click to view article</title>
 </rect>
-<text x="149.51612903225808" y="265" class="metric-value" fill="#ffffff">3,956 views</text>
+<text x="150.12108980827446" y="265" class="metric-value" fill="#ffffff">3,967 views</text>
 </a>
 </svg>
