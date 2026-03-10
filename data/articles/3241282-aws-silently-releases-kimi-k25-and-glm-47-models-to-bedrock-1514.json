@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2393
+      "count": 2423
     },
     {
       "domain": null,
@@ -59,6 +59,10 @@
     },
     {
       "domain": "qwant.com",
+      "count": 10
+    },
+    {
+      "domain": "ecosia.org",
       "count": 10
     },
     {
@@ -242,12 +246,6 @@
     {
       "date": "2026-03-08",
       "views": 20,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-03-09",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
