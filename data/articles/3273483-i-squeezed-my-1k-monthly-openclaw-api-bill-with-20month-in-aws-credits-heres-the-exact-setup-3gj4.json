@@ -1,21 +1,21 @@
 {
   "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-  "views": 3215,
+  "views": 3299,
   "comments": 2,
   "reactions": 18,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2086
+      "count": 2136
     },
     {
       "domain": null,
-      "count": 890
+      "count": 902
     },
     {
       "domain": "dev.to",
-      "count": 63
+      "count": 64
     },
     {
       "domain": "brave.com",
@@ -34,23 +34,11 @@
       "count": 20
     },
     {
-      "domain": "google.ru",
-      "count": 10
-    },
-    {
-      "domain": "google.cz",
-      "count": 10
-    },
-    {
       "domain": "com.slack",
-      "count": 10
+      "count": 11
     },
     {
-      "domain": "chatgpt.com",
-      "count": 10
-    },
-    {
-      "domain": "google.com.hk",
+      "domain": "android.googlequicksearchbox",
       "count": 10
     },
     {
@@ -63,6 +51,26 @@
     },
     {
       "domain": "yandex.com",
+      "count": 10
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 10
+    },
+    {
+      "domain": "google.ru",
+      "count": 10
+    },
+    {
+      "domain": "google.cz",
+      "count": 10
+    },
+    {
+      "domain": "translate.goog",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
       "count": 10
     }
   ],
@@ -171,6 +179,12 @@
     },
     {
       "date": "2026-03-10",
+      "views": 84,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-11",
       "views": 0,
       "comments": 0,
       "reactions": 0

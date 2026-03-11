@@ -161,31 +161,31 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 3987,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 3240,
+      "views": 3967,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 3215,
+      "views": 3299,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 3220,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2799,
+      "views": 2810,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 1957,
+      "views": 1977,
       "org_username": "aws-builders"
     },
     {
@@ -197,7 +197,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1030,
+      "views": 1035,
       "org_username": "aws-builders"
     },
     {
@@ -209,7 +209,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 702,
+      "views": 722,
       "org_username": "aws-builders"
     },
     {
@@ -251,7 +251,7 @@
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-      "views": 186,
+      "views": 187,
       "org_username": "aws-builders"
     },
     {
@@ -273,15 +273,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
-      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 127,
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "views": 128,
       "org_username": "aws-builders"
     },
     {
-      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
-      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 126,
+      "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
+      "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
+      "views": 127,
       "org_username": "aws-builders"
     },
     {
