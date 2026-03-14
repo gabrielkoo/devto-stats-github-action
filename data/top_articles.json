@@ -139,6 +139,12 @@
       "org_username": "gabrielkoo"
     },
     {
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
       "reactions": 0,
@@ -155,19 +161,19 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7322,
+      "views": 7332,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4127,
+      "views": 4067,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 3476,
+      "views": 3603,
       "org_username": "aws-builders"
     },
     {
@@ -275,13 +281,19 @@
     {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 128,
+      "views": 130,
       "org_username": "aws-builders"
     },
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 127,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "views": 51,
       "org_username": "aws-builders"
     },
     {
