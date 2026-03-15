@@ -11,11 +11,11 @@
     },
     {
       "domain": null,
-      "count": 1005
+      "count": 1006
     },
     {
       "domain": "dev.to",
-      "count": 276
+      "count": 277
     },
     {
       "domain": "bing.com",
@@ -2700,12 +2700,6 @@
     {
       "date": "2026-03-13",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-03-14",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
