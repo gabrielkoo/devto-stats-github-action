@@ -1,13 +1,13 @@
 {
   "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-  "views": 1553,
+  "views": 1563,
   "comments": 0,
   "reactions": 12,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 942
+      "count": 952
     },
     {
       "domain": "linkedin.com",
@@ -2769,6 +2769,12 @@
     },
     {
       "date": "2026-03-15",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-16",
       "views": 0,
       "comments": 0,
       "reactions": 0

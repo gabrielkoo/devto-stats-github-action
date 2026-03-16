@@ -9,7 +9,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "reactions": 33,
+      "reactions": 35,
       "org_username": "aws-builders"
     },
     {
@@ -161,31 +161,31 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7332,
+      "views": 7334,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4027,
+      "views": 4180,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 3688,
+      "views": 3745,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 3364,
+      "views": 3456,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2799,
+      "views": 2822,
       "org_username": "aws-builders"
     },
     {
@@ -197,13 +197,13 @@
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1553,
+      "views": 1563,
       "org_username": "aws-builders"
     },
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1030,
+      "views": 1036,
       "org_username": "aws-builders"
     },
     {
@@ -293,7 +293,7 @@
     {
       "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
       "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 87,
+      "views": 103,
       "org_username": "aws-builders"
     },
     {

@@ -1,10 +1,51 @@
 {
   "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-  "views": 1030,
+  "views": 1036,
   "comments": 0,
   "reactions": 6,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 712
+    },
+    {
+      "domain": null,
+      "count": 259
+    },
+    {
+      "domain": "dev.to",
+      "count": 39
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "bing.com",
+      "count": 10
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 2
+    },
+    {
+      "domain": "com.slack",
+      "count": 1
+    },
+    {
+      "domain": "google.fr",
+      "count": 1
+    },
+    {
+      "domain": "msn.com",
+      "count": 1
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-01-20",
@@ -2487,6 +2528,48 @@
     {
       "date": "2026-03-09",
       "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-10",
+      "views": 5,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-12",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-13",
+      "views": 1,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-14",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-16",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
