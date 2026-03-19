@@ -167,31 +167,31 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4222,
+      "views": 4232,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 3927,
+      "views": 4099,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 3486,
+      "views": 3573,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2862,
+      "views": 2882,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 1997,
+      "views": 1977,
       "org_username": "aws-builders"
     },
     {
@@ -263,20 +263,20 @@
     {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-      "views": 160,
+      "views": 150,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "views": 135,
+      "org_username": "gabrielkoo"
     },
     {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
       "views": 134,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
-      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "views": 133,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
@@ -293,7 +293,7 @@
     {
       "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
       "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 106,
+      "views": 117,
       "org_username": "aws-builders"
     },
     {
