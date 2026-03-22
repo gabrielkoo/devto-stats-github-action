@@ -67,6 +67,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
+      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
+      "reactions": 6,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
       "reactions": 6,
@@ -76,12 +82,6 @@
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
       "reactions": 6,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
-      "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "reactions": 5,
       "org_username": "aws-builders"
     },
     {
@@ -167,13 +167,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 4342,
+      "views": 4403,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4302,
+      "views": 4313,
       "org_username": "aws-builders"
     },
     {
@@ -185,7 +185,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2885,
+      "views": 2888,
       "org_username": "aws-builders"
     },
     {
@@ -261,15 +261,21 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
-      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 164,
+      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
+      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
+      "views": 160,
       "org_username": "aws-builders"
     },
     {
-      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
-      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-      "views": 150,
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "views": 144,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "views": 143,
       "org_username": "aws-builders"
     },
     {
@@ -282,12 +288,6 @@
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
       "title": "Faster AWS Console Navigation with Chrome Site Search",
       "views": 131,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
-      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 130,
       "org_username": "aws-builders"
     },
     {
