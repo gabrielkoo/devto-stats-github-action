@@ -1,13 +1,13 @@
 {
   "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-  "views": 144,
+  "views": 208,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": null,
-      "count": 107
+      "count": 110
     },
     {
       "domain": "google.com",
@@ -15,11 +15,15 @@
     },
     {
       "domain": "dev.to",
-      "count": 21
+      "count": 22
     },
     {
       "domain": "facebook.com",
       "count": 20
+    },
+    {
+      "domain": "brave.com",
+      "count": 10
     }
   ],
   "breakdown": [
@@ -181,6 +185,36 @@
     },
     {
       "date": "2026-03-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-19",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-21",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-22",
+      "views": 14,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-23",
       "views": 0,
       "comments": 0,
       "reactions": 0
