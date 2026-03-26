@@ -145,15 +145,15 @@
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
-      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
+      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
       "reactions": 1,
       "org_username": "aws-builders"
     },
     {
-      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
-      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "reactions": 0,
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "reactions": 1,
       "org_username": "aws-builders"
     }
   ],
@@ -167,37 +167,37 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7405,
+      "views": 7385,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 4639,
+      "views": 4719,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4272,
+      "views": 4378,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 3806,
+      "views": 3866,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2888,
+      "views": 2919,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2007,
+      "views": 1997,
       "org_username": "aws-builders"
     },
     {
@@ -237,15 +237,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
-      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-      "views": 323,
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 324,
       "org_username": "aws-builders"
     },
     {
-      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
-      "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 322,
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "views": 323,
       "org_username": "aws-builders"
     },
     {
@@ -261,15 +261,21 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
-      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 194,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
       "views": 187,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "views": 165,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "views": 164,
       "org_username": "aws-builders"
     },
     {
@@ -279,16 +285,16 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
-      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 143,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 136,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
+      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
+      "views": 135,
+      "org_username": "aws-builders"
     },
     {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
@@ -300,12 +306,6 @@
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 127,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
-      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 98,
       "org_username": "aws-builders"
     },
     {
