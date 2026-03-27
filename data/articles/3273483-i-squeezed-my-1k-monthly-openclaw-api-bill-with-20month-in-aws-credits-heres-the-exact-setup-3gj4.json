@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 3063
+      "count": 3083
     },
     {
       "domain": null,
-      "count": 1313
+      "count": 1333
     },
     {
       "domain": "brave.com",
@@ -71,6 +71,10 @@
     },
     {
       "domain": "translate.goog",
+      "count": 10
+    },
+    {
+      "domain": "ecosia.org",
       "count": 10
     },
     {
@@ -274,12 +278,6 @@
     {
       "date": "2026-03-25",
       "views": 80,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-03-26",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
