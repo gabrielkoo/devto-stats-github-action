@@ -4,72 +4,7 @@
   "comments": 0,
   "reactions": 6,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 3098
-    },
-    {
-      "domain": null,
-      "count": 511
-    },
-    {
-      "domain": "bing.com",
-      "count": 111
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 54
-    },
-    {
-      "domain": "dev.to",
-      "count": 37
-    },
-    {
-      "domain": "office.net",
-      "count": 30
-    },
-    {
-      "domain": "kagi.com",
-      "count": 30
-    },
-    {
-      "domain": "brave.com",
-      "count": 30
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 20
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 20
-    },
-    {
-      "domain": "com.slack",
-      "count": 20
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 11
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 11
-    },
-    {
-      "domain": "t.co",
-      "count": 10
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 2
-    },
-    {
-      "domain": "linkedin.android",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2025-08-27",
@@ -1358,12 +1293,6 @@
     {
       "date": "2026-03-29",
       "views": 20,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-03-30",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
