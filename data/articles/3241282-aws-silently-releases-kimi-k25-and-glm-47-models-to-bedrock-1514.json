@@ -1,13 +1,13 @@
 {
   "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-  "views": 4458,
+  "views": 4478,
   "comments": 0,
   "reactions": 13,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2667
+      "count": 2677
     },
     {
       "domain": null,
@@ -38,6 +38,10 @@
       "count": 20
     },
     {
+      "domain": "office.net",
+      "count": 20
+    },
+    {
       "domain": "chatgpt.com",
       "count": 12
     },
@@ -46,7 +50,7 @@
       "count": 11
     },
     {
-      "domain": "office.net",
+      "domain": "com.slack",
       "count": 10
     },
     {
@@ -55,10 +59,6 @@
     },
     {
       "domain": "google.com.hk",
-      "count": 10
-    },
-    {
-      "domain": "com.slack",
       "count": 10
     },
     {
@@ -383,6 +383,12 @@
     },
     {
       "date": "2026-03-31",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-01",
       "views": 0,
       "comments": 0,
       "reactions": 0

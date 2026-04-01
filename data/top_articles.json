@@ -173,31 +173,31 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 4829,
+      "views": 4769,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4458,
+      "views": 4478,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 3996,
+      "views": 3976,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2940,
+      "views": 2950,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2047,
+      "views": 2057,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 814,
+      "views": 854,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 221,
+      "views": 241,
       "org_username": "aws-builders"
     },
     {
@@ -291,16 +291,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "views": 146,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 137,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
-      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "views": 136,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",

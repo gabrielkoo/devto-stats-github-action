@@ -1,13 +1,13 @@
 {
   "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-  "views": 136,
+  "views": 146,
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 61
+      "count": 71
     },
     {
       "domain": null,
@@ -1771,6 +1771,12 @@
     },
     {
       "date": "2026-03-31",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-01",
       "views": 0,
       "comments": 0,
       "reactions": 0
