@@ -1,10 +1,31 @@
 {
   "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-  "views": 137,
+  "views": 147,
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 74
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 27
+    },
+    {
+      "domain": "google.com",
+      "count": 22
+    },
+    {
+      "domain": "dev.to",
+      "count": 18
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 6
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-18",
@@ -1718,6 +1739,24 @@
     },
     {
       "date": "2026-03-30",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-03-31",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-01",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-02",
       "views": 0,
       "comments": 0,
       "reactions": 0
