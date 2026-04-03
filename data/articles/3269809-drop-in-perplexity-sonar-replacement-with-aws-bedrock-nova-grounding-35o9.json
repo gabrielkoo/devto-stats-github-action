@@ -4,7 +4,28 @@
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 110
+    },
+    {
+      "domain": "google.com",
+      "count": 66
+    },
+    {
+      "domain": "dev.to",
+      "count": 22
+    },
+    {
+      "domain": "facebook.com",
+      "count": 20
+    },
+    {
+      "domain": "brave.com",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-02-20",
@@ -254,6 +275,12 @@
     },
     {
       "date": "2026-04-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-03",
       "views": 0,
       "comments": 0,
       "reactions": 0
