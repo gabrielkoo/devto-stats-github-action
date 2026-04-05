@@ -167,7 +167,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7445,
+      "views": 7455,
       "org_username": "aws-builders"
     },
     {
@@ -179,19 +179,19 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4570,
+      "views": 4580,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 4126,
+      "views": 4166,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2960,
+      "views": 2962,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 854,
+      "views": 844,
       "org_username": "aws-builders"
     },
     {
@@ -257,7 +257,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 283,
+      "views": 306,
       "org_username": "aws-builders"
     },
     {
@@ -291,16 +291,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "views": 156,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
       "views": 147,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
-      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "views": 146,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
