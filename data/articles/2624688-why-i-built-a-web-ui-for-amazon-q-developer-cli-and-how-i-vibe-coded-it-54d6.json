@@ -4,7 +4,76 @@
   "comments": 4,
   "reactions": 22,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 1038
+    },
+    {
+      "domain": null,
+      "count": 773
+    },
+    {
+      "domain": "dev.to",
+      "count": 42
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 41
+    },
+    {
+      "domain": "github.com",
+      "count": 31
+    },
+    {
+      "domain": "office.net",
+      "count": 30
+    },
+    {
+      "domain": "bing.com",
+      "count": 21
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 21
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 20
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 11
+    },
+    {
+      "domain": "ecosia.org",
+      "count": 10
+    },
+    {
+      "domain": "brave.com",
+      "count": 10
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 4
+    },
+    {
+      "domain": "substack.com",
+      "count": 3
+    },
+    {
+      "domain": "beachgeek.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-26",
@@ -1683,6 +1752,36 @@
     {
       "date": "2026-04-01",
       "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-04",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-06",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
