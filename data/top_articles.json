@@ -21,7 +21,7 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "reactions": 20,
+      "reactions": 21,
       "org_username": "aws-builders"
     },
     {
@@ -173,13 +173,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 5164,
+      "views": 5422,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4590,
+      "views": 4600,
       "org_username": "aws-builders"
     },
     {
@@ -191,7 +191,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 2972,
+      "views": 2982,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 834,
+      "views": 938,
       "org_username": "aws-builders"
     },
     {
@@ -237,21 +237,21 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
+      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
+      "views": 333,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
       "views": 324,
       "org_username": "aws-builders"
     },
     {
-      "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
-      "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
-      "views": 323,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 318,
+      "views": 319,
       "org_username": "aws-builders"
     },
     {
@@ -281,7 +281,7 @@
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-      "views": 197,
+      "views": 207,
       "org_username": "aws-builders"
     },
     {
