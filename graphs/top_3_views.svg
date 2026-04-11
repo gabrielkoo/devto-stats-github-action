@@ -26,17 +26,17 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="299.3675333801827" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,455 views - Click to view article</title>
+<rect x="50" y="160" width="299.84941270956733" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,467 views - Click to view article</title>
 </rect>
-<text x="289.3675333801827" y="185" class="metric-value" fill="#ffffff">7,455 views</text>
+<text x="289.84941270956733" y="185" class="metric-value" fill="#ffffff">7,467 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4" target="_blank">
 <text x="50" y="235" class="article-title">I Squeezed My $1k Monthly OpenClaw API Bill wit...</text>
-<rect x="50" y="240" width="217.72914366027507" height="40" fill="#2563eb" class="bar">
-<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 5,422 views - Click to view article</title>
+<rect x="50" y="240" width="222.9896596727236" height="40" fill="#2563eb" class="bar">
+<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 5,553 views - Click to view article</title>
 </rect>
-<text x="207.7291436602751" y="265" class="metric-value" fill="#ffffff">5,422 views</text>
+<text x="212.98965967272363" y="265" class="metric-value" fill="#ffffff">5,553 views</text>
 </a>
 </svg>
