@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2818
+      "count": 2848
     },
     {
       "domain": null,
-      "count": 1046
+      "count": 1056
     },
     {
       "domain": "android.googlequicksearchbox",
@@ -443,12 +443,6 @@
     },
     {
       "date": "2026-04-10",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-04-11",
       "views": 0,
       "comments": 0,
       "reactions": 0

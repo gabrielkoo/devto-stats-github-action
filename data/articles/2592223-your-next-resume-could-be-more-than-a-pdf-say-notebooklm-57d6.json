@@ -4,7 +4,36 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 71
+    },
+    {
+      "domain": null,
+      "count": 50
+    },
+    {
+      "domain": "dev.to",
+      "count": 12
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 2
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-15",
@@ -1796,6 +1825,24 @@
     },
     {
       "date": "2026-04-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-12",
       "views": 0,
       "comments": 0,
       "reactions": 0
