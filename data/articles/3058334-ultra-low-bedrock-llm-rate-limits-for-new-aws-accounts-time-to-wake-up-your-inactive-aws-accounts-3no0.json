@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 515
+      "count": 525
     },
     {
       "domain": null,
-      "count": 335
+      "count": 345
     },
     {
       "domain": "dev.to",
@@ -865,12 +865,6 @@
     },
     {
       "date": "2026-04-10",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-04-11",
       "views": 0,
       "comments": 0,
       "reactions": 0
