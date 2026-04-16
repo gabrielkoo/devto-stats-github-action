@@ -121,6 +121,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "reactions": 3,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
       "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
       "reactions": 2,
@@ -137,12 +143,6 @@
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
       "reactions": 2,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
-      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "reactions": 2,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
@@ -167,13 +167,13 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7457,
+      "views": 7467,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 5738,
+      "views": 5788,
       "org_username": "aws-builders"
     },
     {
@@ -191,7 +191,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3004,
+      "views": 3015,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 948,
+      "views": 988,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
       "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 287,
+      "views": 297,
       "org_username": "aws-builders"
     },
     {
@@ -285,16 +285,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
+      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
+      "views": 169,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 160,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
-      "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "views": 156,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",

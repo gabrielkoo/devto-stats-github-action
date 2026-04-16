@@ -1,17 +1,17 @@
 {
   "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-  "views": 5738,
+  "views": 5788,
   "comments": 3,
   "reactions": 21,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 3807
+      "count": 3827
     },
     {
       "domain": null,
-      "count": 1507
+      "count": 1537
     },
     {
       "domain": "brave.com",
@@ -403,6 +403,12 @@
     },
     {
       "date": "2026-04-15",
+      "views": 50,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-16",
       "views": 0,
       "comments": 0,
       "reactions": 0
