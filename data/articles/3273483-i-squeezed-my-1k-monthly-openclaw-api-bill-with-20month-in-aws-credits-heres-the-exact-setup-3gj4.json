@@ -7,15 +7,15 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 3827
+      "count": 3857
     },
     {
       "domain": null,
-      "count": 1537
+      "count": 1547
     },
     {
       "domain": "brave.com",
-      "count": 101
+      "count": 111
     },
     {
       "domain": "dev.to",
@@ -34,16 +34,16 @@
       "count": 23
     },
     {
+      "domain": "chatgpt.com",
+      "count": 20
+    },
+    {
       "domain": "google.com.hk",
       "count": 20
     },
     {
       "domain": "com.slack",
       "count": 12
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 10
     },
     {
       "domain": "duckduckgo.com",
@@ -62,7 +62,7 @@
       "count": 10
     },
     {
-      "domain": "google.ru",
+      "domain": "android.googlequicksearchbox",
       "count": 10
     },
     {
@@ -78,7 +78,7 @@
       "count": 10
     },
     {
-      "domain": "chatgpt.com",
+      "domain": "google.ru",
       "count": 10
     }
   ],
@@ -404,12 +404,6 @@
     {
       "date": "2026-04-15",
       "views": 50,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-04-16",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
