@@ -11,7 +11,7 @@
     },
     {
       "domain": "google.com",
-      "count": 107
+      "count": 117
     },
     {
       "domain": "dev.to",
@@ -360,12 +360,6 @@
     {
       "date": "2026-04-16",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-04-17",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
