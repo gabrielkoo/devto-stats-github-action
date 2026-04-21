@@ -4,7 +4,44 @@
   "comments": 1,
   "reactions": 6,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": null,
+      "count": 135
+    },
+    {
+      "domain": "google.com",
+      "count": 122
+    },
+    {
+      "domain": "claude.ai",
+      "count": 30
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 10
+    },
+    {
+      "domain": "google.ru",
+      "count": 10
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "com.slack",
+      "count": 10
+    },
+    {
+      "domain": "dev.to",
+      "count": 9
+    },
+    {
+      "domain": "jasondunn.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-03-13",
@@ -236,6 +273,12 @@
     },
     {
       "date": "2026-04-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-04-21",
       "views": 0,
       "comments": 0,
       "reactions": 0
