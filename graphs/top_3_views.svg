@@ -19,24 +19,24 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 9,981 views - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 9,991 views - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,981 views</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">9,991 views</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="299.24857228734595" height="40" fill="#2563eb" class="bar">
-<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,467 views - Click to view article</title>
+<rect x="50" y="160" width="300.1501351216095" height="40" fill="#2563eb" class="bar">
+<title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,497 views - Click to view article</title>
 </rect>
-<text x="289.24857228734595" y="185" class="metric-value" fill="#ffffff">7,467 views</text>
+<text x="290.1501351216095" y="185" class="metric-value" fill="#ffffff">7,497 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4" target="_blank">
 <text x="50" y="235" class="article-title">I Squeezed My $1k Monthly OpenClaw API Bill wit...</text>
-<rect x="50" y="240" width="235.567578398958" height="40" fill="#2563eb" class="bar">
-<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 5,878 views - Click to view article</title>
+<rect x="50" y="240" width="234.1307176458813" height="40" fill="#2563eb" class="bar">
+<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 5,848 views - Click to view article</title>
 </rect>
-<text x="225.567578398958" y="265" class="metric-value" fill="#ffffff">5,878 views</text>
+<text x="224.1307176458813" y="265" class="metric-value" fill="#ffffff">5,848 views</text>
 </a>
 </svg>
