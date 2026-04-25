@@ -167,13 +167,13 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 9981,
+      "views": 9971,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7477,
+      "views": 7467,
       "org_username": "aws-builders"
     },
     {
@@ -183,21 +183,21 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
-      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4950,
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 4923,
       "org_username": "aws-builders"
     },
     {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 4653,
+      "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
+      "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
+      "views": 4919,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3026,
+      "views": 3047,
       "org_username": "aws-builders"
     },
     {
@@ -239,7 +239,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 675,
+      "views": 685,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +275,7 @@
     {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 300,
+      "views": 310,
       "org_username": "aws-builders"
     },
     {
@@ -317,7 +317,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 85,
+      "views": 107,
       "org_username": "aws-builders"
     },
     {
