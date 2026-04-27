@@ -167,7 +167,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 9971,
+      "views": 10001,
       "org_username": "aws-builders"
     },
     {
@@ -179,31 +179,31 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6070,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
-      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 4923,
+      "views": 6100,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 4857,
+      "views": 5001,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
+      "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
+      "views": 4966,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3057,
+      "views": 3067,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2097,
+      "views": 2107,
       "org_username": "aws-builders"
     },
     {
@@ -249,15 +249,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
-      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 357,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
       "views": 353,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "views": 347,
       "org_username": "aws-builders"
     },
     {
@@ -317,7 +317,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 107,
+      "views": 117,
       "org_username": "aws-builders"
     },
     {
