@@ -179,7 +179,7 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6100,
+      "views": 6110,
       "org_username": "aws-builders"
     },
     {
@@ -197,7 +197,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3067,
+      "views": 3077,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1110,
+      "views": 1112,
       "org_username": "aws-builders"
     },
     {
@@ -239,7 +239,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 685,
+      "views": 695,
       "org_username": "aws-builders"
     },
     {
@@ -257,7 +257,7 @@
     {
       "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
       "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 347,
+      "views": 337,
       "org_username": "aws-builders"
     },
     {
@@ -291,15 +291,21 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
+      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
+      "views": 170,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 169,
       "org_username": "gabrielkoo"
     },
     {
-      "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
-      "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
-      "views": 160,
+      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
+      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "views": 148,
       "org_username": "aws-builders"
     },
     {
@@ -312,12 +318,6 @@
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
       "title": "Faster AWS Console Navigation with Chrome Site Search",
       "views": 131,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
-      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 117,
       "org_username": "aws-builders"
     },
     {
