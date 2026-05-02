@@ -179,13 +179,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6110,
+      "views": 6100,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 5260,
+      "views": 5280,
       "org_username": "aws-builders"
     },
     {
@@ -261,15 +261,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
-      "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 324,
+      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
+      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
+      "views": 330,
       "org_username": "aws-builders"
     },
     {
-      "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
-      "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 320,
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 324,
       "org_username": "aws-builders"
     },
     {
@@ -291,6 +291,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
+      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "views": 170,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "streamline-secure-self-service-developer-operations-with-aws-ssm-automation-runbooks-ne5",
       "title": "\ud83d\ude80 Streamline Secure, Self\u2011Service Developer Operations with AWS SSM Automation Runbooks \ud83c\udf89",
       "views": 170,
@@ -301,12 +307,6 @@
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
       "views": 169,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
-      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 168,
-      "org_username": "aws-builders"
     },
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
