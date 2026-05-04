@@ -1,6 +1,6 @@
 {
   "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-  "views": 5280,
+  "views": 5260,
   "comments": 0,
   "reactions": 6,
   "org_username": "aws-builders",
@@ -1485,12 +1485,6 @@
     {
       "date": "2026-04-30",
       "views": 42,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-05-01",
-      "views": 20,
       "comments": 0,
       "reactions": 0
     }

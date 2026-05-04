@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Reactions</text>
-<text x="20" y="45" class="subtitle">26 articles • 48,855 total views • 247 total reactions</text>
+<text x="20" y="45" class="subtitle">26 articles • 48,885 total views • 247 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -381,10 +381,11 @@
 <rect x="744" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-04-27" data-level="0"><title>April 27, 2026: 121 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-04-28" data-level="0"><title>April 28, 2026: 229 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-04-29" data-level="0"><title>April 29, 2026: 150 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-04-30" data-level="0"><title>April 30, 2026: 142 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-04-30" data-level="0"><title>April 30, 2026: 152 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-01" data-level="0"><title>May 01, 2026: 82 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-02" data-level="0"><title>May 02, 2026: 30 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-03" data-level="0"><title>May 03, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-02" data-level="0"><title>May 02, 2026: 40 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-03" data-level="0"><title>May 03, 2026: 10 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-05-04" data-level="0"><title>May 04, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="86" y="60" class="month-label">Jun</text>
