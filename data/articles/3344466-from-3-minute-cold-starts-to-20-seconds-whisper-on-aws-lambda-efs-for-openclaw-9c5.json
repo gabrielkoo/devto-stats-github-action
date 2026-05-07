@@ -10,19 +10,11 @@
       "count": 182
     },
     {
-      "domain": null,
-      "count": 175
-    },
-    {
       "domain": "claude.ai",
       "count": 30
     },
     {
-      "domain": "chatgpt.com",
-      "count": 10
-    },
-    {
-      "domain": "t.co",
+      "domain": "google.ru",
       "count": 10
     },
     {
@@ -30,11 +22,15 @@
       "count": 10
     },
     {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
       "domain": "google.com.hk",
       "count": 10
     },
     {
-      "domain": "google.ru",
+      "domain": "chatgpt.com",
       "count": 10
     },
     {
@@ -373,6 +369,12 @@
     },
     {
       "date": "2026-05-06",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-05-07",
       "views": 0,
       "comments": 0,
       "reactions": 0

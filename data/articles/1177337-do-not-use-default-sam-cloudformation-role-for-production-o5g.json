@@ -10,10 +10,6 @@
       "count": 428
     },
     {
-      "domain": null,
-      "count": 212
-    },
-    {
       "domain": "dev.to",
       "count": 24
     },
@@ -26,6 +22,10 @@
       "count": 12
     },
     {
+      "domain": "com.slack",
+      "count": 1
+    },
+    {
       "domain": "instapaper.com",
       "count": 1
     },
@@ -35,10 +35,6 @@
     },
     {
       "domain": "bing.com",
-      "count": 1
-    },
-    {
-      "domain": "com.slack",
       "count": 1
     }
   ],
@@ -8025,12 +8021,6 @@
     },
     {
       "date": "2026-05-05",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-05-06",
       "views": 0,
       "comments": 0,
       "reactions": 0
