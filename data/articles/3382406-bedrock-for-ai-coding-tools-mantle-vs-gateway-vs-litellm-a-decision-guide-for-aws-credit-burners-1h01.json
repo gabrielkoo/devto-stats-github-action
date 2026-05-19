@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 581
+      "count": 591
     },
     {
       "domain": "duckduckgo.com",
@@ -27,6 +27,10 @@
     },
     {
       "domain": "google.ch",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
       "count": 10
     },
     {
@@ -377,12 +381,6 @@
     },
     {
       "date": "2026-05-17",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-05-18",
       "views": 0,
       "comments": 0,
       "reactions": 0
