@@ -1,92 +1,120 @@
 {
   "articles": 26,
-  "views": 50549,
+  "views": 50751,
   "comments": 23,
   "reactions": 249,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 9783
+      "count": 11611
     },
     {
       "domain": "duckduckgo.com",
-      "count": 387
+      "count": 426
     },
     {
       "domain": "dev.to",
-      "count": 342
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 335
+      "count": 422
     },
     {
       "domain": "bing.com",
-      "count": 323
+      "count": 357
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 353
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 225
     },
     {
       "domain": "brave.com",
-      "count": 143
+      "count": 153
+    },
+    {
+      "domain": "t.co",
+      "count": 152
+    },
+    {
+      "domain": "office.net",
+      "count": 131
     },
     {
       "domain": "kagi.com",
       "count": 100
     },
     {
-      "domain": "office.net",
+      "domain": "com.slack",
       "count": 80
     },
     {
       "domain": "chatgpt.com",
+      "count": 72
+    },
+    {
+      "domain": "linkedin.android",
       "count": 62
     },
     {
       "domain": "claude.ai",
-      "count": 52
+      "count": 62
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 53
     },
     {
       "domain": "google.com.hk",
       "count": 51
     },
     {
-      "domain": "perplexity.ai",
-      "count": 44
-    },
-    {
-      "domain": "t.co",
-      "count": 43
-    },
-    {
-      "domain": "com.slack",
-      "count": 42
+      "domain": "github.com",
+      "count": 47
     },
     {
       "domain": "ecosia.org",
-      "count": 30
+      "count": 40
+    },
+    {
+      "domain": "aws-cloudsec.com",
+      "count": 32
     },
     {
       "domain": "facebook.com",
+      "count": 31
+    },
+    {
+      "domain": "tldrsec.com",
       "count": 20
     },
     {
-      "domain": "daily.dev",
+      "domain": "substack.com",
       "count": 17
     },
     {
-      "domain": "github.com",
-      "count": 15
+      "domain": "bsky.app",
+      "count": 11
     },
     {
-      "domain": "devpost.com",
-      "count": 13
+      "domain": "google.co.uk",
+      "count": 11
     },
     {
-      "domain": "google.ru",
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "menlosecurity.com",
       "count": 10
     },
     {
-      "domain": "readysetcloud.io",
+      "domain": "raindrop.io",
+      "count": 10
+    },
+    {
+      "domain": "google.ru",
       "count": 10
     },
     {
@@ -106,23 +134,31 @@
       "count": 10
     },
     {
-      "domain": "google.lk",
-      "count": 2
+      "domain": "android.gm",
+      "count": 10
     },
     {
-      "domain": "inoreader.com",
-      "count": 2
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 2
+      "domain": "googleusercontent.com",
+      "count": 10
     },
     {
       "domain": "yahoo.com",
       "count": 2
     },
     {
+      "domain": "beachgeek.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    },
+    {
       "domain": "jasondunn.com",
+      "count": 1
+    },
+    {
+      "domain": "instapaper.com",
       "count": 1
     },
     {
@@ -130,27 +166,15 @@
       "count": 1
     },
     {
-      "domain": "google.co.uk",
-      "count": 1
-    },
-    {
       "domain": "google.fr",
       "count": 1
     },
     {
-      "domain": "feishu.cn",
-      "count": 1
-    },
-    {
-      "domain": "android.gm",
+      "domain": "inoreader.com",
       "count": 1
     },
     {
       "domain": "sre.news",
-      "count": 1
-    },
-    {
-      "domain": "linkedin.android",
       "count": 1
     }
   ],
@@ -8215,12 +8239,18 @@
     },
     {
       "date": "2026-05-18",
-      "views": 72,
+      "views": 132,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2026-05-19",
+      "views": 142,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-05-20",
       "views": 0,
       "comments": 0,
       "reactions": 0
