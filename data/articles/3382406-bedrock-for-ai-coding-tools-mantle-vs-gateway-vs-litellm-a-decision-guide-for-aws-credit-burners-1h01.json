@@ -4,44 +4,7 @@
   "comments": 1,
   "reactions": 2,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 653
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 20
-    },
-    {
-      "domain": "kagi.com",
-      "count": 20
-    },
-    {
-      "domain": "claude.ai",
-      "count": 10
-    },
-    {
-      "domain": "bing.com",
-      "count": 10
-    },
-    {
-      "domain": "google.ch",
-      "count": 10
-    },
-    {
-      "domain": "office.net",
-      "count": 10
-    },
-    {
-      "domain": "dev.to",
-      "count": 8
-    },
-    {
-      "domain": "sre.news",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-03-22",
@@ -412,12 +375,6 @@
     {
       "date": "2026-05-22",
       "views": 11,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-05-23",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
