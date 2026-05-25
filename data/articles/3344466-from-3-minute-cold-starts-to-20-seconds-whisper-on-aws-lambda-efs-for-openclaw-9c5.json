@@ -7,7 +7,7 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 243
+      "count": 253
     },
     {
       "domain": "claude.ai",
@@ -471,12 +471,6 @@
     },
     {
       "date": "2026-05-23",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-05-24",
       "views": 0,
       "comments": 0,
       "reactions": 0
