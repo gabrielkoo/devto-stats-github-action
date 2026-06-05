@@ -1,93 +1,93 @@
 {
   "articles": 26,
-  "views": 52131,
+  "views": 52271,
   "comments": 23,
   "reactions": 249,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 15013
+      "count": 22241
     },
     {
       "domain": "dev.to",
-      "count": 1231
+      "count": 1203
     },
     {
       "domain": "t.co",
-      "count": 742
+      "count": 763
     },
     {
       "domain": "linkedin.com",
-      "count": 731
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 689
+      "count": 750
     },
     {
       "domain": "bing.com",
-      "count": 553
+      "count": 738
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 731
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 450
-    },
-    {
-      "domain": "office.net",
-      "count": 282
+      "count": 460
     },
     {
       "domain": "brave.com",
-      "count": 206
+      "count": 339
+    },
+    {
+      "domain": "office.net",
+      "count": 333
     },
     {
       "domain": "com.slack",
-      "count": 190
+      "count": 215
     },
     {
       "domain": "github.com",
-      "count": 161
-    },
-    {
-      "domain": "facebook.com",
-      "count": 153
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 144
-    },
-    {
-      "domain": "claude.ai",
-      "count": 142
+      "count": 181
     },
     {
       "domain": "perplexity.ai",
-      "count": 133
+      "count": 155
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 143
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 143
+    },
+    {
+      "domain": "kagi.com",
+      "count": 140
+    },
+    {
+      "domain": "facebook.com",
+      "count": 132
     },
     {
       "domain": "tldrsec.com",
       "count": 131
     },
     {
-      "domain": "linkedin.android",
-      "count": 121
-    },
-    {
       "domain": "mrugalski.pl",
       "count": 113
     },
     {
-      "domain": "kagi.com",
-      "count": 90
+      "domain": "claude.ai",
+      "count": 112
     },
     {
       "domain": "google.com.hk",
-      "count": 84
+      "count": 103
     },
     {
       "domain": "substack.com",
-      "count": 73
+      "count": 76
     },
     {
       "domain": "cloudseclist.com",
@@ -98,8 +98,8 @@
       "count": 51
     },
     {
-      "domain": "yahoo.com",
-      "count": 36
+      "domain": "ecosia.org",
+      "count": 50
     },
     {
       "domain": "aws-cloudsec.com",
@@ -108,6 +108,10 @@
     {
       "domain": "microsoft.com",
       "count": 30
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 24
     },
     {
       "domain": "github.io",
@@ -130,7 +134,7 @@
       "count": 21
     },
     {
-      "domain": "ecosia.org",
+      "domain": "google.ru",
       "count": 20
     },
     {
@@ -143,7 +147,7 @@
     },
     {
       "domain": "bsky.app",
-      "count": 12
+      "count": 11
     },
     {
       "domain": "maxwelldulin.com",
@@ -154,15 +158,19 @@
       "count": 10
     },
     {
-      "domain": "tsecurity.de",
+      "domain": "yandex.com",
+      "count": 10
+    },
+    {
+      "domain": "google.cz",
+      "count": 10
+    },
+    {
+      "domain": "translate.goog",
       "count": 10
     },
     {
       "domain": "raindrop.io",
-      "count": 10
-    },
-    {
-      "domain": "google.ru",
       "count": 10
     },
     {
@@ -171,6 +179,10 @@
     },
     {
       "domain": "flipboard.com",
+      "count": 10
+    },
+    {
+      "domain": "menlosecurity.com",
       "count": 10
     },
     {
@@ -206,15 +218,15 @@
       "count": 10
     },
     {
+      "domain": "inoreader.com",
+      "count": 2
+    },
+    {
       "domain": "google.lk",
       "count": 2
     },
     {
       "domain": "sre.news",
-      "count": 1
-    },
-    {
-      "domain": "instapaper.com",
       "count": 1
     },
     {
@@ -234,11 +246,7 @@
       "count": 1
     },
     {
-      "domain": "inoreader.com",
-      "count": 1
-    },
-    {
-      "domain": "phpweekly.com",
+      "domain": "beachgeek.co.uk",
       "count": 1
     },
     {
@@ -8385,7 +8393,7 @@
     },
     {
       "date": "2026-05-31",
-      "views": 22,
+      "views": 20,
       "comments": 0,
       "reactions": 0
     },
@@ -8403,13 +8411,19 @@
     },
     {
       "date": "2026-06-03",
-      "views": 65,
+      "views": 127,
       "comments": 0,
       "reactions": 0
     },
     {
       "date": "2026-06-04",
-      "views": 1,
+      "views": 81,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-05",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
