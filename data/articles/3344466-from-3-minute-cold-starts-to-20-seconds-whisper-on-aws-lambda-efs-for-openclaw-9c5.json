@@ -34,6 +34,10 @@
       "count": 10
     },
     {
+      "domain": "brave.com",
+      "count": 10
+    },
+    {
       "domain": "dev.to",
       "count": 9
     },
@@ -561,12 +565,6 @@
     },
     {
       "date": "2026-06-07",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-06-08",
       "views": 0,
       "comments": 0,
       "reactions": 0

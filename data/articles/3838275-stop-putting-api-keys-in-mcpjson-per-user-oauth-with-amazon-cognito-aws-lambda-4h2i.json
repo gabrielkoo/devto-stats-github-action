@@ -1,6 +1,6 @@
 {
   "title": "Stop Putting API Keys in mcp.json: Per-User OAuth with Amazon Cognito + AWS Lambda",
-  "views": 6,
+  "views": 8,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
@@ -14,6 +14,12 @@
     },
     {
       "date": "2026-06-08",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-09",
       "views": 0,
       "comments": 0,
       "reactions": 0
