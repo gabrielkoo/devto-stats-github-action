@@ -185,13 +185,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6710,
+      "views": 6730,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6321,
+      "views": 6354,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 401,
+      "views": 411,
       "org_username": "aws-builders"
     },
     {
@@ -335,7 +335,7 @@
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in mcp.json: Per-User OAuth with Amazon Cognito + AWS Lambda",
-      "views": 8,
+      "views": 11,
       "org_username": "aws-builders"
     }
   ]
