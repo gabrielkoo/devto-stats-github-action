@@ -4,7 +4,36 @@
   "comments": 0,
   "reactions": 0,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 247
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 30
+    },
+    {
+      "domain": "com.slack",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "dev.to",
+      "count": 3
+    },
+    {
+      "domain": "bsky.app",
+      "count": 1
+    },
+    {
+      "domain": "bing.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-04-18",
@@ -374,6 +403,12 @@
     },
     {
       "date": "2026-06-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-19",
       "views": 0,
       "comments": 0,
       "reactions": 0
