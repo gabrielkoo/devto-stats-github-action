@@ -163,6 +163,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
+      "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
+      "reactions": 0,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
       "reactions": 0,
@@ -227,7 +233,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1400,
+      "views": 1412,
       "org_username": "aws-builders"
     },
     {
@@ -293,7 +299,7 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 299,
+      "views": 309,
       "org_username": "aws-builders"
     },
     {
@@ -337,6 +343,12 @@
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
       "views": 12,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
+      "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
+      "views": 0,
+      "org_username": "gabrielkoo"
     }
   ]
 }
