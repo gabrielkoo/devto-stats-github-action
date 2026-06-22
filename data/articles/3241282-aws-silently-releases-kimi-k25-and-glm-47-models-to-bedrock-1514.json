@@ -4,76 +4,7 @@
   "comments": 0,
   "reactions": 13,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 3338
-    },
-    {
-      "domain": "android.googlequicksearchbox",
-      "count": 331
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 202
-    },
-    {
-      "domain": "bing.com",
-      "count": 102
-    },
-    {
-      "domain": "brave.com",
-      "count": 52
-    },
-    {
-      "domain": "dev.to",
-      "count": 47
-    },
-    {
-      "domain": "kagi.com",
-      "count": 30
-    },
-    {
-      "domain": "chatgpt.com",
-      "count": 22
-    },
-    {
-      "domain": "office.net",
-      "count": 20
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 20
-    },
-    {
-      "domain": "perplexity.ai",
-      "count": 11
-    },
-    {
-      "domain": "qwant.com",
-      "count": 10
-    },
-    {
-      "domain": "com.slack",
-      "count": 10
-    },
-    {
-      "domain": "google.com.tw",
-      "count": 10
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 10
-    },
-    {
-      "domain": "yandex.ru",
-      "count": 10
-    },
-    {
-      "domain": "claude.ai",
-      "count": 2
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-02-08",
@@ -869,12 +800,6 @@
     },
     {
       "date": "2026-06-20",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-06-21",
       "views": 0,
       "comments": 0,
       "reactions": 0
