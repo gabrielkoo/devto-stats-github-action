@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Reactions</text>
-<text x="20" y="45" class="subtitle">28 articles • 53,511 total views • 257 total reactions</text>
+<text x="20" y="45" class="subtitle">28 articles • 53,621 total views • 257 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -386,8 +386,9 @@
 <rect x="744" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-20" data-level="0"><title>June 20, 2026: 10 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-21" data-level="0"><title>June 21, 2026: 30 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="79" width="12" height="12" fill="#40c463" class="day" data-date="2026-06-22" data-level="2"><title>June 22, 2026: 46 views, 0 comments, 1 reactions</title></rect>
-<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-23" data-level="0"><title>June 23, 2026: 20 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-24" data-level="0"><title>June 24, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-23" data-level="0"><title>June 23, 2026: 80 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="107" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-24" data-level="0"><title>June 24, 2026: 50 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="121" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-06-25" data-level="0"><title>June 25, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="44" y="60" class="month-label">Jul</text>
