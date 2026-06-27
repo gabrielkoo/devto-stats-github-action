@@ -197,13 +197,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6444,
+      "views": 6434,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 5631,
+      "views": 5651,
       "org_username": "aws-builders"
     },
     {
@@ -219,15 +219,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
-      "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1593,
+      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
+      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
+      "views": 1634,
       "org_username": "aws-builders"
     },
     {
-      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
-      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 1584,
+      "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
+      "title": "Get Phished by a Public AWS Systems Manager Automation Document",
+      "views": 1593,
       "org_username": "aws-builders"
     },
     {
@@ -239,7 +239,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1086,
+      "views": 1096,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 558,
+      "views": 568,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +275,7 @@
     {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 440,
+      "views": 450,
       "org_username": "aws-builders"
     },
     {

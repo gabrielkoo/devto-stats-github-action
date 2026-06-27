@@ -1,10 +1,31 @@
 {
   "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-  "views": 440,
+  "views": 450,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 197
+    },
+    {
+      "domain": "brave.com",
+      "count": 30
+    },
+    {
+      "domain": "dev.to",
+      "count": 22
+    },
+    {
+      "domain": "facebook.com",
+      "count": 20
+    },
+    {
+      "domain": "tsecurity.de",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-02-20",
@@ -716,6 +737,60 @@
     },
     {
       "date": "2026-06-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-19",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-27",
       "views": 0,
       "comments": 0,
       "reactions": 0
