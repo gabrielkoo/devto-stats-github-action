@@ -4,7 +4,80 @@
   "comments": 3,
   "reactions": 21,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 4512
+    },
+    {
+      "domain": "brave.com",
+      "count": 111
+    },
+    {
+      "domain": "dev.to",
+      "count": 96
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 43
+    },
+    {
+      "domain": "claude.ai",
+      "count": 40
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 30
+    },
+    {
+      "domain": "bing.com",
+      "count": 23
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 20
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 20
+    },
+    {
+      "domain": "com.slack",
+      "count": 12
+    },
+    {
+      "domain": "office.net",
+      "count": 11
+    },
+    {
+      "domain": "google.ru",
+      "count": 10
+    },
+    {
+      "domain": "yandex.com",
+      "count": 10
+    },
+    {
+      "domain": "google.cz",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "translate.goog",
+      "count": 10
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 10
+    },
+    {
+      "domain": "ecosia.org",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-02-21",
@@ -746,6 +819,36 @@
     },
     {
       "date": "2026-06-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-29",
       "views": 0,
       "comments": 0,
       "reactions": 0
