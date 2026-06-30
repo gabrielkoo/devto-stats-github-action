@@ -1,13 +1,13 @@
 {
   "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-  "views": 501,
+  "views": 511,
   "comments": 0,
   "reactions": 0,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 267
+      "count": 277
     },
     {
       "domain": "",
@@ -473,6 +473,12 @@
     },
     {
       "date": "2026-06-29",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-30",
       "views": 0,
       "comments": 0,
       "reactions": 0

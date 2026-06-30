@@ -191,13 +191,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6852,
+      "views": 6856,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6414,
+      "views": 6412,
       "org_username": "aws-builders"
     },
     {
@@ -215,13 +215,13 @@
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2222,
+      "views": 2232,
       "org_username": "aws-builders"
     },
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 1644,
+      "views": 1686,
       "org_username": "aws-builders"
     },
     {
@@ -269,7 +269,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 501,
+      "views": 511,
       "org_username": "aws-builders"
     },
     {
@@ -287,7 +287,7 @@
     {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 346,
+      "views": 356,
       "org_username": "aws-builders"
     },
     {
@@ -347,7 +347,7 @@
     {
       "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
       "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
-      "views": 1,
+      "views": 2,
       "org_username": "gabrielkoo"
     }
   ]
