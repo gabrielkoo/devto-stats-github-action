@@ -1,6 +1,6 @@
 {
   "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-  "views": 5631,
+  "views": 5681,
   "comments": 0,
   "reactions": 13,
   "org_username": "aws-builders",
@@ -23,7 +23,7 @@
     },
     {
       "domain": "bing.com",
-      "count": 102
+      "count": 112
     },
     {
       "domain": "brave.com",
@@ -898,6 +898,72 @@
     {
       "date": "2026-06-24",
       "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-25",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-26",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-27",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-29",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-06-30",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-01",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-04",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-05",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
