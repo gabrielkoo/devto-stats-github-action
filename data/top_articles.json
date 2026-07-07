@@ -133,6 +133,12 @@
       "org_username": "gabrielkoo"
     },
     {
+      "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
+      "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
+      "reactions": 2,
+      "org_username": "gabrielkoo"
+    },
+    {
       "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
       "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
       "reactions": 2,
@@ -155,12 +161,6 @@
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
       "reactions": 1,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
-      "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
-      "reactions": 1,
-      "org_username": "gabrielkoo"
     },
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
@@ -191,13 +191,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 6876,
+      "views": 6886,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6560,
+      "views": 6570,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +275,7 @@
     {
       "slug": "drop-in-perplexity-sonar-replacement-with-aws-bedrock-nova-grounding-35o9",
       "title": "Drop-in Perplexity Sonar Replacement with AWS Bedrock Nova Grounding",
-      "views": 452,
+      "views": 450,
       "org_username": "aws-builders"
     },
     {
