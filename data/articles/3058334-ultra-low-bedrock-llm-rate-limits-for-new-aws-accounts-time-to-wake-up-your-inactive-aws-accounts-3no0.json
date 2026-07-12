@@ -1,10 +1,55 @@
 {
   "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-  "views": 1452,
+  "views": 1492,
   "comments": 1,
   "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 908
+    },
+    {
+      "domain": "",
+      "count": 455
+    },
+    {
+      "domain": "dev.to",
+      "count": 47
+    },
+    {
+      "domain": "claude.ai",
+      "count": 30
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 10
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "phpweekly.com",
+      "count": 1
+    },
+    {
+      "domain": "forem.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-11-25",
@@ -1328,6 +1373,60 @@
     },
     {
       "date": "2026-07-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-04",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-06",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-08",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-10",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-11",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-12",
       "views": 0,
       "comments": 0,
       "reactions": 0
