@@ -4,32 +4,7 @@
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 198
-    },
-    {
-      "domain": "",
-      "count": 182
-    },
-    {
-      "domain": "brave.com",
-      "count": 30
-    },
-    {
-      "domain": "dev.to",
-      "count": 22
-    },
-    {
-      "domain": "facebook.com",
-      "count": 20
-    },
-    {
-      "domain": "tsecurity.de",
-      "count": 10
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-02-20",
@@ -951,6 +926,12 @@
     },
     {
       "date": "2026-07-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-24",
       "views": 0,
       "comments": 0,
       "reactions": 0

@@ -1,10 +1,59 @@
 {
   "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-  "views": 1930,
+  "views": 2125,
   "comments": 1,
   "reactions": 4,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 1503
+    },
+    {
+      "domain": "",
+      "count": 459
+    },
+    {
+      "domain": "dev.to",
+      "count": 32
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 20
+    },
+    {
+      "domain": "claude.ai",
+      "count": 20
+    },
+    {
+      "domain": "bing.com",
+      "count": 20
+    },
+    {
+      "domain": "kagi.com",
+      "count": 20
+    },
+    {
+      "domain": "brave.com",
+      "count": 20
+    },
+    {
+      "domain": "google.ch",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "duck.ai",
+      "count": 10
+    },
+    {
+      "domain": "sre.news",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-03-22",
@@ -686,6 +735,72 @@
     },
     {
       "date": "2026-07-13",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-14",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-15",
+      "views": 13,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-16",
+      "views": 22,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-17",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-18",
+      "views": 25,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-20",
+      "views": 31,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-21",
+      "views": 12,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-22",
+      "views": 40,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-23",
+      "views": 30,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-07-24",
       "views": 10,
       "comments": 0,
       "reactions": 0
