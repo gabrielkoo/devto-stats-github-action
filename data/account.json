@@ -1,108 +1,116 @@
 {
   "articles": 28,
-  "views": 55818,
+  "views": 55800,
   "comments": 23,
   "reactions": 261,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 16104
+      "count": 18732
     },
     {
       "domain": "",
-      "count": 11990
+      "count": 13039
     },
     {
       "domain": "dev.to",
-      "count": 939
+      "count": 1203
     },
     {
       "domain": "duckduckgo.com",
-      "count": 763
-    },
-    {
-      "domain": "bing.com",
-      "count": 686
+      "count": 845
     },
     {
       "domain": "t.co",
-      "count": 641
+      "count": 762
     },
     {
       "domain": "linkedin.com",
-      "count": 575
+      "count": 735
+    },
+    {
+      "domain": "bing.com",
+      "count": 726
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 444
+      "count": 441
+    },
+    {
+      "domain": "office.net",
+      "count": 291
     },
     {
       "domain": "brave.com",
       "count": 279
     },
     {
-      "domain": "office.net",
-      "count": 241
-    },
-    {
       "domain": "com.slack",
-      "count": 175
+      "count": 201
     },
     {
       "domain": "github.com",
-      "count": 158
+      "count": 200
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 185
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 174
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 143
     },
     {
       "domain": "facebook.com",
-      "count": 141
+      "count": 133
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 131
     },
     {
       "domain": "mrugalski.pl",
       "count": 113
     },
     {
-      "domain": "tldrsec.com",
-      "count": 111
-    },
-    {
       "domain": "kagi.com",
       "count": 110
     },
     {
-      "domain": "perplexity.ai",
-      "count": 99
-    },
-    {
       "domain": "google.com.hk",
-      "count": 83
+      "count": 105
     },
     {
-      "domain": "chatgpt.com",
-      "count": 83
+      "domain": "claude.ai",
+      "count": 92
     },
     {
-      "domain": "linkedin.android",
-      "count": 82
+      "domain": "substack.com",
+      "count": 72
+    },
+    {
+      "domain": "ecosia.org",
+      "count": 70
     },
     {
       "domain": "cloudseclist.com",
       "count": 61
     },
     {
-      "domain": "substack.com",
-      "count": 59
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 50
-    },
-    {
       "domain": "android.gm",
-      "count": 41
+      "count": 51
     },
     {
-      "domain": "claude.ai",
+      "domain": "yahoo.com",
+      "count": 38
+    },
+    {
+      "domain": "aws-cloudsec.com",
       "count": 32
     },
     {
@@ -114,10 +122,6 @@
       "count": 24
     },
     {
-      "domain": "yahoo.com",
-      "count": 24
-    },
-    {
       "domain": "readysetcloud.io",
       "count": 22
     },
@@ -126,7 +130,7 @@
       "count": 21
     },
     {
-      "domain": "static.microsoft",
+      "domain": "google.co.uk",
       "count": 20
     },
     {
@@ -138,8 +142,24 @@
       "count": 13
     },
     {
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "bsky.app",
+      "count": 11
+    },
+    {
       "domain": "maxwelldulin.com",
       "count": 11
+    },
+    {
+      "domain": "googleusercontent.com",
+      "count": 10
+    },
+    {
+      "domain": "menlosecurity.com",
+      "count": 10
     },
     {
       "domain": "flipboard.com",
@@ -162,10 +182,6 @@
       "count": 10
     },
     {
-      "domain": "google.co.uk",
-      "count": 10
-    },
-    {
       "domain": "cloud.microsoft",
       "count": 10
     },
@@ -174,11 +190,11 @@
       "count": 10
     },
     {
-      "domain": "tistory.com",
+      "domain": "static.microsoft",
       "count": 10
     },
     {
-      "domain": "tsecurity.de",
+      "domain": "tistory.com",
       "count": 10
     },
     {
@@ -198,7 +214,11 @@
       "count": 2
     },
     {
-      "domain": "bsky.app",
+      "domain": "beachgeek.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "forem.com",
       "count": 1
     },
     {
@@ -8717,7 +8737,7 @@
     },
     {
       "date": "2026-07-30",
-      "views": 51,
+      "views": 41,
       "comments": 0,
       "reactions": 0
     },
@@ -8741,7 +8761,13 @@
     },
     {
       "date": "2026-08-03",
-      "views": 10,
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-04",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
