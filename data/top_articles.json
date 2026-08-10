@@ -197,13 +197,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6763,
+      "views": 6753,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6024,
+      "views": 6034,
       "org_username": "aws-builders"
     },
     {
@@ -227,13 +227,13 @@
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1593,
+      "views": 1603,
       "org_username": "aws-builders"
     },
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1554,
+      "views": 1564,
       "org_username": "aws-builders"
     },
     {
@@ -251,7 +251,7 @@
     {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 720,
+      "views": 730,
       "org_username": "aws-builders"
     },
     {
