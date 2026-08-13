@@ -1,13 +1,13 @@
 {
   "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-  "views": 800,
+  "views": 810,
   "comments": 0,
   "reactions": 9,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "",
-      "count": 447
+      "count": 457
     },
     {
       "domain": "google.com",
@@ -7265,6 +7265,12 @@
     },
     {
       "date": "2026-08-12",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-13",
       "views": 0,
       "comments": 0,
       "reactions": 0
