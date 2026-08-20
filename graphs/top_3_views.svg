@@ -19,24 +19,24 @@ a:hover .bar { opacity: 0.9; }
 <a href="https://dev.to/aws-builders/i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng" target="_blank">
 <text x="50" y="75" class="article-title">I bought us-east-1.com: A Look at Security, DNS...</text>
 <rect x="50" y="80" width="400.0" height="40" fill="#2563eb" class="bar">
-<title>I bought us-east-1.com: A Look at Security, DNS...: 10,064 views - Click to view article</title>
+<title>I bought us-east-1.com: A Look at Security, DNS...: 10,074 views - Click to view article</title>
 </rect>
-<text x="390.0" y="105" class="metric-value" fill="#ffffff">10,064 views</text>
+<text x="390.0" y="105" class="metric-value" fill="#ffffff">10,074 views</text>
 </a>
 <text x="15" y="165" class="rank">#2</text>
 <a href="https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5" target="_blank">
 <text x="50" y="155" class="article-title">Use Amazon Bedrock Models with OpenAI SDKs with...</text>
-<rect x="50" y="160" width="306.95548489666135" height="40" fill="#2563eb" class="bar">
+<rect x="50" y="160" width="306.65078419694265" height="40" fill="#2563eb" class="bar">
 <title>Use Amazon Bedrock Models with OpenAI SDKs with...: 7,723 views - Click to view article</title>
 </rect>
-<text x="296.95548489666135" y="185" class="metric-value" fill="#ffffff">7,723 views</text>
+<text x="296.65078419694265" y="185" class="metric-value" fill="#ffffff">7,723 views</text>
 </a>
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4" target="_blank">
 <text x="50" y="235" class="article-title">I Squeezed My $1k Monthly OpenClaw API Bill wit...</text>
-<rect x="50" y="240" width="280.8426073131956" height="40" fill="#2563eb" class="bar">
+<rect x="50" y="240" width="280.5638276752035" height="40" fill="#2563eb" class="bar">
 <title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 7,066 views - Click to view article</title>
 </rect>
-<text x="270.8426073131956" y="265" class="metric-value" fill="#ffffff">7,066 views</text>
+<text x="270.5638276752035" y="265" class="metric-value" fill="#ffffff">7,066 views</text>
 </a>
 </svg>
