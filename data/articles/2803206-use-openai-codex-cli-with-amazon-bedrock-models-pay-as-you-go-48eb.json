@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 5158
+      "count": 5168
     },
     {
       "domain": "",
-      "count": 954
+      "count": 964
     },
     {
       "domain": "duckduckgo.com",
@@ -2220,12 +2220,6 @@
     {
       "date": "2026-08-19",
       "views": 20,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-08-20",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
