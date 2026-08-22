@@ -27,7 +27,7 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "reactions": 15,
+      "reactions": 14,
       "org_username": "aws-builders"
     },
     {
@@ -179,7 +179,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10074,
+      "views": 10064,
       "org_username": "aws-builders"
     },
     {
@@ -197,13 +197,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6839,
+      "views": 6879,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6084,
+      "views": 6064,
       "org_username": "aws-builders"
     },
     {
@@ -215,7 +215,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 2663,
+      "views": 2693,
       "org_username": "aws-builders"
     },
     {
@@ -335,7 +335,7 @@
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
-      "views": 33,
+      "views": 43,
       "org_username": "aws-builders"
     },
     {

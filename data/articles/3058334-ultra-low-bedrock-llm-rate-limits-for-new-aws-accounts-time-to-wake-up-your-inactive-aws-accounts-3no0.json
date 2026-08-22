@@ -11,7 +11,7 @@
     },
     {
       "domain": "",
-      "count": 477
+      "count": 487
     },
     {
       "domain": "dev.to",
@@ -1662,12 +1662,6 @@
     {
       "date": "2026-08-20",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-08-21",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
