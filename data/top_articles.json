@@ -179,7 +179,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10064,
+      "views": 10074,
       "org_username": "aws-builders"
     },
     {
@@ -197,13 +197,13 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 6899,
+      "views": 6909,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6108,
+      "views": 6138,
       "org_username": "aws-builders"
     },
     {
@@ -215,13 +215,13 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 2724,
+      "views": 2713,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2234,
+      "views": 2244,
       "org_username": "aws-builders"
     },
     {
@@ -245,7 +245,7 @@
     {
       "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
       "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 810,
+      "views": 820,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 601,
+      "views": 602,
       "org_username": "aws-builders"
     },
     {
@@ -317,7 +317,7 @@
     {
       "slug": "your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6",
       "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-      "views": 189,
+      "views": 199,
       "org_username": "gabrielkoo"
     },
     {
