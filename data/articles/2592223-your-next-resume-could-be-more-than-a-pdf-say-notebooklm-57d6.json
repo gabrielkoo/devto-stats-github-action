@@ -1,10 +1,39 @@
 {
   "title": "Your Next Resume Could be More Than a PDF \u2014 Say NotebookLM",
-  "views": 199,
+  "views": 219,
   "comments": 0,
   "reactions": 3,
   "org_username": "gabrielkoo",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "google.com",
+      "count": 101
+    },
+    {
+      "domain": "",
+      "count": 82
+    },
+    {
+      "domain": "dev.to",
+      "count": 13
+    },
+    {
+      "domain": "chatgpt.com",
+      "count": 10
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 2
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-15",
@@ -2654,6 +2683,24 @@
     },
     {
       "date": "2026-08-30",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-31",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-01",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-02",
       "views": 0,
       "comments": 0,
       "reactions": 0
