@@ -1,10 +1,51 @@
 {
   "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-  "views": 309,
+  "views": 319,
   "comments": 0,
   "reactions": 2,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 111
+    },
+    {
+      "domain": "google.com",
+      "count": 107
+    },
+    {
+      "domain": "bing.com",
+      "count": 30
+    },
+    {
+      "domain": "github.com",
+      "count": 12
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "office.net",
+      "count": 10
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 10
+    },
+    {
+      "domain": "kagi.com",
+      "count": 10
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 10
+    },
+    {
+      "domain": "dev.to",
+      "count": 9
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -2354,6 +2395,48 @@
     },
     {
       "date": "2026-08-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-29",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-30",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-08-31",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-01",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-03",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-04",
       "views": 0,
       "comments": 0,
       "reactions": 0
