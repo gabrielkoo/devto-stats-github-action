@@ -1,65 +1,69 @@
 {
   "articles": 28,
-  "views": 57484,
+  "views": 57514,
   "comments": 23,
   "reactions": 264,
   "username": "gabrielkoo",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 19273
+      "count": 14220
     },
     {
       "domain": "",
-      "count": 7209
-    },
-    {
-      "domain": "dev.to",
-      "count": 868
+      "count": 5468
     },
     {
       "domain": "duckduckgo.com",
-      "count": 658
+      "count": 650
+    },
+    {
+      "domain": "dev.to",
+      "count": 492
     },
     {
       "domain": "bing.com",
-      "count": 594
+      "count": 428
     },
     {
       "domain": "android.googlequicksearchbox",
-      "count": 442
-    },
-    {
-      "domain": "brave.com",
       "count": 347
     },
     {
-      "domain": "perplexity.ai",
-      "count": 186
+      "domain": "brave.com",
+      "count": 235
     },
     {
       "domain": "chatgpt.com",
-      "count": 174
+      "count": 143
+    },
+    {
+      "domain": "perplexity.ai",
+      "count": 126
     },
     {
       "domain": "claude.ai",
-      "count": 162
-    },
-    {
-      "domain": "kagi.com",
-      "count": 100
-    },
-    {
-      "domain": "google.com.hk",
-      "count": 94
+      "count": 122
     },
     {
       "domain": "office.net",
-      "count": 81
+      "count": 120
+    },
+    {
+      "domain": "kagi.com",
+      "count": 110
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 79
     },
     {
       "domain": "github.com",
-      "count": 77
+      "count": 76
+    },
+    {
+      "domain": "google.com.hk",
+      "count": 73
     },
     {
       "domain": "ecosia.org",
@@ -67,30 +71,30 @@
     },
     {
       "domain": "com.slack",
-      "count": 44
-    },
-    {
-      "domain": "linkedin.com",
-      "count": 39
-    },
-    {
-      "domain": "substack.com",
-      "count": 39
-    },
-    {
-      "domain": "yahoo.com",
-      "count": 36
+      "count": 65
     },
     {
       "domain": "t.co",
-      "count": 20
-    },
-    {
-      "domain": "devpost.com",
-      "count": 13
+      "count": 40
     },
     {
       "domain": "static.microsoft",
+      "count": 32
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 22
+    },
+    {
+      "domain": "facebook.com",
+      "count": 21
+    },
+    {
+      "domain": "yahoo.com",
+      "count": 16
+    },
+    {
+      "domain": "google.ru",
       "count": 10
     },
     {
@@ -106,51 +110,15 @@
       "count": 10
     },
     {
-      "domain": "offbynone.io",
+      "domain": "tistory.com",
       "count": 10
     },
     {
-      "domain": "google.co.jp",
+      "domain": "tsecurity.de",
       "count": 10
     },
     {
-      "domain": "google.co.kr",
-      "count": 10
-    },
-    {
-      "domain": "google.de",
-      "count": 10
-    },
-    {
-      "domain": "google.co.uk",
-      "count": 10
-    },
-    {
-      "domain": "cloud.microsoft",
-      "count": 10
-    },
-    {
-      "domain": "yandex.com",
-      "count": 10
-    },
-    {
-      "domain": "google.cz",
-      "count": 10
-    },
-    {
-      "domain": "translate.goog",
-      "count": 10
-    },
-    {
-      "domain": "google.ru",
-      "count": 10
-    },
-    {
-      "domain": "google.ch",
-      "count": 10
-    },
-    {
-      "domain": "duck.ai",
+      "domain": "menlosecurity.com",
       "count": 10
     },
     {
@@ -158,35 +126,27 @@
       "count": 10
     },
     {
-      "domain": "readysetcloud.io",
-      "count": 10
+      "domain": "substack.com",
+      "count": 3
     },
     {
-      "domain": "bsky.app",
+      "domain": "forem.com",
       "count": 2
+    },
+    {
+      "domain": "jasondunn.com",
+      "count": 1
     },
     {
       "domain": "phpweekly.com",
       "count": 1
     },
     {
-      "domain": "forem.com",
+      "domain": "bsky.app",
       "count": 1
     },
     {
-      "domain": "sre.news",
-      "count": 1
-    },
-    {
-      "domain": "facebook.com",
-      "count": 1
-    },
-    {
-      "domain": "feishu.cn",
-      "count": 1
-    },
-    {
-      "domain": "android.gm",
+      "domain": "beachgeek.co.uk",
       "count": 1
     }
   ],
@@ -8899,7 +8859,7 @@
     },
     {
       "date": "2026-09-03",
-      "views": 80,
+      "views": 90,
       "comments": 0,
       "reactions": 0
     },
@@ -8917,6 +8877,12 @@
     },
     {
       "date": "2026-09-06",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-07",
       "views": 0,
       "comments": 0,
       "reactions": 0
