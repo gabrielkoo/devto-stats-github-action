@@ -169,6 +169,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
+      "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
+      "reactions": 0,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
       "reactions": 0,
@@ -191,7 +197,7 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 7176,
+      "views": 7186,
       "org_username": "aws-builders"
     },
     {
@@ -203,19 +209,19 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6158,
+      "views": 6198,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3365,
+      "views": 3405,
       "org_username": "aws-builders"
     },
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 2918,
+      "views": 2908,
       "org_username": "aws-builders"
     },
     {
@@ -323,13 +329,19 @@
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 157,
+      "views": 167,
       "org_username": "aws-builders"
     },
     {
       "slug": "fast-aws-console-navigation-with-chrome-site-search-b9e",
       "title": "Faster AWS Console Navigation with Chrome Site Search",
       "views": 143,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
+      "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
+      "views": 45,
       "org_username": "aws-builders"
     },
     {

@@ -34,9 +34,9 @@ a:hover .bar { opacity: 0.9; }
 <text x="15" y="245" class="rank">#3</text>
 <a href="https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4" target="_blank">
 <text x="50" y="235" class="article-title">I Squeezed My $1k Monthly OpenClaw API Bill wit...</text>
-<rect x="50" y="240" width="284.6489488298294" height="40" fill="#2563eb" class="bar">
-<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 7,176 views - Click to view article</title>
+<rect x="50" y="240" width="285.0456168187227" height="40" fill="#2563eb" class="bar">
+<title>I Squeezed My $1k Monthly OpenClaw API Bill wit...: 7,186 views - Click to view article</title>
 </rect>
-<text x="274.6489488298294" y="265" class="metric-value" fill="#ffffff">7,176 views</text>
+<text x="275.0456168187227" y="265" class="metric-value" fill="#ffffff">7,186 views</text>
 </a>
 </svg>
