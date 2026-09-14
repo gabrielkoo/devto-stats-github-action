@@ -221,7 +221,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 2908,
+      "views": 3031,
       "org_username": "aws-builders"
     },
     {
@@ -245,7 +245,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1146,
+      "views": 1136,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
       "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 697,
+      "views": 717,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +275,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 590,
+      "views": 588,
       "org_username": "aws-builders"
     },
     {
@@ -341,7 +341,7 @@
     {
       "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
       "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
-      "views": 45,
+      "views": 66,
       "org_username": "aws-builders"
     },
     {
