@@ -1,13 +1,13 @@
 {
   "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
-  "views": 66,
+  "views": 68,
   "comments": 0,
   "reactions": 0,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "",
-      "count": 65
+      "count": 67
     },
     {
       "domain": "dev.to",
@@ -29,6 +29,12 @@
     },
     {
       "date": "2026-09-14",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-15",
       "views": 0,
       "comments": 0,
       "reactions": 0
