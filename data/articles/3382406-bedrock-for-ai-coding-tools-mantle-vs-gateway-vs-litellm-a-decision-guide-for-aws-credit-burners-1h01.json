@@ -7,11 +7,11 @@
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2290
+      "count": 2292
     },
     {
       "domain": "",
-      "count": 618
+      "count": 619
     },
     {
       "domain": "dev.to",
@@ -52,6 +52,10 @@
     {
       "domain": "ecosia.org",
       "count": 10
+    },
+    {
+      "domain": "static.microsoft",
+      "count": 2
     },
     {
       "domain": "sre.news",
@@ -1178,12 +1182,6 @@
     {
       "date": "2026-09-24",
       "views": 10,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-09-25",
-      "views": 0,
       "comments": 0,
       "reactions": 0
     }
