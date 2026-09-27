@@ -1,67 +1,10 @@
 {
   "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-  "views": 3171,
+  "views": 3176,
   "comments": 1,
-  "reactions": 4,
+  "reactions": 5,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "google.com",
-      "count": 2292
-    },
-    {
-      "domain": "",
-      "count": 619
-    },
-    {
-      "domain": "dev.to",
-      "count": 52
-    },
-    {
-      "domain": "duckduckgo.com",
-      "count": 40
-    },
-    {
-      "domain": "bing.com",
-      "count": 40
-    },
-    {
-      "domain": "brave.com",
-      "count": 40
-    },
-    {
-      "domain": "claude.ai",
-      "count": 30
-    },
-    {
-      "domain": "kagi.com",
-      "count": 20
-    },
-    {
-      "domain": "google.ch",
-      "count": 10
-    },
-    {
-      "domain": "office.net",
-      "count": 10
-    },
-    {
-      "domain": "duck.ai",
-      "count": 10
-    },
-    {
-      "domain": "ecosia.org",
-      "count": 10
-    },
-    {
-      "domain": "static.microsoft",
-      "count": 2
-    },
-    {
-      "domain": "sre.news",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-03-22",
@@ -1182,6 +1125,24 @@
     {
       "date": "2026-09-24",
       "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-25",
+      "views": 5,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2026-09-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-09-27",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }
