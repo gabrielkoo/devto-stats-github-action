@@ -1,0 +1,27 @@
+{
+  "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
+  "views": 10,
+  "comments": 0,
+  "reactions": 1,
+  "org_username": "aws-builders",
+  "referrers": [
+    {
+      "domain": "",
+      "count": 10
+    }
+  ],
+  "breakdown": [
+    {
+      "date": "2026-10-01",
+      "views": 0,
+      "comments": 0,
+      "reactions": 1
+    },
+    {
+      "date": "2026-10-02",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    }
+  ]
+}

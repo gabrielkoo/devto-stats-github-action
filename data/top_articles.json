@@ -169,6 +169,30 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
       "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
       "reactions": 0,
@@ -177,6 +201,12 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "reactions": 0,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
       "reactions": 0,
       "org_username": "aws-builders"
     }
@@ -221,7 +251,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3188,
+      "views": 3263,
       "org_username": "aws-builders"
     },
     {
@@ -233,7 +263,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1694,
+      "views": 1704,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +305,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 610,
+      "views": 600,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +329,7 @@
     {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 364,
+      "views": 354,
       "org_username": "kirodotdev"
     },
     {
@@ -351,16 +381,46 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
+      "views": 30,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 24,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
       "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
       "views": 18,
       "org_username": "gabrielkoo"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
+      "views": 10,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
       "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
       "views": 2,
       "org_username": "gabrielkoo"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
+      "views": 0,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
+      "views": 0,
+      "org_username": "aws-builders"
     }
   ]
 }
