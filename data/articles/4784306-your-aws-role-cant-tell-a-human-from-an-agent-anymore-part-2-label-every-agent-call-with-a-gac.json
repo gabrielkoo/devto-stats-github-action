@@ -1,10 +1,19 @@
 {
   "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
-  "views": 0,
+  "views": 2,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 1
+    },
+    {
+      "domain": "dev.to",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-10-01",
@@ -14,6 +23,12 @@
     },
     {
       "date": "2026-10-02",
+      "views": 2,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-03",
       "views": 0,
       "comments": 0,
       "reactions": 0
