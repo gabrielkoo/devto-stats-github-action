@@ -169,6 +169,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "reactions": 1,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
       "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
       "reactions": 1,
@@ -201,12 +207,6 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "reactions": 0,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
       "reactions": 0,
       "org_username": "aws-builders"
     }
@@ -387,6 +387,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 38,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
       "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
       "views": 30,
@@ -414,12 +420,6 @@
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
       "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
       "views": 2,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 0,
       "org_username": "aws-builders"
     }
   ]
