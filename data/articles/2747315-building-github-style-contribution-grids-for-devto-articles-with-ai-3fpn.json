@@ -4,7 +4,44 @@
   "comments": 0,
   "reactions": 7,
   "org_username": "kirodotdev",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 231
+    },
+    {
+      "domain": "google.com",
+      "count": 66
+    },
+    {
+      "domain": "dev.to",
+      "count": 41
+    },
+    {
+      "domain": "devpost.com",
+      "count": 13
+    },
+    {
+      "domain": "t.co",
+      "count": 10
+    },
+    {
+      "domain": "readysetcloud.io",
+      "count": 10
+    },
+    {
+      "domain": "feishu.cn",
+      "count": 1
+    },
+    {
+      "domain": "android.gm",
+      "count": 1
+    },
+    {
+      "domain": "github.com",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-08-02",
@@ -2559,6 +2596,36 @@
     {
       "date": "2026-10-01",
       "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-04",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-06",
+      "views": 0,
       "comments": 0,
       "reactions": 0
     }

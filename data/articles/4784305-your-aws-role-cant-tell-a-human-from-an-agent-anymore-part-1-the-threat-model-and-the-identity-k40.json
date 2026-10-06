@@ -1,13 +1,13 @@
 {
   "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-  "views": 38,
+  "views": 49,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "",
-      "count": 28
+      "count": 39
     },
     {
       "domain": "dev.to",
@@ -41,6 +41,12 @@
     },
     {
       "date": "2026-10-05",
+      "views": 11,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-06",
       "views": 0,
       "comments": 0,
       "reactions": 0

@@ -221,7 +221,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7753,
+      "views": 7763,
       "org_username": "aws-builders"
     },
     {
@@ -251,7 +251,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3273,
+      "views": 3283,
       "org_username": "aws-builders"
     },
     {
@@ -269,7 +269,7 @@
     {
       "slug": "get-phished-by-a-public-aws-systems-manager-automation-document-2die",
       "title": "Get Phished by a Public AWS Systems Manager Automation Document",
-      "views": 1613,
+      "views": 1623,
       "org_username": "aws-builders"
     },
     {
@@ -305,7 +305,7 @@
     {
       "slug": "deep-linking-aws-console-with-all-your-aws-iam-identity-center-roles-148c",
       "title": "Deep Linking AWS Console with all your AWS IAM Identity Center Roles",
-      "views": 600,
+      "views": 610,
       "org_username": "aws-builders"
     },
     {
@@ -377,19 +377,19 @@
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
       "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
-      "views": 46,
+      "views": 56,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 49,
       "org_username": "aws-builders"
     },
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
       "views": 43,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 38,
       "org_username": "aws-builders"
     },
     {

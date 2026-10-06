@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Combined Activity</text>
-<text x="20" y="45" class="subtitle">34 articles • 58,744 total views • 272 total reactions</text>
+<text x="20" y="45" class="subtitle">34 articles • 58,805 total views • 272 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -353,7 +353,7 @@
 <rect x="688" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2026-08-31" data-level="3"><title>August 31, 2026: 42 views, 0 comments, 0 reactions</title></rect>
 <rect x="688" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-01" data-level="3"><title>September 01, 2026: 90 views, 0 comments, 0 reactions</title></rect>
 <rect x="688" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-02" data-level="3"><title>September 02, 2026: 30 views, 0 comments, 0 reactions</title></rect>
-<rect x="688" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-03" data-level="3"><title>September 03, 2026: 90 views, 0 comments, 0 reactions</title></rect>
+<rect x="688" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-03" data-level="3"><title>September 03, 2026: 100 views, 0 comments, 0 reactions</title></rect>
 <rect x="688" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-04" data-level="3"><title>September 04, 2026: 50 views, 0 comments, 0 reactions</title></rect>
 <rect x="688" y="149" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-09-05" data-level="0"><title>September 05, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 <rect x="702" y="65" width="12" height="12" fill="#40c463" class="day" data-date="2026-09-06" data-level="2"><title>September 06, 2026: 22 views, 0 comments, 0 reactions</title></rect>
@@ -377,15 +377,16 @@
 <rect x="730" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-24" data-level="3"><title>September 24, 2026: 52 views, 0 comments, 0 reactions</title></rect>
 <rect x="730" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-25" data-level="3"><title>September 25, 2026: 45 views, 0 comments, 1 reactions</title></rect>
 <rect x="730" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2026-09-26" data-level="2"><title>September 26, 2026: 20 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="65" width="12" height="12" fill="#40c463" class="day" data-date="2026-09-27" data-level="2"><title>September 27, 2026: 22 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-27" data-level="3"><title>September 27, 2026: 32 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-28" data-level="3"><title>September 28, 2026: 33 views, 0 comments, 0 reactions</title></rect>
-<rect x="744" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-29" data-level="3"><title>September 29, 2026: 52 views, 0 comments, 0 reactions</title></rect>
+<rect x="744" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-09-29" data-level="3"><title>September 29, 2026: 62 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="107" width="12" height="12" fill="#40c463" class="day" data-date="2026-09-30" data-level="2"><title>September 30, 2026: 10 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-01" data-level="3"><title>October 01, 2026: 124 views, 0 comments, 5 reactions</title></rect>
 <rect x="744" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-02" data-level="3"><title>October 02, 2026: 107 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2026-10-03" data-level="2"><title>October 03, 2026: 14 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-10-04" data-level="0"><title>October 04, 2026: 0 views, 0 comments, 0 reactions</title></rect>
-<rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-10-05" data-level="0"><title>October 05, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-05" data-level="3"><title>October 05, 2026: 31 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-10-06" data-level="0"><title>October 06, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="72" y="60" class="month-label">Nov</text>
@@ -410,5 +411,5 @@
 <rect x="121" y="173" width="12" height="12" fill="#216e39" class="day"></rect>
 <text x="140" y="183" class="legend-text">More</text>
 
-<text x="30" y="203" class="stats">362 days with activity in the last year</text>
+<text x="30" y="203" class="stats">363 days with activity in the last year</text>
 </svg>
