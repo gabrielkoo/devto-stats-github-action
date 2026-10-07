@@ -221,25 +221,25 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7763,
+      "views": 7773,
       "org_username": "aws-builders"
     },
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 7248,
+      "views": 7258,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7123,
+      "views": 7133,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6228,
+      "views": 6258,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +299,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 642,
+      "views": 632,
       "org_username": "aws-builders"
     },
     {
@@ -395,13 +395,13 @@
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
       "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
-      "views": 30,
+      "views": 42,
       "org_username": "aws-builders"
     },
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
       "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
-      "views": 27,
+      "views": 28,
       "org_username": "aws-builders"
     },
     {
