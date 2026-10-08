@@ -4,7 +4,28 @@
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 94
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 27
+    },
+    {
+      "domain": "google.com",
+      "count": 22
+    },
+    {
+      "domain": "dev.to",
+      "count": 18
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 6
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-18",
@@ -2852,6 +2873,24 @@
     },
     {
       "date": "2026-10-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-06",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-08",
       "views": 0,
       "comments": 0,
       "reactions": 0

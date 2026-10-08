@@ -1,6 +1,6 @@
 {
   "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
-  "views": 43,
+  "views": 53,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
@@ -741,6 +741,12 @@
     {
       "date": "2026-10-07",
       "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-08",
+      "views": 10,
       "comments": 0,
       "reactions": 0
     }
