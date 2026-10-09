@@ -233,7 +233,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7153,
+      "views": 7163,
       "org_username": "aws-builders"
     },
     {
@@ -245,7 +245,7 @@
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3416,
+      "views": 3436,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +299,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 622,
+      "views": 643,
       "org_username": "aws-builders"
     },
     {
@@ -375,15 +375,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 61,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
+      "views": 66,
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
-      "views": 56,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 61,
       "org_username": "aws-builders"
     },
     {
