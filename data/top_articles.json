@@ -239,7 +239,7 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6258,
+      "views": 6268,
       "org_username": "aws-builders"
     },
     {
@@ -251,19 +251,19 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3293,
+      "views": 3303,
       "org_username": "aws-builders"
     },
     {
       "slug": "why-i-built-a-web-ui-for-amazon-q-developer-cli-and-how-i-vibe-coded-it-54d6",
       "title": "Why I Built a Web UI for Amazon Q Developer CLI (And How I Vibe-Coded It)",
-      "views": 2264,
+      "views": 2274,
       "org_username": "aws-builders"
     },
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1714,
+      "views": 1704,
       "org_username": "aws-builders"
     },
     {
@@ -413,7 +413,7 @@
     {
       "slug": "i-used-cloudflares-app-library-to-map-every-ai-services-domains-and-why-networking-still-matters-2and",
       "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
-      "views": 12,
+      "views": 2,
       "org_username": "gabrielkoo"
     },
     {
