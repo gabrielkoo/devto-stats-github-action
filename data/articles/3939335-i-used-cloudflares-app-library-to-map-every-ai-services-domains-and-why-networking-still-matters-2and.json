@@ -1,10 +1,19 @@
 {
   "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
-  "views": 22,
+  "views": 32,
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 31
+    },
+    {
+      "domain": "dev.to",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-06-19",
@@ -692,6 +701,12 @@
     },
     {
       "date": "2026-10-11",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-12",
       "views": 0,
       "comments": 0,
       "reactions": 0
