@@ -1,15 +1,10 @@
 {
   "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
-  "views": 67,
+  "views": 66,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "",
-      "count": 67
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-10-01",
@@ -92,12 +87,6 @@
     {
       "date": "2026-10-14",
       "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-10-15",
-      "views": 1,
       "comments": 0,
       "reactions": 0
     }
