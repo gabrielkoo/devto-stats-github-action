@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10094,
+      "views": 10084,
       "org_username": "aws-builders"
     },
     {
@@ -233,7 +233,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7193,
+      "views": 7203,
       "org_username": "aws-builders"
     },
     {
@@ -321,16 +321,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 394,
+      "org_username": "kirodotdev"
+    },
+    {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
       "views": 386,
       "org_username": "aws-builders"
-    },
-    {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 384,
-      "org_username": "kirodotdev"
     },
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
@@ -383,7 +383,7 @@
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
       "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 62,
+      "views": 63,
       "org_username": "aws-builders"
     },
     {
