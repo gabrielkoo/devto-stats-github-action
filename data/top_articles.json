@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10104,
+      "views": 10114,
       "org_username": "aws-builders"
     },
     {
@@ -275,7 +275,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1146,
+      "views": 1156,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +299,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 673,
+      "views": 693,
       "org_username": "aws-builders"
     },
     {
@@ -315,6 +315,12 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 396,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
       "title": "Open Unclickable Instagram Post Description Links with AWS Lambda and iOS Shortcuts",
       "views": 395,
@@ -325,12 +331,6 @@
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
       "views": 394,
       "org_username": "kirodotdev"
-    },
-    {
-      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
-      "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 386,
-      "org_username": "aws-builders"
     },
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
