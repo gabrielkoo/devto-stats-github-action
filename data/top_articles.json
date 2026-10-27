@@ -233,25 +233,25 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7243,
+      "views": 7253,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6278,
+      "views": 6288,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
+      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
+      "views": 3476,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
       "views": 3466,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
-      "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3455,
       "org_username": "aws-builders"
     },
     {
@@ -285,15 +285,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
-      "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 730,
+      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
+      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
+      "views": 737,
       "org_username": "aws-builders"
     },
     {
-      "slug": "from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5",
-      "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-      "views": 727,
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "views": 730,
       "org_username": "aws-builders"
     },
     {
@@ -375,15 +375,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
-      "views": 67,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 75,
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 65,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
+      "views": 67,
       "org_username": "aws-builders"
     },
     {
@@ -419,7 +419,7 @@
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
       "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
-      "views": 2,
+      "views": 12,
       "org_username": "aws-builders"
     }
   ]
