@@ -245,7 +245,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3476,
+      "views": 3489,
       "org_username": "aws-builders"
     },
     {
@@ -281,7 +281,7 @@
     {
       "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
       "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 870,
+      "views": 860,
       "org_username": "aws-builders"
     },
     {
@@ -371,7 +371,7 @@
     {
       "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
       "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
-      "views": 121,
+      "views": 123,
       "org_username": "aws-builders"
     },
     {
@@ -411,16 +411,16 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
+      "views": 22,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp",
       "title": "Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models",
       "views": 18,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 2: label every agent call with a User-Agent tag",
-      "views": 12,
-      "org_username": "aws-builders"
     }
   ]
 }
