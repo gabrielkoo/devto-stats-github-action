@@ -1,10 +1,43 @@
 {
   "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-  "views": 860,
+  "views": 890,
   "comments": 0,
   "reactions": 9,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 537
+    },
+    {
+      "domain": "google.com",
+      "count": 164
+    },
+    {
+      "domain": "github.com",
+      "count": 77
+    },
+    {
+      "domain": "dev.to",
+      "count": 36
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 23
+    },
+    {
+      "domain": "depths.so",
+      "count": 21
+    },
+    {
+      "domain": "duckduckgo.com",
+      "count": 20
+    },
+    {
+      "domain": "readysetcloud.io",
+      "count": 12
+    }
+  ],
   "breakdown": [
     {
       "date": "2023-04-26",
@@ -7622,6 +7655,84 @@
     },
     {
       "date": "2026-10-16",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-17",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-22",
+      "views": 20,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-29",
       "views": 0,
       "comments": 0,
       "reactions": 0

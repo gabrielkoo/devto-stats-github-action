@@ -245,7 +245,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3489,
+      "views": 3519,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1714,
+      "views": 1734,
       "org_username": "aws-builders"
     },
     {
@@ -281,7 +281,7 @@
     {
       "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
       "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 860,
+      "views": 890,
       "org_username": "aws-builders"
     },
     {
@@ -375,15 +375,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 75,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
       "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
       "views": 67,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 65,
       "org_username": "aws-builders"
     },
     {
