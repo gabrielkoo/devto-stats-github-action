@@ -4,7 +4,80 @@
   "comments": 0,
   "reactions": 12,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 1002
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 144
+    },
+    {
+      "domain": "t.co",
+      "count": 111
+    },
+    {
+      "domain": "google.com",
+      "count": 85
+    },
+    {
+      "domain": "dev.to",
+      "count": 63
+    },
+    {
+      "domain": "linkedin.android",
+      "count": 40
+    },
+    {
+      "domain": "aws-cloudsec.com",
+      "count": 32
+    },
+    {
+      "domain": "com.slack",
+      "count": 21
+    },
+    {
+      "domain": "tldrsec.com",
+      "count": 20
+    },
+    {
+      "domain": "office.net",
+      "count": 20
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 13
+    },
+    {
+      "domain": "awssecuritydigest.com",
+      "count": 11
+    },
+    {
+      "domain": "facebook.com",
+      "count": 11
+    },
+    {
+      "domain": "substack.com",
+      "count": 10
+    },
+    {
+      "domain": "android.gm",
+      "count": 10
+    },
+    {
+      "domain": "bsky.app",
+      "count": 10
+    },
+    {
+      "domain": "googleusercontent.com",
+      "count": 10
+    },
+    {
+      "domain": "google.co.uk",
+      "count": 10
+    }
+  ],
   "breakdown": [
     {
       "date": "2024-12-22",
@@ -3980,6 +4053,96 @@
     },
     {
       "date": "2026-10-15",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-16",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-17",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-18",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-19",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-20",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-21",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-22",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-26",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-27",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-28",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-29",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-30",
       "views": 0,
       "comments": 0,
       "reactions": 0

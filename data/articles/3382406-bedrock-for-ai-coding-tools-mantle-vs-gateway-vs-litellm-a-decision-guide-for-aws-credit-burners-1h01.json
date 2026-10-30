@@ -1,13 +1,13 @@
 {
   "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-  "views": 3519,
+  "views": 3529,
   "comments": 1,
   "reactions": 5,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "google.com",
-      "count": 2456
+      "count": 2466
     },
     {
       "domain": "",
@@ -1391,6 +1391,12 @@
     },
     {
       "date": "2026-10-29",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-30",
       "views": 0,
       "comments": 0,
       "reactions": 0
