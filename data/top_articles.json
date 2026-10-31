@@ -227,13 +227,13 @@
     {
       "slug": "i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4",
       "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits \u2014 Here's the Exact Setup",
-      "views": 7318,
+      "views": 7328,
       "org_username": "aws-builders"
     },
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7253,
+      "views": 7263,
       "org_username": "aws-builders"
     },
     {
@@ -263,7 +263,7 @@
     {
       "slug": "ultra-low-bedrock-llm-rate-limits-for-new-aws-accounts-time-to-wake-up-your-inactive-aws-accounts-3no0",
       "title": "Ultra Low Bedrock LLM Rate Limits for New AWS Accounts? Time to Wake Up Your Inactive AWS Accounts!",
-      "views": 1734,
+      "views": 1744,
       "org_username": "aws-builders"
     },
     {
@@ -281,7 +281,7 @@
     {
       "slug": "enhance-your-slack-workspace-with-a-user-trainable-chatgpt-integrated-faq-bot-2pj3",
       "title": "Enhance Your Slack Workspace with a user-trainable ChatGPT-Integrated FAQ Bot",
-      "views": 890,
+      "views": 900,
       "org_username": "aws-builders"
     },
     {
@@ -375,21 +375,27 @@
       "org_username": "aws-builders"
     },
     {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 87,
+      "org_username": "aws-builders"
+    },
+    {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
       "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
       "views": 77,
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 65,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
       "views": 63,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
+      "views": 52,
       "org_username": "aws-builders"
     },
     {
@@ -403,12 +409,6 @@
       "title": "Why I Split-Tunnel My VPN for AI Services \u2014 and Let Cloudflare's Application Library Pick the Domains",
       "views": 42,
       "org_username": "gabrielkoo"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
-      "views": 42,
-      "org_username": "aws-builders"
     },
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-2-label-every-agent-call-with-a-gac",
