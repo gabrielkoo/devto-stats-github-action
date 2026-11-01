@@ -1,6 +1,6 @@
 {
   "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-  "views": 277,
+  "views": 287,
   "comments": 0,
   "reactions": 2,
   "org_username": "aws-builders",
@@ -3308,6 +3308,24 @@
     },
     {
       "date": "2026-10-29",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-30",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-10-31",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-01",
       "views": 0,
       "comments": 0,
       "reactions": 0
