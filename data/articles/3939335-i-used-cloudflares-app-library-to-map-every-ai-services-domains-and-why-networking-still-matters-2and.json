@@ -4,16 +4,7 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [
-    {
-      "domain": "",
-      "count": 41
-    },
-    {
-      "domain": "dev.to",
-      "count": 1
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-06-19",
@@ -821,12 +812,6 @@
     },
     {
       "date": "2026-10-31",
-      "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-11-01",
       "views": 0,
       "comments": 0,
       "reactions": 0
