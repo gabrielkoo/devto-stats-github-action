@@ -1,6 +1,6 @@
 {
   "title": "From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw",
-  "views": 747,
+  "views": 737,
   "comments": 1,
   "reactions": 7,
   "org_username": "aws-builders",
@@ -1444,12 +1444,6 @@
     {
       "date": "2026-10-30",
       "views": 0,
-      "comments": 0,
-      "reactions": 0
-    },
-    {
-      "date": "2026-10-31",
-      "views": 10,
       "comments": 0,
       "reactions": 0
     }
