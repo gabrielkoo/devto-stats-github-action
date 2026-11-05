@@ -1,13 +1,13 @@
 {
   "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
-  "views": 44,
+  "views": 54,
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "",
-      "count": 33
+      "count": 43
     },
     {
       "domain": "dev.to",
@@ -221,6 +221,12 @@
     },
     {
       "date": "2026-11-04",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-05",
       "views": 0,
       "comments": 0,
       "reactions": 0
