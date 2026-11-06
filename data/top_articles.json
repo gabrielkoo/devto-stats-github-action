@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10124,
+      "views": 10114,
       "org_username": "aws-builders"
     },
     {
@@ -239,7 +239,7 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6288,
+      "views": 6298,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +299,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 693,
+      "views": 703,
       "org_username": "aws-builders"
     },
     {
@@ -335,13 +335,13 @@
     {
       "slug": "regain-access-to-amazon-q-cli-in-cloudshell-with-this-simple-trick-58m3",
       "title": "Regain access to Amazon Q CLI in CloudShell with This Simple Trick",
-      "views": 329,
+      "views": 339,
       "org_username": "aws-builders"
     },
     {
       "slug": "phantom-dns-query-to-gcp-vm-metadata-service-in-my-aws-workload-revealed-by-route-53-resolver-3c75",
       "title": "Phantom DNS Query to GCP VM Metadata Service in My AWS Workload \ud83d\udc7b \u2014 Revealed by Route 53 Resolver Logging \ud83d\udd0d",
-      "views": 277,
+      "views": 297,
       "org_username": "aws-builders"
     },
     {
@@ -359,7 +359,7 @@
     {
       "slug": "building-a-plasma-sword-fighter-game-with-amazon-q-cli-279g",
       "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-      "views": 167,
+      "views": 177,
       "org_username": "aws-builders"
     },
     {
@@ -389,7 +389,7 @@
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
-      "views": 63,
+      "views": 73,
       "org_username": "aws-builders"
     },
     {
