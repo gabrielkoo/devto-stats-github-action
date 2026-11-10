@@ -4,16 +4,7 @@
   "comments": 0,
   "reactions": 1,
   "org_username": "aws-builders",
-  "referrers": [
-    {
-      "domain": "",
-      "count": 50
-    },
-    {
-      "domain": "dev.to",
-      "count": 2
-    }
-  ],
+  "referrers": [],
   "breakdown": [
     {
       "date": "2026-10-01",
@@ -239,6 +230,24 @@
     },
     {
       "date": "2026-11-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-08",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-10",
       "views": 0,
       "comments": 0,
       "reactions": 0

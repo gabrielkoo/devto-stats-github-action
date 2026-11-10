@@ -239,7 +239,7 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6288,
+      "views": 6298,
       "org_username": "aws-builders"
     },
     {
@@ -377,7 +377,7 @@
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
       "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 87,
+      "views": 77,
       "org_username": "aws-builders"
     },
     {
@@ -389,7 +389,7 @@
     {
       "slug": "stop-putting-api-keys-in-mcpjson-per-user-oauth-with-amazon-cognito-aws-lambda-4h2i",
       "title": "Stop Putting API Keys in Your MCP Config: Per-User OAuth with Amazon Cognito + AWS Lambda",
-      "views": 73,
+      "views": 63,
       "org_username": "aws-builders"
     },
     {

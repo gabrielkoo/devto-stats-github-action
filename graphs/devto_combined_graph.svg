@@ -13,7 +13,7 @@
 </defs>
 
 <text x="20" y="25" class="title">dev.to Article Activity - Combined Activity</text>
-<text x="20" y="45" class="subtitle">34 articles • 60,246 total views • 272 total reactions</text>
+<text x="20" y="45" class="subtitle">34 articles • 60,236 total views • 272 total reactions</text>
 
 <!-- Day labels -->
 <text x="10" y="80" class="day-label">Mon</text>
@@ -375,7 +375,7 @@
 <rect x="730" y="93" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-27" data-level="3"><title>October 27, 2026: 48 views, 0 comments, 0 reactions</title></rect>
 <rect x="730" y="107" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-28" data-level="3"><title>October 28, 2026: 40 views, 0 comments, 0 reactions</title></rect>
 <rect x="730" y="121" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-29" data-level="3"><title>October 29, 2026: 40 views, 0 comments, 0 reactions</title></rect>
-<rect x="730" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-30" data-level="3"><title>October 30, 2026: 40 views, 0 comments, 0 reactions</title></rect>
+<rect x="730" y="135" width="12" height="12" fill="#30a14e" class="day" data-date="2026-10-30" data-level="3"><title>October 30, 2026: 30 views, 0 comments, 0 reactions</title></rect>
 <rect x="730" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2026-10-31" data-level="2"><title>October 31, 2026: 20 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="65" width="12" height="12" fill="#30a14e" class="day" data-date="2026-11-01" data-level="3"><title>November 01, 2026: 50 views, 0 comments, 0 reactions</title></rect>
 <rect x="744" y="79" width="12" height="12" fill="#30a14e" class="day" data-date="2026-11-02" data-level="3"><title>November 02, 2026: 50 views, 0 comments, 0 reactions</title></rect>
@@ -386,6 +386,7 @@
 <rect x="744" y="149" width="12" height="12" fill="#40c463" class="day" data-date="2026-11-07" data-level="2"><title>November 07, 2026: 10 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="65" width="12" height="12" fill="#40c463" class="day" data-date="2026-11-08" data-level="2"><title>November 08, 2026: 20 views, 0 comments, 0 reactions</title></rect>
 <rect x="758" y="79" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-11-09" data-level="0"><title>November 09, 2026: 0 views, 0 comments, 0 reactions</title></rect>
+<rect x="758" y="93" width="12" height="12" fill="#ebedf0" class="day" data-date="2026-11-10" data-level="0"><title>November 10, 2026: 0 views, 0 comments, 0 reactions</title></rect>
 
 <!-- Month labels -->
 <text x="72" y="60" class="month-label">Dec</text>
