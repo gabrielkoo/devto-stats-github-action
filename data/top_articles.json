@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10114,
+      "views": 10124,
       "org_username": "aws-builders"
     },
     {
@@ -233,7 +233,7 @@
     {
       "slug": "use-openai-codex-cli-with-amazon-bedrock-models-pay-as-you-go-48eb",
       "title": "Use OpenAI Codex CLI with Amazon Bedrock Models - Pay As You Go",
-      "views": 7273,
+      "views": 7263,
       "org_username": "aws-builders"
     },
     {
@@ -245,7 +245,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3619,
+      "views": 3649,
       "org_username": "aws-builders"
     },
     {
@@ -299,7 +299,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 713,
+      "views": 703,
       "org_username": "aws-builders"
     },
     {
