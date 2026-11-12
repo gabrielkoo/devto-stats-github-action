@@ -1,10 +1,31 @@
 {
   "title": "Building A Plasma Sword Fighter Game with Amazon Q CLI",
-  "views": 167,
+  "views": 177,
   "comments": 0,
   "reactions": 4,
   "org_username": "aws-builders",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 104
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 27
+    },
+    {
+      "domain": "google.com",
+      "count": 22
+    },
+    {
+      "domain": "dev.to",
+      "count": 18
+    },
+    {
+      "domain": "android.googlequicksearchbox",
+      "count": 6
+    }
+  ],
   "breakdown": [
     {
       "date": "2025-06-18",
@@ -3014,6 +3035,72 @@
     },
     {
       "date": "2026-11-01",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-02",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-03",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-04",
+      "views": 10,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-05",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-06",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-07",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-08",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-09",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-10",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-11",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-12",
       "views": 0,
       "comments": 0,
       "reactions": 0
