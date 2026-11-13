@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10124,
+      "views": 10134,
       "org_username": "aws-builders"
     },
     {
@@ -371,19 +371,19 @@
     {
       "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
       "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
-      "views": 123,
-      "org_username": "aws-builders"
-    },
-    {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 77,
+      "views": 133,
       "org_username": "aws-builders"
     },
     {
       "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
       "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
       "views": 77,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 75,
       "org_username": "aws-builders"
     },
     {
