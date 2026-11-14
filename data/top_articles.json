@@ -275,7 +275,7 @@
     {
       "slug": "scale-a-stateful-streamlit-chatbot-with-aws-ecs-and-efs-48gm",
       "title": "Scale a Stateful Streamlit Chatbot with AWS ECS and EFS",
-      "views": 1156,
+      "views": 1166,
       "org_username": "aws-builders"
     },
     {
@@ -291,15 +291,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
-      "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 730,
+      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
+      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "views": 733,
       "org_username": "aws-builders"
     },
     {
-      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
-      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 693,
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "views": 730,
       "org_username": "aws-builders"
     },
     {
@@ -375,15 +375,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
-      "views": 77,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
+      "views": 87,
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 1: the threat model and the identity problem",
-      "views": 75,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 3: the SCP backstop",
+      "views": 77,
       "org_username": "aws-builders"
     },
     {
