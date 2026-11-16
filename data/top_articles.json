@@ -291,15 +291,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
-      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 733,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
       "title": "Do not use default SAM CloudFormation Role for Production",
       "views": 730,
+      "org_username": "aws-builders"
+    },
+    {
+      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
+      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "views": 723,
       "org_username": "aws-builders"
     },
     {
@@ -315,16 +315,16 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
-      "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 416,
-      "org_username": "aws-builders"
-    },
-    {
       "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
       "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 396,
+      "views": 406,
       "org_username": "kirodotdev"
+    },
+    {
+      "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
+      "title": "`safeaws` checks your AWS CLI commands before they are run",
+      "views": 406,
+      "org_username": "aws-builders"
     },
     {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
