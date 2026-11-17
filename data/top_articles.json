@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10134,
+      "views": 10124,
       "org_username": "aws-builders"
     },
     {
@@ -245,7 +245,7 @@
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3679,
+      "views": 3689,
       "org_username": "aws-builders"
     },
     {
@@ -291,15 +291,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
-      "title": "Do not use default SAM CloudFormation Role for Production",
-      "views": 730,
+      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
+      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
+      "views": 733,
       "org_username": "aws-builders"
     },
     {
-      "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
-      "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 723,
+      "slug": "do-not-use-default-sam-cloudformation-role-for-production-o5g",
+      "title": "Do not use default SAM CloudFormation Role for Production",
+      "views": 730,
       "org_username": "aws-builders"
     },
     {
@@ -323,7 +323,7 @@
     {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 406,
+      "views": 396,
       "org_username": "aws-builders"
     },
     {
