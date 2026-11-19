@@ -215,7 +215,7 @@
     {
       "slug": "i-bought-us-east-1com-a-look-at-security-dns-traffic-and-protecting-aws-users-15ng",
       "title": "I bought us-east-1.com: A Look at Security, DNS Traffic, and Protecting AWS Users",
-      "views": 10124,
+      "views": 10134,
       "org_username": "aws-builders"
     },
     {
@@ -239,13 +239,13 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6298,
+      "views": 6308,
       "org_username": "aws-builders"
     },
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3689,
+      "views": 3699,
       "org_username": "aws-builders"
     },
     {
@@ -293,7 +293,7 @@
     {
       "slug": "resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i",
       "title": "Resurface Claude Code Usage Across Your Team with CloudWatch OTEL (No Lambda)",
-      "views": 733,
+      "views": 743,
       "org_username": "aws-builders"
     },
     {
@@ -371,7 +371,7 @@
     {
       "slug": "google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj",
       "title": "Google Custom Search Shuts Down in 2027 \u2014 I Replaced It with Amazon Bedrock AgentCore Web Search",
-      "views": 123,
+      "views": 133,
       "org_username": "aws-builders"
     },
     {
@@ -393,15 +393,15 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
-      "views": 54,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
+      "views": 72,
       "org_username": "aws-builders"
     },
     {
-      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-4-detection-what-did-the-agent-3d3",
-      "title": "Your AWS role can't tell a human from an agent anymore, part 4: detection \u2014 what did the agent actually touch?",
-      "views": 52,
+      "slug": "your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko",
+      "title": "Your AWS role can't tell a human from an agent anymore, part 5: putting the four layers together",
+      "views": 54,
       "org_username": "aws-builders"
     },
     {
