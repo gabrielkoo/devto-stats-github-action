@@ -221,7 +221,7 @@
     {
       "slug": "use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5",
       "title": "Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!",
-      "views": 7815,
+      "views": 7805,
       "org_username": "aws-builders"
     },
     {
@@ -239,19 +239,19 @@
     {
       "slug": "aws-silently-releases-kimi-k25-and-glm-47-models-to-bedrock-1514",
       "title": "AWS Silently Releases Kimi K2.5 and GLM 4.7 Models to Bedrock",
-      "views": 6298,
+      "views": 6320,
       "org_username": "aws-builders"
     },
     {
       "slug": "bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01",
       "title": "Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM \u2014 A Decision Guide for AWS Credit Burners",
-      "views": 3721,
+      "views": 3741,
       "org_username": "aws-builders"
     },
     {
       "slug": "aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd",
       "title": "\ud83d\ude80 AWS Launches OpenAI-Compatible API for Bedrock (and I Did Some Tests!)",
-      "views": 3466,
+      "views": 3476,
       "org_username": "aws-builders"
     },
     {
@@ -315,16 +315,16 @@
       "org_username": "aws-builders"
     },
     {
-      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
-      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
-      "views": 416,
-      "org_username": "kirodotdev"
-    },
-    {
       "slug": "safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl",
       "title": "`safeaws` checks your AWS CLI commands before they are run",
-      "views": 396,
+      "views": 436,
       "org_username": "aws-builders"
+    },
+    {
+      "slug": "building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn",
+      "title": "Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE",
+      "views": 406,
+      "org_username": "kirodotdev"
     },
     {
       "slug": "open-unclickable-instagram-post-description-links-with-aws-lambda-and-ios-shortcuts-38h4",
