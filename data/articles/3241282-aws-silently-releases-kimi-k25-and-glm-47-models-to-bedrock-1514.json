@@ -34,11 +34,11 @@
       "count": 60
     },
     {
-      "domain": "ecosia.org",
+      "domain": "kagi.com",
       "count": 30
     },
     {
-      "domain": "kagi.com",
+      "domain": "ecosia.org",
       "count": 30
     },
     {
@@ -58,15 +58,15 @@
       "count": 11
     },
     {
+      "domain": "qwant.com",
+      "count": 10
+    },
+    {
       "domain": "com.slack",
       "count": 10
     },
     {
       "domain": "google.com.tw",
-      "count": 10
-    },
-    {
-      "domain": "qwant.com",
       "count": 10
     },
     {
@@ -1821,6 +1821,12 @@
     },
     {
       "date": "2026-11-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-26",
       "views": 0,
       "comments": 0,
       "reactions": 0

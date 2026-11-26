@@ -1,13 +1,13 @@
 {
   "title": "Faster AWS Console Navigation with Chrome Site Search",
-  "views": 173,
-  "comments": 0,
+  "views": 177,
+  "comments": 1,
   "reactions": 7,
   "org_username": "aws-builders",
   "referrers": [
     {
       "domain": "",
-      "count": 104
+      "count": 105
     },
     {
       "domain": "google.com",
@@ -15,7 +15,7 @@
     },
     {
       "domain": "dev.to",
-      "count": 13
+      "count": 16
     },
     {
       "domain": "brave.com",
@@ -3941,6 +3941,12 @@
     },
     {
       "date": "2026-11-25",
+      "views": 4,
+      "comments": 1,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-26",
       "views": 0,
       "comments": 0,
       "reactions": 0

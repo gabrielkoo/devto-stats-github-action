@@ -4,7 +4,16 @@
   "comments": 0,
   "reactions": 2,
   "org_username": "gabrielkoo",
-  "referrers": [],
+  "referrers": [
+    {
+      "domain": "",
+      "count": 43
+    },
+    {
+      "domain": "dev.to",
+      "count": 1
+    }
+  ],
   "breakdown": [
     {
       "date": "2026-06-19",
@@ -950,6 +959,24 @@
     },
     {
       "date": "2026-11-23",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-24",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-26",
       "views": 0,
       "comments": 0,
       "reactions": 0

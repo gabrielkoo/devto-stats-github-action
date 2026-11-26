@@ -30,11 +30,11 @@
       "count": 61
     },
     {
-      "domain": "claude.ai",
+      "domain": "bing.com",
       "count": 60
     },
     {
-      "domain": "bing.com",
+      "domain": "claude.ai",
       "count": 60
     },
     {
@@ -74,11 +74,11 @@
       "count": 10
     },
     {
-      "domain": "linkedin.com",
+      "domain": "facebook.com",
       "count": 1
     },
     {
-      "domain": "facebook.com",
+      "domain": "linkedin.com",
       "count": 1
     }
   ],
@@ -2941,6 +2941,12 @@
     },
     {
       "date": "2026-11-25",
+      "views": 0,
+      "comments": 0,
+      "reactions": 0
+    },
+    {
+      "date": "2026-11-26",
       "views": 0,
       "comments": 0,
       "reactions": 0
